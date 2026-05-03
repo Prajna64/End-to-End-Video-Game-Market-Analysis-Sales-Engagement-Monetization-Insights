@@ -1,8 +1,8 @@
-# End-to-End-Video-Game-Market-Analysis-Sales-Engagement-Monetization-Insights
-----
+# Video Game Sales & Player Engagement Analysis
+
 
 📌 Project Overview
-
+------
 
 
 This project analyzes the global video game industry by combining sales data and player engagement metrics to uncover meaningful business insights.
@@ -17,7 +17,8 @@ Are there monetization gaps in certain genres?
 The project follows an end-to-end data analytics workflow using SQL and Power BI, making it suitable for real-world business decision-making.
 
 ----
-🎯 Objectives  
+🎯 Objectives
+-----
 Analyze global video game sales trends
 Understand player engagement behavior
 Identify top-performing games, genres, and platforms
@@ -25,7 +26,8 @@ Detect high engagement but low revenue opportunities
 Build interactive dashboards for business insights
 
 --- 
-📊 Dataset Description   
+📊 Dataset Description
+-------
 1️⃣ Sales Dataset (vgsales.csv)   
 
 Contains:
@@ -55,13 +57,15 @@ Monetization gaps
 Strategy insights
 
 ----
-🛠️ Tools & Technologies     
+🛠️ Tools & Technologies  
+------
 - SQL → Data querying & EDA
 - Power BI → Data visualization & dashboards
 - Excel / CSV → Data storage
 - DAX (Power BI) → Measures & KPIs
 -----
 🔍 Exploratory Data Analysis (EDA)   
+------
 A total of 30 EDAs were performed across three stages:   
 
 📌 Engagement Analysis (EDA 1–9)    
@@ -80,7 +84,8 @@ A total of 30 EDAs were performed across three stages:
 - Genre + Platform performance
 - Regional demand by genre
 ----- 
-📊 Dashboards   
+📊 Dashboards 
+-----
  1. Engagement Dashboard   
 Focuses on:  
 
@@ -110,15 +115,17 @@ Focuses on:
 👉 Helps support strategic decision-making   
 
 -------
-💡 Key Insights      
+💡 Key Insights 
+-----
 - A few blockbuster games contribute significantly to total sales
 - Certain genres (like Indie/Strategy combinations) show high engagement but lower sales
 - Platform choice plays a major role in game success
 - North America and Europe dominate global sales markets
 - Engagement metrics (wishlist, plays) can act as early indicators of game performance
 
-  -------
-📈 Business Impact   
+-------
+📈 Business Impact 
+-----
 
 This analysis can help:   
 
@@ -132,17 +139,16 @@ This is an end-to-end data analytics project where I analyzed video game sales a
 
 -------
 
-🚀 Future Improvements   
+🚀 Future Improvements 
+------
 - Add machine learning model for sales prediction
 - Improve data cleaning and genre standardization
 - Deploy dashboards online (Power BI Service)
 
   --------
 👩‍💻 Author    
-
-Prajna C    
+ Prajna C    
 📧 prajnac64@gmail.com    
-
 💻 GitHub: Prajna64    
 
 
