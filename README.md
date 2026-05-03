@@ -1,4 +1,5 @@
 # End-to-End-Video-Game-Market-Analysis-Sales-Engagement-Monetization-Insights
+
 📌 Project Overview
 
 This project analyzes the global video game industry by combining sales data and player engagement metrics to uncover meaningful business insights.
@@ -120,6 +121,19 @@ Game developers → focus on high-engagement genres
 Publishers → optimize pricing and monetization
 Marketing teams → target the right regions and platforms
 Product teams → improve player retention strategies
+📁 Project Structure
+├── data/
+│   ├── games.csv
+│   ├── vgsales.csv
+│
+├── sql/
+│   ├── query_1.sql ... query_9.sql
+│
+├── powerbi/
+│   ├── dashboard.pbix
+│
+├── README.md
+🎤 How to Explain This Project (Short Version)
 
 This is an end-to-end data analytics project where I analyzed video game sales and player engagement data using SQL and Power BI. I performed 30 exploratory analyses and built 3 dashboards focusing on sales, user behavior, and business insights. One key finding was identifying genres with high engagement but low sales, indicating monetization opportunities.
 
@@ -127,11 +141,17 @@ This is an end-to-end data analytics project where I analyzed video game sales a
 Add machine learning model for sales prediction
 Improve data cleaning and genre standardization
 Deploy dashboards online (Power BI Service)
-
 👩‍💻 Author
+
 Prajna C
 📧 prajnac64@gmail.com
+
+🔗 LinkedIn: (add your link)
 💻 GitHub: Prajna64
 
+🔥 EXTRA (IMPORTANT FOR YOU)
+Your GitHub description (short one-liner)
+
+Use this:
 
 End-to-end data analytics project analyzing video game sales and player engagement using SQL & Power BI, with 3 interactive dashboards and 30 EDA insights.
