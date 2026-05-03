@@ -1,0 +1,1513 @@
+title,release_date,rating,times_listed,reviews_count,plays,playing,backlogs,wishlist,genres,team
+Elden Ring,2022-02-25,4.5,3.9,3.9,17.0,3.8,4.6,4.8,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+Hades,2019-12-10,4.3,2.9,2.9,21.0,3.2,6.3,3.6,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Supergiant Games']
+The Legend of Zelda: Breath of the Wild,2017-03-03,4.4,4.3,4.3,30.0,2.5,5.0,2.6,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EPD Production Group No. 3']"
+Undertale,2015-09-15,4.2,3.5,3.5,28.0,679.0,4.9,1.8,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['tobyfox', '8-4']"
+Hollow Knight,2017-02-24,4.4,3.0,3.0,21.0,2.4,8.3,2.3,"['Adventure', 'Indie', 'Platform']",['Team Cherry']
+Minecraft,2011-11-18,4.3,2.3,2.3,33.0,1.8,1.1,230.0,"['Adventure', 'Simulator']",['Mojang Studios']
+Omori,2020-12-25,4.2,1.6,1.6,7.2,1.1,4.5,3.8,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['OMOCAT', 'PLAYISM']"
+Metroid Dread,2021-10-07,4.3,2.1,2.1,9.2,759.0,3.4,3.3,"['Adventure', 'Platform']","['Nintendo', 'MercurySteam']"
+Among Us,2018-06-15,3.0,867.0,867.0,25.0,470.0,776.0,126.0,"['Indie', 'Strategy']",['InnerSloth']
+NieR: Automata,2017-02-23,4.3,2.9,2.9,18.0,1.1,6.2,3.6,"['Brawler', 'RPG']","['PlatinumGames', 'Square Enix']"
+Persona 5 Royal,2019-10-31,4.4,2.7,2.7,12.0,2.3,5.1,3.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus USA', 'Atlus']"
+Stray,2022-07-19,3.7,1.5,1.5,7.7,801.0,2.5,3.4,"['Adventure', 'Indie']","['BlueTwelve Studio', 'Annapurna Interactive']"
+God of War,2018-04-20,4.2,2.9,2.9,21.0,1.1,4.8,2.6,"['Adventure', 'Brawler', 'RPG']","['Sony Interactive Entertainment', 'SIE Santa Monica Studio']"
+Portal 2,2011-04-18,4.4,2.9,2.9,29.0,471.0,3.9,1.2,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Valve', 'Electronic Arts']"
+Bloodborne,2015-03-24,4.5,3.4,3.4,17.0,1.1,5.6,3.3,"['Adventure', 'RPG']","['FromSoftware', 'Sony Computer Entertainment']"
+Celeste,2018-01-25,4.2,2.8,2.8,20.0,1.2,5.9,2.0,"['Adventure', 'Indie', 'Platform']","['Extremely OK Games', 'Maddy Makes Games']"
+Yakuza 0,2015-03-12,4.4,2.7,2.7,15.0,1.8,6.4,2.0,"['Adventure', 'Brawler', 'RPG', 'Simulator']","['Ryū Ga Gotoku Studios', 'Sega']"
+Red Dead Redemption 2,2018-10-26,4.4,2.9,2.9,19.0,1.7,5.5,2.9,"['Adventure', 'RPG', 'Shooter']","['Take-Two Interactive', 'Rockstar Games']"
+Portal,2007-10-10,4.1,2.0,2.0,28.0,244.0,2.7,1.1,"['Platform', 'Puzzle', 'Shooter']","['Valve', 'Electronic Arts']"
+Super Mario Odyssey,2017-10-27,4.2,2.9,2.9,25.0,710.0,2.9,2.0,"['Adventure', 'Platform']",['Nintendo']
+Pokémon Legends: Arceus,2022-01-28,3.7,1.6,1.6,9.1,1.6,2.5,2.1,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Hi-Fi Rush,2023-01-25,4.3,926.0,926.0,3.0,866.0,1.5,2.0,"['Adventure', 'Brawler', 'Music', 'Platform']","['Tango Gameworks', 'Bethesda Softworks']"
+Metal Gear Rising: Revengeance,2013-02-19,4.1,2.1,2.1,14.0,492.0,4.2,2.0,"['Adventure', 'Brawler', 'Shooter', 'Strategy']","['Konami', 'PlatinumGames']"
+Grand Theft Auto V,2013-09-17,3.8,2.1,2.1,30.0,829.0,3.2,664.0,"['Adventure', 'Shooter']","['Rockstar North', 'Rockstar Games']"
+Cyberpunk 2077,2020-12-09,3.3,1.5,1.5,13.0,1.5,4.7,2.9,"['Adventure', 'RPG', 'Shooter']",['CD Projekt RED']
+God of War Ragnarök,2022-11-09,4.4,1.7,1.7,5.3,801.0,2.0,3.3,"['Adventure', 'Brawler']","['Sony Interactive Entertainment', 'SIE Santa Monica Studio']"
+Xenoblade Chronicles 3,2022-07-29,4.4,1.4,1.4,3.9,795.0,2.1,2.2,"['Adventure', 'RPG']","['Monolith Soft', 'Nintendo']"
+Kirby and the Forgotten Land,2022-03-25,4.2,1.6,1.6,5.9,955.0,2.5,3.1,"['Adventure', 'Platform']","['HAL Laboratory', 'Nintendo']"
+Disco Elysium: The Final Cut,2020-05-01,4.6,1.1,1.1,6.0,1.2,5.0,2.7,"['Adventure', 'Indie', 'RPG']",['ZA/UM']
+Marvel's Spider-Man,2018-09-07,4.1,2.5,2.5,21.0,577.0,2.9,2.2,"['Adventure', 'Brawler']","['Insomniac Games', 'Sony Interactive Entertainment']"
+Dark Souls III,2016-03-24,4.2,2.4,2.4,19.0,851.0,4.3,2.2,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+NieR Replicant ver.1.22474487139...,2021-04-22,4.2,1.5,1.5,6.7,880.0,4.1,3.7,"['Adventure', 'RPG']","['Toylogic', 'Square Enix']"
+Super Mario 64,1996-06-23,4.1,2.6,2.6,21.0,463.0,2.5,775.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Super Smash Bros. Ultimate,2018-12-07,4.1,2.5,2.5,25.0,1.2,1.1,801.0,"['Fighting', 'Platform']","['Sora', 'Nintendo']"
+Cuphead,2017-09-29,4.1,1.9,1.9,18.0,1.2,4.5,2.6,"['Arcade', 'Indie', 'Platform', 'Shooter']",['Studio MDHR']
+Sekiro: Shadows Die Twice,2019-03-22,4.4,2.3,2.3,14.0,919.0,4.8,3.4,"['Adventure', 'Brawler']","['FromSoftware', 'Activision']"
+Final Fantasy VII,1997-01-31,4.2,2.9,2.9,15.0,1.1,5.0,1.5,"['Adventure', 'RPG', 'Turn Based Strategy']","['Square', 'Eidos Interactive']"
+Persona 4 Golden,2012-06-15,4.2,1.9,1.9,13.0,1.5,5.2,2.2,"['Adventure', 'RPG', 'Simulator', 'Visual Novel']","['NIS America', 'Atlus']"
+Genshin Impact,2020-09-28,2.6,653.0,653.0,14.0,2.7,1.3,280.0,"['Adventure', 'RPG']","['miHoYo', 'HoYoverse']"
+Signalis,2022-10-27,4.2,820.0,820.0,2.2,419.0,1.9,2.2,"['Adventure', 'Indie']","['rose-engine', 'Humble Games']"
+Resident Evil Village,2021-05-06,3.9,1.8,1.8,9.9,333.0,2.8,2.8,"['Adventure', 'Shooter']",['Capcom']
+Super Mario Galaxy,2007-11-01,4.3,2.7,2.7,21.0,468.0,3.1,1.2,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Fallout: New Vegas,2010-10-19,4.3,2.0,2.0,16.0,756.0,5.0,1.4,"['RPG', 'Shooter']","['Obsidian Entertainment', 'Bandai Namco Entertainment']"
+Outer Wilds,2019-05-28,4.6,1.8,1.8,7.7,661.0,4.8,3.1,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['Mobius Digital', 'Annapurna Interactive']"
+Resident Evil 2,2019-01-25,4.3,2.5,2.5,15.0,585.0,3.6,1.9,"['Adventure', 'Shooter']","['Capcom', 'Capcom Development Division 1']"
+Doom,2016-05-12,4.0,1.8,1.8,18.0,541.0,4.0,1.4,['Shooter'],"['id Software', 'Bethesda Softworks']"
+Shin Megami Tensei V,2021-11-12,3.8,1.1,1.1,4.1,1.0,3.4,2.6,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus', 'Sega']"
+Bayonetta,2009-10-29,3.9,1.7,1.7,13.0,614.0,5.0,2.3,"['Brawler', 'Shooter']","['Nex Entertainment', 'Sega']"
+Stardew Valley,2016-02-26,4.1,1.7,1.7,20.0,2.0,3.6,1.1,"['Indie', 'RPG', 'Simulator', 'Strategy']","['ConcernedApe', 'Chucklefish Games']"
+The Last of Us Part II,2020-06-19,4.1,2.5,2.5,13.0,472.0,2.8,2.5,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Interactive Entertainment']"
+Silent Hill 2,2001-09-24,4.5,2.2,2.2,8.6,282.0,2.9,2.1,"['Adventure', 'Puzzle']","['Team Silent', 'Konami']"
+The Witcher 3: Wild Hunt,2015-05-19,4.3,2.0,2.0,17.0,1.2,6.1,1.6,"['Adventure', 'RPG']","['WB Games', 'CD Projekt RED']"
+Persona 5,2016-09-15,4.1,1.8,1.8,16.0,630.0,2.8,1.7,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus', 'Atlus USA']"
+Doom Eternal,2020-03-19,4.2,1.9,1.9,12.0,738.0,4.6,2.4,['Shooter'],"['Bethesda Softworks', 'id Software']"
+The Elder Scrolls V: Skyrim,2011-11-10,3.7,1.7,1.7,22.0,589.0,3.0,1.0,"['Adventure', 'RPG']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Neon White,2022-06-16,4.1,868.0,868.0,2.9,519.0,1.8,2.3,"['Indie', 'Platform', 'Shooter', 'Visual Novel']","['Ben Esposito', 'Annapurna Interactive']"
+Devil May Cry 5,2019-03-08,4.3,1.9,1.9,12.0,524.0,4.1,2.4,"['Adventure', 'Brawler']","['Capcom', 'Capcom Development Division 1']"
+Overwatch 2,2022-10-04,2.7,491.0,491.0,6.6,1.1,292.0,171.0,['Shooter'],['Blizzard Entertainment']
+Resident Evil 4,2005-01-11,4.3,2.3,2.3,14.0,360.0,3.0,1.2,['Shooter'],"['Capcom', 'Capcom Production Studio 4']"
+Final Fantasy VII Remake,2020-04-10,4.1,2.0,2.0,12.0,898.0,4.2,2.2,"['Adventure', 'RPG']",['Square Enix']
+Sonic Frontiers,2022-11-08,3.6,974.0,974.0,2.9,491.0,1.3,1.8,"['Adventure', 'Platform']","['Sega', 'Sonic Team']"
+Inscryption,2021-10-19,4.1,1.0,1.0,5.4,557.0,2.3,2.3,"['Adventure', 'Card & Board Game', 'Indie', 'Puzzle', 'Strategy']","['Devolver Digital', 'Daniel Mullins Games']"
+Tunic,2022-03-16,3.9,891.0,891.0,3.4,489.0,2.4,2.6,"['Adventure', 'Indie', 'Puzzle', 'RPG']","['Andrew Shouldice', 'Finji']"
+Dark Souls,2011-09-22,4.3,2.1,2.1,14.0,447.0,2.5,1.4,"['Adventure', 'RPG']","['FromSoftware', 'Bandai Namco Entertainment']"
+The Legend of Zelda: Ocarina of Time,1998-11-21,4.3,2.2,2.2,17.0,433.0,3.0,1.4,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD']"
+Deltarune: Chapter 2,2021-09-17,4.3,737.0,737.0,7.5,222.0,2.1,753.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['8-4', 'tobyfox']"
+Chrono Trigger,1995-03-11,4.5,1.9,1.9,9.1,518.0,4.9,2.2,"['Adventure', 'RPG']",['Square']
+Metal Gear Solid 2: Sons of Liberty,2001-11-13,4.4,1.8,1.8,10.0,161.0,2.6,1.4,['Adventure'],"['Konami Computer Entertainment Japan', 'Konami']"
+Super Mario World,1990-11-21,4.2,2.1,2.1,18.0,218.0,1.7,460.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Death Stranding,2019-11-08,3.9,1.6,1.6,9.4,934.0,4.8,2.4,"['Adventure', 'RPG', 'Shooter']","['Sony Interactive Entertainment', 'Kojima Productions']"
+Marvel's Spider-Man: Miles Morales,2020-11-12,3.9,1.6,1.6,9.9,372.0,2.8,2.8,"['Adventure', 'Brawler']","['Insomniac Games', 'Sony Interactive Entertainment']"
+Dark Souls: Remastered,2018-05-23,4.3,1.4,1.4,11.0,786.0,2.6,1.6,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'QLOC']"
+EarthBound,1994-08-27,4.2,1.9,1.9,9.0,600.0,4.8,1.8,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Creatures Inc.']"
+Castlevania: Symphony of the Night,1997-03-20,4.4,1.9,1.9,9.1,316.0,3.4,1.7,"['Adventure', 'Platform', 'RPG']","['Konami', 'Konami Computer Entertainment Tokyo']"
+Super Metroid,1994-03-19,4.3,2.2,2.2,11.0,309.0,3.0,907.0,"['Adventure', 'Platform', 'Shooter']","['Nintendo R&D1', 'Nintendo']"
+Super Mario Bros.,1985-09-13,3.5,1.5,1.5,18.0,59.0,733.0,237.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo R&D4']"
+The Legend of Zelda: Majora's Mask,2000-04-27,4.4,2.2,2.2,13.0,347.0,3.9,1.8,['Adventure'],"['Nintendo', 'Nintendo EAD']"
+Star Wars Jedi: Fallen Order,2019-11-15,3.7,1.4,1.4,13.0,740.0,3.7,1.3,['Adventure'],"['Respawn Entertainment', 'Electronic Arts']"
+The Last of Us,2013-06-14,4.2,2.0,2.0,17.0,205.0,2.0,1.4,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment']"
+Terraria,2011-05-16,4.0,1.3,1.3,18.0,673.0,2.2,593.0,"['Adventure', 'Indie', 'Platform', 'RPG', 'Strategy']","['Re-Logic', 'Headup Games']"
+Resident Evil 7: Biohazard,2017-01-24,3.9,1.8,1.8,13.0,326.0,3.1,1.3,"['Adventure', 'Shooter']",['Capcom']
+Metal Gear Solid V: The Phantom Pain,2015-09-01,3.8,1.5,1.5,14.0,503.0,4.5,1.2,"['Adventure', 'Shooter', 'Tactical']","['Konami', 'Kojima Productions']"
+Overwatch,2016-05-24,3.2,957.0,957.0,19.0,436.0,411.0,214.0,"['Shooter', 'Strategy']","['Blizzard Entertainment', 'Square Enix']"
+Half-Life 2,2004-11-16,4.2,1.7,1.7,15.0,257.0,3.5,1.0,['Shooter'],"['Sierra Entertainment', 'Valve']"
+Fire Emblem: Three Houses,2019-07-25,4.0,1.7,1.7,12.0,1.1,3.5,1.5,"['Adventure', 'RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Grand Theft Auto: San Andreas,2004-10-26,4.1,1.5,1.5,19.0,270.0,2.4,742.0,"['Adventure', 'Racing', 'Shooter']","['Rockstar Games', 'Rockstar North']"
+13 Sentinels: Aegis Rim,2019-11-28,4.4,1.2,1.2,3.7,466.0,3.3,2.5,"['Adventure', 'Simulator', 'Strategy', 'Tactical']","['Vanillaware', 'Atlus USA']"
+Persona 3 FES,2007-04-19,4.1,1.4,1.4,8.4,584.0,2.9,1.5,"['RPG', 'Simulator', 'Visual Novel']","['Atlus', 'Atlus USA']"
+Devil May Cry,2001-08-23,3.5,1.2,1.2,10.0,286.0,2.5,1.1,['Brawler'],"['Capcom Production Studio 4', 'Capcom']"
+Mario Kart 8 Deluxe,2017-04-28,4.0,1.5,1.5,19.0,705.0,781.0,635.0,"['Arcade', 'Racing']","['Nintendo of America', 'Nintendo EPD']"
+Fire Emblem Engage,2023-01-20,3.9,593.0,593.0,1.6,874.0,929.0,1.1,"['Adventure', 'RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Nintendo', 'Intelligent Systems']"
+Pokémon Violet,2022-11-18,3.5,753.0,753.0,3.4,868.0,747.0,750.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Game Freak', 'Nintendo']"
+Hotline Miami,2012-10-23,4.0,1.4,1.4,14.0,217.0,2.4,928.0,"['Arcade', 'Indie', 'Shooter']","['Dennaton Games', 'Devolver Digital']"
+Pizza Tower,2023-01-26,4.5,363.0,363.0,1.2,325.0,777.0,1.3,"['Indie', 'Platform']",['Tour De Pizza']
+Psychonauts 2,2021-08-24,4.2,1.2,1.2,4.3,315.0,2.8,2.3,"['Adventure', 'Platform']","['Xbox Game Studios', 'Double Fine Productions']"
+Metroid Prime Remastered,2023-02-08,4.5,372.0,372.0,1.1,593.0,1.1,1.4,"['Adventure', 'Platform', 'Shooter']","['Nintendo', 'Retro Studios']"
+Halo Infinite,2021-11-15,3.3,972.0,972.0,6.4,632.0,1.6,959.0,"['Adventure', 'Shooter']","['Xbox Game Studios', '343 Industries']"
+Batman: Arkham Asylum,2009-08-25,3.9,1.4,1.4,17.0,232.0,2.3,672.0,"['Adventure', 'Brawler']","['Eidos Interactive', 'Rocksteady Studios']"
+Super Mario Sunshine,2002-07-19,3.7,1.7,1.7,14.0,403.0,3.3,1.0,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Mother 3,2006-04-20,4.5,1.6,1.6,5.7,287.0,3.6,1.9,"['RPG', 'Turn Based Strategy']","['HAL Laboratory', 'Nintendo']"
+MultiVersus,2022-07-19,2.8,480.0,480.0,5.6,341.0,361.0,216.0,['Fighting'],"['Player First Games', 'WB Games']"
+Xenoblade Chronicles: Definitive Edition,2020-05-29,4.3,1.4,1.4,7.4,849.0,3.6,1.9,['RPG'],"['Monolith Soft', 'Nintendo']"
+Half-Life,1998-11-19,4.0,1.3,1.3,13.0,322.0,2.9,892.0,"['Adventure', 'Puzzle', 'Shooter']","['Sierra Entertainment', 'Valve']"
+Marvel's Guardians of the Galaxy,2021-10-26,3.8,1.1,1.1,5.1,432.0,2.1,1.3,"['Adventure', 'RPG', 'Shooter']","['Square Enix', 'Eidos Montréal']"
+Danganronpa: Trigger Happy Havoc,2010-11-25,3.5,1.0,1.0,12.0,311.0,1.9,716.0,"['Adventure', 'Point-and-Click', 'Visual Novel']","['NIS America', 'Spike ChunSoft']"
+Cult of the Lamb,2022-08-11,3.6,589.0,589.0,2.8,546.0,1.6,2.1,"['Adventure', 'Brawler', 'Indie', 'RPG', 'Simulator', 'Strategy']","['Devolver Digital', 'Massive Monster']"
+Sonic Mania,2017-08-15,4.0,1.3,1.3,12.0,399.0,3.5,786.0,"['Adventure', 'Platform']","['PagodaWest Games', 'Sega']"
+Horizon Zero Dawn,2017-02-28,3.6,1.2,1.2,13.0,689.0,4.0,1.4,"['Adventure', 'RPG', 'Shooter']","['Guerrilla Games', 'Sony Interactive Entertainment']"
+Left 4 Dead 2,2009-11-17,3.9,1.1,1.1,19.0,279.0,1.5,358.0,['Shooter'],"['Turtle Rock Studios', 'Valve']"
+League of Legends,2009-10-27,2.1,484.0,484.0,13.0,1.2,324.0,52.0,"['MOBA', 'RPG', 'Strategy']","['GOA Games Services Ltd.', 'Riot Games']"
+Control,2019-08-27,3.6,1.3,1.3,9.6,591.0,5.2,1.3,"['Adventure', 'Shooter']","['505 Games', 'Remedy Entertainment']"
+Doki Doki Literature Club!,2017-09-22,3.3,783.0,783.0,14.0,131.0,1.5,460.0,"['Adventure', 'Indie', 'Visual Novel']",['Team Salvato']
+Batman: Arkham City,2011-10-18,4.1,1.6,1.6,16.0,192.0,2.7,651.0,"['Adventure', 'Brawler']","['DC Entertainment', 'Rocksteady Studios']"
+Yakuza Kiwami,2016-01-21,3.7,1.2,1.2,9.7,439.0,3.4,1.0,"['Adventure', 'Brawler', 'RPG']","['Sega', 'Ryū Ga Gotoku Studios']"
+Phoenix Wright: Ace Attorney,2005-09-15,4.1,1.3,1.3,12.0,418.0,1.9,1.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']","['Nintendo Australia', 'Capcom']"
+Team Fortress 2,2007-10-09,3.9,955.0,955.0,16.0,505.0,532.0,158.0,['Shooter'],"['Electronic Arts', 'Valve']"
+Xenoblade Chronicles 2,2017-12-01,3.9,1.4,1.4,7.4,453.0,2.7,1.5,"['Adventure', 'RPG']","['Monolith Soft', 'Nintendo']"
+Splatoon 3,2022-09-09,4.1,840.0,840.0,3.5,1.0,632.0,1.1,"['Platform', 'Shooter']",['Nintendo']
+Chrome Dino,2014-09-01,3.5,124.0,124.0,14.0,122.0,197.0,35.0,['Arcade'],['Google']
+Katana Zero,2019-04-18,4.1,1.1,1.1,9.3,189.0,2.1,1.5,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Strategy']","['Askiisoft', 'Devolver Digital']"
+Life is Strange,2015-01-29,3.4,1.4,1.4,15.0,209.0,2.1,817.0,"['Adventure', 'RPG']","[""DON'T NOD"", 'Square Enix']"
+Dark Souls II: Scholar of the First Sin,2015-04-02,3.5,988.0,988.0,11.0,443.0,2.7,994.0,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+Deathloop,2021-09-14,3.5,897.0,897.0,4.2,389.0,2.4,1.9,"['Adventure', 'Shooter']","['Bethesda Softworks', 'Arkane Studios']"
+Shadow of the Colossus,2005-10-18,4.4,1.5,1.5,10.0,134.0,2.9,1.7,"['Adventure', 'Platform', 'Puzzle']","['Sony Computer Entertainment, Inc. (SCEI)', 'Team Ico']"
+Teenage Mutant Ninja Turtles: Shredder's Revenge,2022-06-16,3.8,880.0,880.0,3.5,226.0,875.0,829.0,"['Arcade', 'Brawler', 'Indie']","['DotEmu', 'Tribute Games']"
+Sifu,2022-02-08,3.8,633.0,633.0,2.7,283.0,1.7,2.3,"['Brawler', 'Indie']","['Sloclap', 'Kepler Interactive']"
+Super Mario Bros. 3,1988-10-23,4.0,1.6,1.6,14.0,109.0,1.4,362.0,['Platform'],"['Nintendo R&D4', 'Nintendo']"
+Dishonored,2012-10-09,3.9,1.1,1.1,14.0,268.0,3.1,866.0,"['Adventure', 'RPG']","['Arkane Studios', 'Bethesda Softworks']"
+Metal Gear Solid 3: Snake Eater,2004-11-17,4.5,1.5,1.5,9.2,118.0,2.4,1.3,"['Adventure', 'Shooter', 'Tactical']","['Konami Computer Entertainment Japan', 'Konami']"
+Journey,2012-03-13,3.9,1.5,1.5,12.0,94.0,2.7,1.7,"['Adventure', 'Platform']","['Sony Computer Entertainment', 'ThatGameCompany']"
+Kingdom Hearts,2002-03-28,3.6,1.3,1.3,12.0,266.0,2.1,1.0,"['Adventure', 'RPG']","['Square', 'Disney Interactive Studios']"
+Titanfall 2,2016-10-28,4.1,1.3,1.3,12.0,163.0,2.1,656.0,"['Adventure', 'Shooter']","['Respawn Entertainment', 'Electronic Arts']"
+Doom,1993-12-10,4.0,1.4,1.4,11.0,203.0,1.5,514.0,['Shooter'],"['Activision', 'id Software']"
+Live A Live,2022-07-22,4.1,555.0,555.0,1.1,235.0,1.7,1.9,['RPG'],['Square Enix']
+The Last of Us Remastered,2014-07-26,4.3,1.1,1.1,12.0,258.0,1.8,682.0,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment']"
+Sonic the Hedgehog,1991-06-23,3.1,1.1,1.1,12.0,60.0,804.0,243.0,['Platform'],"['Sonic Team', 'Sega']"
+Rocket League,2015-07-06,3.4,917.0,917.0,17.0,564.0,698.0,113.0,"['Indie', 'Racing', 'Sport']",['Psyonix']
+Batman: Arkham Knight,2015-06-23,3.7,1.2,1.2,13.0,279.0,3.4,757.0,"['Adventure', 'Brawler']","['Rocksteady Studios', 'Warner Bros. Interactive Entertainment']"
+Bayonetta 3,2022-10-28,3.7,690.0,690.0,1.6,235.0,1.6,2.2,['Brawler'],"['PlatinumGames', 'Nintendo']"
+Disco Elysium,2019-10-15,4.6,1.1,1.1,4.0,478.0,2.8,1.9,"['Adventure', 'RPG', 'Turn Based Strategy']",['ZA/UM']
+Guilty Gear: Strive,2021-06-11,3.9,810.0,810.0,5.5,713.0,805.0,1.2,['Fighting'],"['Bandai Namco Studios', 'Arc System Works']"
+Wii Sports,2006-11-19,3.7,775.0,775.0,18.0,39.0,320.0,93.0,"['Simulator', 'Sport']","['Nintendo', 'Nintendo EAD Group No. 2']"
+Hogwarts Legacy,2023-02-10,3.5,474.0,474.0,1.4,766.0,686.0,1.6,"['Adventure', 'RPG']","['Portkey Games', 'Avalanche Software']"
+Mario Kart Wii,2008-04-10,3.9,1.0,1.0,19.0,88.0,461.0,168.0,['Racing'],"['Nintendo', 'Nintendo EAD']"
+Resident Evil 3,2020-04-03,3.2,1.3,1.3,8.4,157.0,2.4,1.6,"['Adventure', 'Shooter']","['K2', 'Capcom']"
+Unpacking,2021-11-02,3.6,751.0,751.0,4.9,216.0,996.0,1.3,"['Indie', 'Point-and-Click', 'Puzzle', 'Simulator']","['Witch Beam', 'Humble Games']"
+Red Dead Redemption,2010-05-18,4.2,1.5,1.5,13.0,218.0,2.4,1.6,"['Adventure', 'RPG', 'Shooter']","['Rockstar Games', 'Rockstar North']"
+Tales of Arise,2021-09-10,3.6,650.0,650.0,3.1,571.0,2.3,1.9,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'Bandai Namco Studios']"
+Deltarune: Chapter 1,2018-10-31,3.9,591.0,591.0,11.0,107.0,1.8,729.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['8-4', 'tobyfox']"
+Dead Space,2023-01-27,4.3,501.0,501.0,1.3,248.0,985.0,1.9,"['Adventure', 'RPG', 'Shooter']","['Motive Studios', 'Electronic Arts']"
+Tomb Raider,2013-03-04,3.5,896.0,896.0,15.0,175.0,2.7,508.0,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Square Enix', 'Crystal Dynamics']"
+Super Mario Galaxy 2,2010-05-23,4.3,1.8,1.8,13.0,123.0,2.5,1.3,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Donkey Kong Country,1994-11-18,3.9,1.3,1.3,11.0,186.0,1.9,514.0,"['Adventure', 'Platform']",['Rare']
+What Remains of Edith Finch,2017-04-24,4.0,1.4,1.4,8.6,61.0,2.2,1.3,"['Adventure', 'Indie', 'Puzzle']","['Annapurna Interactive', 'Giant Sparrow']"
+Monster Hunter Rise,2021-03-26,4.0,789.0,789.0,5.7,1.1,1.8,1.3,"['Adventure', 'Brawler', 'RPG']","['Capcom', 'Capcom Development Division 2']"
+Pokémon Emerald,2004-09-16,4.0,1.2,1.2,16.0,219.0,1.0,376.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+NEO: The World Ends with You,2021-07-26,4.2,725.0,725.0,2.5,357.0,2.4,2.0,"['Brawler', 'RPG']",['Square Enix']
+Assassin's Creed II,2009-11-17,3.8,1.3,1.3,16.0,140.0,1.5,521.0,"['Adventure', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Pokémon Scarlet,2022-11-18,3.5,596.0,596.0,2.6,580.0,489.0,496.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Dead Space,2008-10-14,4.0,1.2,1.2,9.6,302.0,2.7,1.1,['Shooter'],"['EA Redwood Shores', 'Electronic Arts']"
+New Super Mario Bros.,2006-05-15,3.5,991.0,991.0,16.0,108.0,824.0,287.0,"['Adventure', 'Platform']",['Nintendo']
+Shadow of the Colossus,2018-02-06,4.1,1.1,1.1,7.8,242.0,3.2,1.6,"['Adventure', 'Platform', 'Puzzle']","['Sony Interactive Entertainment', 'Bluepoint Games']"
+Horizon Forbidden West,2022-02-18,3.8,830.0,830.0,2.7,561.0,2.1,2.3,"['Adventure', 'RPG']","['Guerrilla Games', 'Sony Interactive Entertainment']"
+God of War,2005-03-22,3.6,981.0,981.0,11.0,158.0,1.5,896.0,"['Adventure', 'Brawler', 'Strategy']","['SCE Santa Monica Studio', 'Sony Computer Entertainment']"
+Detroit: Become Human,2018-05-25,3.5,1.0,1.0,11.0,216.0,2.2,1.3,"['Adventure', 'Puzzle']","['Quantic Dream', 'Sony Interactive Entertainment']"
+Final Fantasy XV,2016-11-29,3.3,1.1,1.1,11.0,374.0,3.2,1.1,"['Adventure', 'RPG']",['Square Enix']
+Persona 5 Strikers,2020-02-20,3.7,993.0,993.0,5.1,779.0,3.6,1.6,"['Adventure', 'Brawler', 'RPG']","['Omega Force', 'Sega']"
+Limbo,2010-07-21,3.5,965.0,965.0,13.0,129.0,2.2,852.0,"['Adventure', 'Indie', 'Platform', 'Puzzle']","['Microsoft Game Studios', 'Playdead']"
+Pokémon Platinum,2008-09-13,4.1,1.4,1.4,14.0,254.0,1.3,461.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Stranger of Paradise: Final Fantasy Origin,2022-03-18,3.6,607.0,607.0,1.6,180.0,1.3,1.4,"['Adventure', 'RPG']","['Team NINJA', 'Square Enix']"
+Killer7,2005-06-09,4.3,1.2,1.2,2.8,237.0,2.5,1.3,"['Adventure', 'Shooter']","['Capcom', 'Grasshopper Manufacture']"
+Grand Theft Auto IV,2008-04-29,3.8,1.1,1.1,14.0,258.0,1.9,721.0,"['Adventure', 'Racing', 'Shooter']","['Rockstar North', 'Rockstar Games']"
+Metroid: Zero Mission,2004-02-09,4.0,1.2,1.2,7.5,148.0,1.5,700.0,"['Adventure', 'Platform', 'Shooter']","['Nintendo R&D1', 'Nintendo']"
+Final Fantasy X,2001-07-19,4.1,1.5,1.5,8.5,330.0,2.9,990.0,"['Adventure', 'RPG']","['Square Electronic Arts', 'Square']"
+Danganronpa 2: Goodbye Despair,2012-07-26,3.9,972.0,972.0,9.9,288.0,1.8,605.0,"['Adventure', 'Point-and-Click', 'Visual Novel']","['NIS America', 'Spike ChunSoft']"
+Final Fantasy IX,2000-07-07,4.3,1.6,1.6,6.8,350.0,3.6,1.2,"['RPG', 'Turn Based Strategy']","['Square', 'Square Electronic Arts']"
+Halo 3,2007-09-25,4.2,1.6,1.6,12.0,101.0,1.5,528.0,['Shooter'],"['Bungie', 'Microsoft Game Studios']"
+Metroid Fusion,2002-11-17,4.0,1.3,1.3,7.9,146.0,2.0,799.0,"['Adventure', 'Platform', 'Shooter']","['Nintendo', 'Nintendo R&D1']"
+Final Fantasy VI,1994-04-02,4.4,1.6,1.6,6.1,312.0,3.3,1.3,"['Adventure', 'RPG']","['Square Enix', 'Square']"
+VA-11 Hall-A: Cyberpunk Bartender Action,2016-06-21,4.1,940.0,940.0,5.4,469.0,2.8,1.5,"['Adventure', 'Indie', 'Simulator', 'Visual Novel']","['Ysbryd Games', 'SUKEBAN']"
+Dead Cells,2018-08-06,3.8,802.0,802.0,9.2,737.0,2.8,1.4,"['Adventure', 'Indie', 'Platform']",['Motion Twin']
+Far Cry 3,2012-11-28,3.7,983.0,983.0,14.0,188.0,1.9,660.0,"['Adventure', 'Shooter']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+The Stanley Parable: Ultra Deluxe,2022-04-27,4.1,592.0,592.0,3.2,141.0,1.1,1.3,"['Adventure', 'Simulator']",['Crows Crows Crows']
+SuperHot,2016-02-25,3.7,835.0,835.0,12.0,95.0,1.7,842.0,"['Fighting', 'Indie', 'Puzzle', 'Shooter', 'Tactical']","['IMGN.PRO', 'SUPERHOT Team']"
+Plants vs. Zombies,2009-05-05,3.7,719.0,719.0,14.0,117.0,493.0,82.0,"['Puzzle', 'Real Time Strategy', 'Simulator', 'Strategy', 'Tactical']",['PopCap Games']
+Ori and the Blind Forest,2015-03-11,3.9,780.0,780.0,7.9,260.0,2.9,1.4,"['Adventure', 'Platform', 'Puzzle']","['Moon Studios', 'Microsoft Studios']"
+Demon's Souls,2020-11-12,3.9,880.0,880.0,4.1,403.0,2.4,2.1,"['Adventure', 'RPG']","['Bluepoint Games', 'Sony Interactive Entertainment']"
+A Plague Tale: Innocence,2019-05-14,3.7,852.0,852.0,5.4,202.0,2.6,1.0,"['Adventure', 'RPG']","['Focus Entertainment', 'Asobo Studio']"
+The Legend of Zelda: Link's Awakening,2019-09-20,3.9,1.1,1.1,7.6,387.0,2.8,2.0,['Adventure'],"['Nintendo', 'Grezzo']"
+Assassin's Creed,2007-11-13,2.9,801.0,801.0,13.0,118.0,1.2,496.0,"['Adventure', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Judgment,2018-12-13,4.1,890.0,890.0,3.1,358.0,2.3,1.6,"['Adventure', 'RPG']","['Sega Games', 'Ryu ga Gotoku Studios']"
+Call of Duty: Black Ops,2010-11-09,3.7,920.0,920.0,14.0,44.0,611.0,318.0,['Shooter'],"['Activision', 'Treyarch']"
+Ratchet & Clank: Rift Apart,2021-06-11,4.0,906.0,906.0,3.7,218.0,1.5,1.7,"['Adventure', 'Platform', 'Shooter']","['Sony Interactive Entertainment', 'Insomniac Games']"
+Pokémon Black,2010-09-18,4.0,1.0,1.0,12.0,186.0,1.1,461.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+The Stanley Parable,2013-10-17,3.8,767.0,767.0,10.0,46.0,1.3,833.0,"['Adventure', 'Indie']",['Galactic Cafe']
+The Legend of Zelda,1986-02-21,3.2,1.2,1.2,9.3,132.0,1.5,463.0,['Adventure'],"['Nintendo EAD', 'Nintendo']"
+AI: The Somnium Files - Nirvana Initiative,2022-06-23,3.9,455.0,455.0,1.5,139.0,835.0,811.0,"['Adventure', 'Puzzle', 'Visual Novel']",['Spike ChunSoft']
+Ghost Trick: Phantom Detective,2010-06-19,4.4,830.0,830.0,3.6,149.0,1.8,1.2,"['Adventure', 'Puzzle']",['Capcom']
+Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,2019-09-27,4.2,880.0,880.0,4.7,748.0,3.1,1.2,"['Adventure', 'RPG']",['Square Enix']
+Paper Mario: The Thousand-Year Door,2004-07-22,4.4,1.3,1.3,6.7,187.0,2.9,1.5,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Intelligent Systems Co., Ltd.']"
+God of War II,2007-03-13,4.0,936.0,936.0,9.3,89.0,1.3,687.0,"['Adventure', 'Brawler', 'Platform']","['Sony Computer Entertainment, Inc. (SCEI)', 'SIE Santa Monica Studio']"
+Mass Effect 2,2010-01-26,4.3,1.3,1.3,9.6,107.0,1.9,645.0,"['Adventure', 'RPG', 'Shooter']","['BioWare', 'Electronic Arts']"
+Forza Horizon 5,2021-11-09,3.8,589.0,589.0,4.6,589.0,712.0,594.0,['Racing'],"['Playground Games', 'Xbox Game Studios']"
+Metal Gear Solid V: Ground Zeroes,2014-03-18,3.3,650.0,650.0,9.5,53.0,1.7,549.0,"['Adventure', 'RPG', 'Shooter', 'Strategy']","['Konami', 'Kojima Productions']"
+No More Heroes III,2021-08-27,3.9,604.0,604.0,1.6,109.0,1.5,1.4,['Brawler'],['Grasshopper Manufacture']
+Banjo-Kazooie,1998-06-29,4.0,1.2,1.2,7.4,205.0,2.1,765.0,"['Adventure', 'Platform']","['Microsoft Game Studios', 'Rare']"
+Astro's Playroom,2020-11-12,4.0,914.0,914.0,5.7,82.0,358.0,249.0,"['Adventure', 'Platform']","['SIE Japan Studio', 'Sony Interactive Entertainment']"
+Call of Duty: Black Ops II,2012-11-12,3.8,903.0,903.0,13.0,57.0,626.0,286.0,['Shooter'],"['Treyarch', 'Activision']"
+The Legend of Zelda: Skyward Sword HD,2021-07-16,3.8,639.0,639.0,3.7,444.0,2.3,1.3,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+Mega Man X,1993-12-17,4.1,1.2,1.2,6.9,76.0,1.1,385.0,"['Adventure', 'Platform', 'Shooter']","['Rozner Labs Software Group', 'Nintendo']"
+Subnautica,2018-01-23,3.8,712.0,712.0,7.2,335.0,2.9,944.0,"['Adventure', 'Indie']","['Gearbox Publishing', 'Unknown Worlds Entertainment']"
+Returnal,2021-04-30,4.0,725.0,725.0,2.4,430.0,1.8,1.6,['Shooter'],"['Housemarque', 'Sony Interactive Entertainment']"
+New Super Mario Bros. Wii,2009-11-12,3.5,859.0,859.0,13.0,85.0,696.0,241.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Citizen Sleeper,2022-05-05,4.1,492.0,492.0,1.2,131.0,916.0,804.0,"['Adventure', 'Indie', 'RPG']","['Fellow Traveller', 'Jump Over The Age']"
+Yakuza 3 Remastered,2018-08-09,3.3,755.0,755.0,4.3,235.0,2.3,904.0,"['Adventure', 'RPG', 'Simulator']",['Ryū Ga Gotoku Studios']
+Garry's Mod,2004-12-24,3.8,478.0,478.0,12.0,198.0,543.0,242.0,"['Indie', 'Simulator']","['Facepunch Studios', 'Valve']"
+Wolfenstein: The New Order,2014-05-20,3.6,794.0,794.0,8.4,149.0,2.2,722.0,"['Adventure', 'Shooter']","['MachineGames', 'Bethesda Softworks']"
+Deus Ex,2000-06-26,4.4,899.0,899.0,3.8,189.0,2.7,958.0,"['RPG', 'Shooter']","['Aspyr Media', 'Ion Storm']"
+BioShock 2,2010-02-09,3.6,687.0,687.0,9.1,103.0,3.3,691.0,"['Adventure', 'RPG', 'Shooter']","['2K Marin', '2K Games']"
+Soul Hackers 2,2022-08-25,3.1,337.0,337.0,750.0,228.0,932.0,1.1,['RPG'],"['Sega', 'Atlus']"
+Enter the Gungeon,2016-04-05,3.6,632.0,632.0,8.9,403.0,2.4,441.0,"['Adventure', 'Arcade', 'Indie', 'Shooter']","['Dodge Roll', 'Devolver Digital']"
+The House in Fata Morgana,2012-12-27,4.4,544.0,544.0,1.7,250.0,1.5,1.3,"['Adventure', 'Indie', 'Visual Novel']","['Dramatic Create', 'NOVECT']"
+Shovel Knight,2014-06-26,4.0,761.0,761.0,8.5,135.0,1.9,1.2,"['Adventure', 'Indie', 'Platform']",['Yacht Club Games']
+Firewatch,2016-02-09,3.7,926.0,926.0,7.8,99.0,1.6,1.2,"['Adventure', 'Indie']","['Panic', 'Campo Santo']"
+Dark Souls II,2014-03-11,3.3,815.0,815.0,6.7,128.0,1.4,834.0,"['Adventure', 'RPG']","['FromSoftware', 'Bandai Namco Entertainment']"
+Blasphemous,2019-09-10,3.7,647.0,647.0,4.2,399.0,2.6,1.0,"['Adventure', 'Brawler', 'Indie', 'Platform', 'RPG']","['The Game Kitchen', 'Team17']"
+Final Fantasy XIV Online,2013-08-27,3.7,643.0,643.0,5.9,1.1,818.0,363.0,"['Adventure', 'RPG', 'Strategy']",['Square Enix']
+Immortality,2022-08-30,3.9,461.0,461.0,1.2,95.0,587.0,564.0,"['Indie', 'Point-and-Click', 'Simulator']",['Half Mermaid']
+Resident Evil 6,2012-10-02,2.5,888.0,888.0,7.8,189.0,1.8,552.0,"['Adventure', 'Shooter']",['Capcom']
+Devil May Cry 3: Dante's Awakening,2005-02-17,4.2,909.0,909.0,6.1,116.0,1.6,648.0,"['Adventure', 'Brawler', 'Shooter']","['Capcom', 'Capcom Production Studio 1']"
+The Last of Us Part I,2022-09-01,4.4,395.0,395.0,1.4,131.0,678.0,1.1,"['Adventure', 'Shooter']","['Sony Interactive Entertainment', 'Naughty Dog']"
+Super Meat Boy,2010-10-20,3.5,605.0,605.0,10.0,153.0,1.8,501.0,"['Adventure', 'Indie', 'Platform']","['BlitWorks', 'Team Meat']"
+Mass Effect Legendary Edition,2021-05-14,4.5,581.0,581.0,2.8,596.0,2.4,930.0,"['Adventure', 'RPG', 'Shooter', 'Strategy']","['BioWare', 'EA']"
+Helltaker,2020-05-11,3.3,419.0,419.0,7.5,59.0,1.1,445.0,"['Adventure', 'Indie', 'Puzzle']",['Vanripper']
+Pokémon Sword,2019-11-15,2.9,837.0,837.0,9.7,301.0,924.0,500.0,"['Adventure', 'RPG']","['Game Freak', 'Nintendo']"
+Crash Bandicoot N. Sane Trilogy,2017-06-30,3.8,654.0,654.0,7.7,364.0,2.6,986.0,"['Adventure', 'Platform']","['Activision', 'Vicarious Visions']"
+Tetris,1989-11-01,4.1,688.0,688.0,9.6,54.0,175.0,66.0,"['Arcade', 'Puzzle']",['Nintendo']
+Valorant,2020-06-02,2.5,291.0,291.0,8.2,650.0,291.0,110.0,"['Shooter', 'Tactical']",['Riot Games']
+Super Mario 3D World,2013-11-21,3.9,1.1,1.1,9.6,93.0,787.0,432.0,"['Adventure', 'Platform']",['Nintendo']
+Uncharted 3: Drake's Deception,2011-11-01,3.6,941.0,941.0,11.0,60.0,1.5,477.0,"['Adventure', 'Platform', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Phoenix Wright: Ace Attorney - Trials and Tribulations,2006-03-31,4.4,995.0,995.0,6.6,172.0,1.6,623.0,"['Adventure', 'Visual Novel']",['Capcom']
+Yume Nikki,2004-06-26,4.0,770.0,770.0,4.0,155.0,1.6,771.0,"['Adventure', 'Indie']","['Kikiyama', 'DeNA Co., Ltd.']"
+Max Payne,2001-07-23,3.9,786.0,786.0,6.3,102.0,1.5,742.0,['Shooter'],"['Gathering of Developers', 'Remedy Entertainment']"
+Five Nights at Freddy's,2014-08-08,2.9,460.0,460.0,8.4,46.0,393.0,166.0,"['Adventure', 'Indie', 'Point-and-Click', 'Simulator', 'Strategy']","['Clickteam', 'Scottgames']"
+Donkey Kong Country 2: Diddy's Kong Quest,1995-11-21,4.2,1.2,1.2,6.6,115.0,1.6,455.0,"['Adventure', 'Platform']","['Nintendo', 'Rare']"
+Pokémon White,2010-09-18,4.1,814.0,814.0,9.0,115.0,705.0,270.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Outlast,2013-09-04,3.3,547.0,547.0,7.5,90.0,1.4,401.0,"['Adventure', 'Indie']",['Red Barrels']
+Hitman 3,2021-01-20,4.1,702.0,702.0,3.3,242.0,1.5,1.2,"['Adventure', 'Shooter', 'Tactical']",['IO Interactive']
+Sable,2021-09-23,3.5,433.0,433.0,1.3,165.0,1.4,1.1,"['Adventure', 'Indie', 'Platform', 'Puzzle', 'RPG']","['Raw Fury', 'Shedworks']"
+Super Smash Bros. for Wii U,2014-11-21,3.5,684.0,684.0,11.0,17.0,240.0,110.0,"['Fighting', 'Platform']","['Sora', 'Nintendo']"
+Kirby's Adventure,1993-03-23,3.6,718.0,718.0,6.0,61.0,690.0,217.0,['Platform'],"['HAL Laboratory', 'Nintendo']"
+Tekken 7,2015-02-18,3.8,663.0,663.0,6.6,247.0,670.0,354.0,['Fighting'],"['Bandai Namco Entertainment', 'Bandai Namco Studios']"
+Umineko: When They Cry Chiru,2009-09-15,4.6,324.0,324.0,1.7,108.0,582.0,493.0,"['Adventure', 'Visual Novel']",['07th Expansion']
+Kingdom Hearts II Final Mix,2007-03-29,4.5,704.0,704.0,4.4,92.0,732.0,274.0,"['Adventure', 'Brawler', 'Platform', 'RPG', 'Shooter']","['Buena Vista Games', 'Square Enix']"
+Superliminal,2019-11-12,3.6,487.0,487.0,3.8,76.0,1.0,917.0,"['Adventure', 'Indie', 'Puzzle', 'Shooter']",['Pillow Castle Games']
+Death Stranding: Director's Cut,2021-09-24,4.2,334.0,334.0,1.3,382.0,1.5,704.0,['Adventure'],"['Kojima Productions', '505 Games']"
+Persona 4,2008-07-10,4.0,815.0,815.0,5.7,158.0,1.0,599.0,"['RPG', 'Simulator', 'Visual Novel']","['Atlus', 'NIS America']"
+Wordle,2021-06-21,3.2,118.0,118.0,3.0,125.0,26.0,5.0,"['Puzzle', 'Quiz/Trivia']","['Josh Wardle', 'The New York Times']"
+The Sims 4,2014-09-02,3.0,458.0,458.0,8.3,434.0,667.0,110.0,"['RPG', 'Simulator']","['Electronic Arts', 'The Sims Studio']"
+Far Cry 4,2014-11-18,3.2,558.0,558.0,8.5,90.0,1.3,442.0,"['Adventure', 'Shooter', 'Tactical']",['Ubisoft Montreal']
+Sonic Forces,2017-11-07,1.9,650.0,650.0,5.0,42.0,723.0,212.0,"['Adventure', 'Platform', 'Strategy']","['Sega', 'Sonic Team']"
+To the Moon,2011-11-01,3.9,671.0,671.0,4.7,66.0,1.6,925.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle', 'RPG']","['Freebird Games', 'X.D. Network Inc.']"
+Baba is You,2019-03-13,4.0,545.0,545.0,4.6,537.0,2.0,1.2,"['Indie', 'Puzzle', 'Strategy']",['hempuli']
+The Witcher 3: Wild Hunt - Game of the Year Edition,2016-08-29,4.5,475.0,475.0,6.0,410.0,2.1,467.0,"['Adventure', 'RPG']","['CD Projekt RED', 'CD Projekt']"
+Super Smash Bros.,1999-01-21,3.4,688.0,688.0,9.8,20.0,279.0,207.0,"['Fighting', 'Platform']","['Nintendo', 'HAL Laboratory']"
+Super Mario 64 DS,2004-11-21,3.6,614.0,614.0,9.1,65.0,549.0,176.0,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Halo 4,2012-11-06,3.0,674.0,674.0,7.6,57.0,1.2,277.0,['Shooter'],"['343 Industries', 'Microsoft Studios']"
+Middle-earth: Shadow of Mordor,2014-09-30,3.4,524.0,524.0,8.4,106.0,1.7,478.0,"['Adventure', 'Brawler', 'RPG']","['Monolith Productions', 'WB Games']"
+Mega Man 2,1989-06-02,3.6,857.0,857.0,6.1,34.0,542.0,163.0,"['Adventure', 'Platform']",['Capcom']
+Phoenix Wright: Ace Attorney Trilogy,2014-04-17,4.3,516.0,516.0,4.0,644.0,1.9,779.0,"['Adventure', 'Puzzle', 'Simulator', 'Visual Novel']",['Capcom']
+Infamous: Second Son,2014-03-21,3.4,668.0,668.0,7.6,71.0,1.3,574.0,"['Adventure', 'Platform', 'Shooter']","['Sony Computer Entertainment', 'Sucker Punch Productions']"
+Star Wars: Knights of the Old Republic,2003-07-15,4.2,839.0,839.0,5.3,180.0,2.3,705.0,"['Adventure', 'RPG']","['BioWare', 'LucasArts']"
+No More Heroes 2: Desperate Struggle,2010-01-26,3.5,608.0,608.0,3.2,68.0,1.5,855.0,"['Adventure', 'Brawler']","['Ubisoft Entertainment', 'Grasshopper Manufacture']"
+Kirby Super Star Ultra,2008-09-22,4.3,743.0,743.0,5.8,47.0,773.0,427.0,"['Adventure', 'Platform']","['Nintendo of Europe', 'HAL Laboratory']"
+"Flower, Sun, and Rain",2001-05-02,4.3,466.0,466.0,632.0,32.0,1.0,1.1,"['Adventure', 'Puzzle']","['Grasshopper Manufacture', 'Victor Interactive Software']"
+Katamari Damacy,2004-03-18,4.2,939.0,939.0,4.1,60.0,1.0,761.0,"['Adventure', 'Puzzle']","['Namco', 'NOW Production']"
+Shadow the Hedgehog,2005-11-15,2.4,584.0,584.0,5.6,45.0,731.0,423.0,"['Adventure', 'Platform', 'Shooter']","['Sega', 'Sonic Team']"
+Ōkami HD,2012-10-30,4.2,527.0,527.0,3.3,321.0,3.1,1.2,"['Adventure', 'RPG']","['Clover Studio', 'Capcom']"
+Metroid: Samus Returns,2017-09-15,3.6,674.0,674.0,3.9,149.0,1.4,686.0,"['Adventure', 'Platform']","['MercurySteam', 'Nintendo']"
+Life is Strange: True Colors,2021-09-10,3.6,566.0,566.0,2.3,126.0,852.0,1.1,['Adventure'],"['Deck Nine', 'Square Enix']"
+Pokémon Black Version 2,2012-06-23,4.2,776.0,776.0,7.6,130.0,1.1,449.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Game Freak', 'Nintendo']"
+Needy Streamer Overload,2022-01-21,3.5,216.0,216.0,1.2,105.0,529.0,567.0,"['Adventure', 'Indie', 'Point-and-Click', 'RPG', 'Simulator', 'Visual Novel']","['Nintendo', 'WSS playground']"
+Borderlands,2009-10-20,3.1,484.0,484.0,9.1,98.0,1.2,450.0,"['RPG', 'Shooter']","['2K Games', 'Gearbox Software']"
+Hollow Knight: Voidheart Edition,2018-09-25,4.5,462.0,462.0,3.9,295.0,1.3,363.0,"['Adventure', 'Indie', 'Platform']",['Team Cherry']
+Klonoa: Door to Phantomile,1997-12-11,4.1,648.0,648.0,2.2,63.0,877.0,590.0,['Platform'],['Namco']
+Shadow of the Tomb Raider,2018-09-14,3.3,522.0,522.0,4.8,161.0,2.8,701.0,"['Adventure', 'Shooter']","['Eidos Montréal', 'Square Enix']"
+Mario & Luigi: Bowser's Inside Story,2009-09-14,4.2,837.0,837.0,6.6,95.0,1.5,629.0,"['Platform', 'RPG']","['Nintendo', 'AlphaDream']"
+Ghostrunner,2020-10-27,3.5,486.0,486.0,3.3,170.0,1.7,783.0,"['Adventure', 'Platform', 'Shooter']","['One More Level', 'All In! Games']"
+Watch Dogs 2,2016-11-15,3.3,554.0,554.0,6.6,125.0,1.9,453.0,"['Adventure', 'Shooter']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Mass Effect 3,2012-03-06,3.7,777.0,777.0,7.3,79.0,1.5,482.0,"['Adventure', 'RPG', 'Shooter']","['BioWare Edmonton', 'Electronic Arts']"
+Goat Simulator,2014-04-01,2.4,337.0,337.0,8.4,22.0,492.0,125.0,"['Adventure', 'Indie', 'Simulator']",['Coffee Stain Studios']
+The Elder Scrolls V: Skyrim - Special Edition,2016-10-27,4.0,439.0,439.0,6.5,374.0,1.3,319.0,"['Adventure', 'RPG']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Far Cry 5,2018-03-26,3.0,558.0,558.0,6.6,169.0,1.2,470.0,"['Adventure', 'Shooter']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+Call of Duty: Modern Warfare 3,2011-11-08,3.2,587.0,587.0,10.0,27.0,492.0,195.0,"['Adventure', 'Shooter', 'Tactical']","['Sledgehammer Games', 'Activision']"
+Friday Night Funkin',2020-11-01,2.8,203.0,203.0,4.5,67.0,230.0,171.0,['Music'],['ninja_muffin99']
+Osu!,2007-09-16,3.1,187.0,187.0,7.3,426.0,234.0,90.0,"['Indie', 'Music']","['Dean ""ppy"" Herbert']"
+The Legend of Zelda: Twilight Princess,2006-11-19,4.1,642.0,642.0,6.0,82.0,1.1,466.0,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+Bloodborne: The Old Hunters,2015-11-24,4.6,266.0,266.0,4.4,68.0,930.0,616.0,"['Adventure', 'RPG']","['FromSoftware', 'Sony Computer Entertainment']"
+Fire Emblem Warriors: Three Hopes,2022-06-24,3.6,360.0,360.0,1.1,305.0,761.0,576.0,"['Brawler', 'RPG', 'Simulator', 'Strategy', 'Tactical']","['Nintendo', 'Omega Force']"
+Super Smash Bros. for Nintendo 3DS,2014-09-13,3.3,545.0,545.0,10.0,23.0,273.0,96.0,['Fighting'],"['Nintendo', 'Sora']"
+The Legend of Heroes: Trails to Azure,2011-09-29,4.5,519.0,519.0,1.4,72.0,714.0,701.0,"['Adventure', 'RPG', 'Strategy', 'Turn Based Strategy']",['Nihon Falcom']
+Super Mario RPG: Legend of the Seven Stars,1996-03-09,4.0,832.0,832.0,4.4,133.0,2.3,858.0,"['Adventure', 'Platform', 'RPG']","['Square', 'Nintendo']"
+Astral Chain,2019-08-30,3.6,568.0,568.0,3.6,210.0,2.3,1.4,"['Adventure', 'Brawler']","['PlatinumGames', 'Nintendo']"
+DmC: Devil May Cry,2013-01-15,3.0,432.0,432.0,6.3,62.0,1.2,448.0,"['Adventure', 'Brawler']","['Ninja Theory', 'Capcom']"
+Dragon Age: Origins,2009-11-03,4.0,712.0,712.0,6.1,148.0,1.7,534.0,['RPG'],"['Electronic Arts', 'BioWare']"
+Vagrant Story,2000-02-10,4.0,503.0,503.0,1.0,59.0,1.6,889.0,"['Adventure', 'RPG']","['Square', '(Archive) Square Product Development Division 4']"
+Amnesia: The Dark Descent,2010-09-08,3.5,525.0,525.0,4.7,86.0,1.8,407.0,"['Adventure', 'Indie', 'Puzzle']",['Frictional Games']
+Monster Hunter Rise: Sunbreak,2022-06-29,4.3,217.0,217.0,1.1,267.0,327.0,242.0,"['Brawler', 'RPG']",['Capcom']
+Super Mario Maker 2,2019-06-28,3.7,689.0,689.0,6.6,114.0,623.0,459.0,['Platform'],"['Nintendo EPD', 'Nintendo']"
+Fire Emblem: The Blazing Blade,2003-04-25,3.7,609.0,609.0,3.9,158.0,1.2,401.0,"['RPG', 'Strategy', 'Tactical']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+LEGO Marvel Super Heroes,2013-09-30,3.6,522.0,522.0,6.0,65.0,592.0,126.0,"['Adventure', 'Brawler', 'Puzzle']","['WB Games', ""Traveller's Tales""]"
+Sonic Colors,2010-11-11,3.4,609.0,609.0,5.1,44.0,690.0,342.0,"['Adventure', 'Platform']","['SEGA of America', 'Sonic Team']"
+Pokémon Moon,2016-11-18,3.3,648.0,648.0,7.9,75.0,653.0,234.0,"['Adventure', 'RPG', 'Strategy', 'Turn Based Strategy']","['The Pokémon Company', 'Game Freak']"
+Zelda II: The Adventure of Link,1987-01-14,2.6,756.0,756.0,4.5,55.0,1.1,290.0,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD']"
+Battlefield 4,2013-10-29,3.5,431.0,431.0,7.1,72.0,506.0,124.0,['Shooter'],"['EA Digital Illusions CE', 'Electronic Arts']"
+Dragon Ball Z: Budokai Tenkaichi 3,2007-10-04,3.9,435.0,435.0,6.6,32.0,278.0,135.0,['Fighting'],"['Namco Bandai Games', 'Spike']"
+WarioWare: Get It Together!,2021-09-09,3.5,399.0,399.0,2.2,59.0,460.0,636.0,['Arcade'],"['Intelligent Systems', 'Nintendo']"
+Beyond: Two Souls,2013-10-08,2.7,433.0,433.0,5.4,52.0,1.1,524.0,['Adventure'],"['Quantic Dream', 'Sony Computer Entertainment']"
+Digimon Survive,2022-07-28,3.4,167.0,167.0,454.0,148.0,525.0,602.0,"['Adventure', 'RPG', 'Simulator', 'Strategy', 'Turn Based Strategy']","['Bandai Namco Entertainment', 'Witchcraft Inc.']"
+Spiritfarer,2020-08-18,3.9,513.0,513.0,2.3,352.0,1.5,918.0,"['Adventure', 'Indie', 'Platform', 'Simulator']",['Thunder Lotus Games']
+Little Nightmares II,2021-02-10,4.0,569.0,569.0,2.5,78.0,1.2,1.5,"['Adventure', 'Platform', 'Puzzle']","['Tarsier Studios', 'Bandai Namco Entertainment']"
+The Evil Within 2,2017-10-12,3.7,541.0,541.0,2.7,76.0,1.4,634.0,"['Adventure', 'RPG', 'Shooter']","['Tango Gameworks', 'Bethesda Softworks']"
+Bloons TD 6,2018-06-14,3.8,241.0,241.0,4.1,331.0,343.0,73.0,"['Strategy', 'Tactical']",['Ninja Kiwi']
+Sayonara Wild Hearts,2019-09-19,3.9,725.0,725.0,3.1,37.0,721.0,789.0,"['Adventure', 'Arcade', 'Indie', 'Music']","['Simogo', 'Annapurna Interactive']"
+Metro 2033 Redux,2014-08-26,3.6,363.0,363.0,3.9,108.0,1.6,260.0,"['Adventure', 'RPG', 'Shooter']","['Koch Media', '4A Games']"
+Melty Blood: Type Lumina,2021-09-29,3.6,194.0,194.0,1.8,159.0,301.0,473.0,"['Fighting', 'Visual Novel']","['Delightworks', 'French Bread']"
+Elden Ring,2022-02-25,4.5,3.9,3.9,17.0,3.8,4.6,4.8,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+Hades,2019-12-10,4.3,2.9,2.9,21.0,3.2,6.3,3.6,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Supergiant Games']
+The Legend of Zelda: Breath of the Wild,2017-03-03,4.4,4.3,4.3,30.0,2.5,5.0,2.6,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EPD Production Group No. 3']"
+Undertale,2015-09-15,4.2,3.5,3.5,28.0,679.0,4.9,1.8,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['tobyfox', '8-4']"
+Hollow Knight,2017-02-24,4.4,3.0,3.0,21.0,2.4,8.3,2.3,"['Adventure', 'Indie', 'Platform']",['Team Cherry']
+Minecraft,2011-11-18,4.3,2.3,2.3,33.0,1.8,1.1,230.0,"['Adventure', 'Simulator']",['Mojang Studios']
+Omori,2020-12-25,4.2,1.6,1.6,7.2,1.1,4.5,3.8,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['OMOCAT', 'PLAYISM']"
+Metroid Dread,2021-10-07,4.3,2.1,2.1,9.2,759.0,3.4,3.3,"['Adventure', 'Platform']","['Nintendo', 'MercurySteam']"
+Among Us,2018-06-15,3.0,867.0,867.0,25.0,470.0,776.0,126.0,"['Indie', 'Strategy']",['InnerSloth']
+NieR: Automata,2017-02-23,4.3,2.9,2.9,18.0,1.1,6.2,3.6,"['Brawler', 'RPG']","['PlatinumGames', 'Square Enix']"
+Persona 5 Royal,2019-10-31,4.4,2.7,2.7,12.0,2.3,5.1,3.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus USA', 'Atlus']"
+Stray,2022-07-19,3.7,1.5,1.5,7.7,801.0,2.5,3.4,"['Adventure', 'Indie']","['BlueTwelve Studio', 'Annapurna Interactive']"
+God of War,2018-04-20,4.2,2.9,2.9,21.0,1.1,4.8,2.6,"['Adventure', 'Brawler', 'RPG']","['Sony Interactive Entertainment', 'SIE Santa Monica Studio']"
+Portal 2,2011-04-18,4.4,2.9,2.9,29.0,471.0,3.9,1.2,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Valve', 'Electronic Arts']"
+Bloodborne,2015-03-24,4.5,3.4,3.4,17.0,1.1,5.6,3.3,"['Adventure', 'RPG']","['FromSoftware', 'Sony Computer Entertainment']"
+Celeste,2018-01-25,4.2,2.8,2.8,20.0,1.2,5.9,2.0,"['Adventure', 'Indie', 'Platform']","['Extremely OK Games', 'Maddy Makes Games']"
+Yakuza 0,2015-03-12,4.4,2.7,2.7,15.0,1.8,6.4,2.0,"['Adventure', 'Brawler', 'RPG', 'Simulator']","['Ryū Ga Gotoku Studios', 'Sega']"
+Red Dead Redemption 2,2018-10-26,4.4,2.9,2.9,19.0,1.7,5.5,2.9,"['Adventure', 'RPG', 'Shooter']","['Take-Two Interactive', 'Rockstar Games']"
+Portal,2007-10-10,4.1,2.0,2.0,28.0,244.0,2.7,1.1,"['Platform', 'Puzzle', 'Shooter']","['Valve', 'Electronic Arts']"
+Super Mario Odyssey,2017-10-27,4.2,2.9,2.9,25.0,710.0,2.9,2.0,"['Adventure', 'Platform']",['Nintendo']
+Pokémon Legends: Arceus,2022-01-28,3.7,1.6,1.6,9.1,1.6,2.5,2.1,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Hi-Fi Rush,2023-01-25,4.3,926.0,926.0,3.0,866.0,1.5,2.0,"['Adventure', 'Brawler', 'Music', 'Platform']","['Tango Gameworks', 'Bethesda Softworks']"
+Metal Gear Rising: Revengeance,2013-02-19,4.1,2.1,2.1,14.0,492.0,4.2,2.0,"['Adventure', 'Brawler', 'Shooter', 'Strategy']","['Konami', 'PlatinumGames']"
+Grand Theft Auto V,2013-09-17,3.8,2.1,2.1,30.0,829.0,3.2,664.0,"['Adventure', 'Shooter']","['Rockstar North', 'Rockstar Games']"
+Cyberpunk 2077,2020-12-09,3.3,1.5,1.5,13.0,1.5,4.7,2.9,"['Adventure', 'RPG', 'Shooter']",['CD Projekt RED']
+God of War Ragnarök,2022-11-09,4.4,1.7,1.7,5.3,801.0,2.0,3.3,"['Adventure', 'Brawler']","['Sony Interactive Entertainment', 'SIE Santa Monica Studio']"
+Xenoblade Chronicles 3,2022-07-29,4.4,1.4,1.4,3.9,795.0,2.1,2.2,"['Adventure', 'RPG']","['Monolith Soft', 'Nintendo']"
+Kirby and the Forgotten Land,2022-03-25,4.2,1.6,1.6,5.9,955.0,2.5,3.1,"['Adventure', 'Platform']","['HAL Laboratory', 'Nintendo']"
+Disco Elysium: The Final Cut,2020-05-01,4.6,1.1,1.1,6.0,1.2,5.0,2.7,"['Adventure', 'Indie', 'RPG']",['ZA/UM']
+Marvel's Spider-Man,2018-09-07,4.1,2.5,2.5,21.0,577.0,2.9,2.2,"['Adventure', 'Brawler']","['Insomniac Games', 'Sony Interactive Entertainment']"
+Dark Souls III,2016-03-24,4.2,2.4,2.4,19.0,851.0,4.3,2.2,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+NieR Replicant ver.1.22474487139...,2021-04-22,4.2,1.5,1.5,6.7,880.0,4.1,3.7,"['Adventure', 'RPG']","['Toylogic', 'Square Enix']"
+Super Mario 64,1996-06-23,4.1,2.6,2.6,21.0,463.0,2.5,775.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Super Smash Bros. Ultimate,2018-12-07,4.1,2.5,2.5,25.0,1.2,1.1,801.0,"['Fighting', 'Platform']","['Sora', 'Nintendo']"
+Cuphead,2017-09-29,4.1,1.9,1.9,18.0,1.2,4.5,2.6,"['Arcade', 'Indie', 'Platform', 'Shooter']",['Studio MDHR']
+Sekiro: Shadows Die Twice,2019-03-22,4.4,2.3,2.3,14.0,919.0,4.8,3.4,"['Adventure', 'Brawler']","['FromSoftware', 'Activision']"
+Final Fantasy VII,1997-01-31,4.2,2.9,2.9,15.0,1.1,5.0,1.5,"['Adventure', 'RPG', 'Turn Based Strategy']","['Square', 'Eidos Interactive']"
+Persona 4 Golden,2012-06-15,4.2,1.9,1.9,13.0,1.5,5.2,2.2,"['Adventure', 'RPG', 'Simulator', 'Visual Novel']","['NIS America', 'Atlus']"
+Genshin Impact,2020-09-28,2.6,653.0,653.0,14.0,2.7,1.3,280.0,"['Adventure', 'RPG']","['miHoYo', 'HoYoverse']"
+Signalis,2022-10-27,4.2,820.0,820.0,2.2,419.0,1.9,2.2,"['Adventure', 'Indie']","['rose-engine', 'Humble Games']"
+Resident Evil Village,2021-05-06,3.9,1.8,1.8,9.9,333.0,2.8,2.8,"['Adventure', 'Shooter']",['Capcom']
+Super Mario Galaxy,2007-11-01,4.3,2.7,2.7,21.0,468.0,3.1,1.2,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Fallout: New Vegas,2010-10-19,4.3,2.0,2.0,16.0,756.0,5.0,1.4,"['RPG', 'Shooter']","['Obsidian Entertainment', 'Bandai Namco Entertainment']"
+Outer Wilds,2019-05-28,4.6,1.8,1.8,7.7,661.0,4.8,3.1,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['Mobius Digital', 'Annapurna Interactive']"
+Resident Evil 2,2019-01-25,4.3,2.5,2.5,15.0,585.0,3.6,1.9,"['Adventure', 'Shooter']","['Capcom', 'Capcom Development Division 1']"
+Doom,2016-05-12,4.0,1.8,1.8,18.0,541.0,4.0,1.4,['Shooter'],"['id Software', 'Bethesda Softworks']"
+Shin Megami Tensei V,2021-11-12,3.8,1.1,1.1,4.1,1.0,3.4,2.6,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus', 'Sega']"
+Bayonetta,2009-10-29,3.9,1.7,1.7,13.0,614.0,5.0,2.3,"['Brawler', 'Shooter']","['Nex Entertainment', 'Sega']"
+Stardew Valley,2016-02-26,4.1,1.7,1.7,20.0,2.0,3.6,1.1,"['Indie', 'RPG', 'Simulator', 'Strategy']","['ConcernedApe', 'Chucklefish Games']"
+The Last of Us Part II,2020-06-19,4.1,2.5,2.5,13.0,472.0,2.8,2.5,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Interactive Entertainment']"
+Silent Hill 2,2001-09-24,4.5,2.2,2.2,8.6,282.0,2.9,2.1,"['Adventure', 'Puzzle']","['Team Silent', 'Konami']"
+The Witcher 3: Wild Hunt,2015-05-19,4.3,2.0,2.0,17.0,1.2,6.1,1.6,"['Adventure', 'RPG']","['WB Games', 'CD Projekt RED']"
+Persona 5,2016-09-15,4.1,1.8,1.8,16.0,630.0,2.8,1.7,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus', 'Atlus USA']"
+Doom Eternal,2020-03-19,4.2,1.9,1.9,12.0,738.0,4.6,2.4,['Shooter'],"['Bethesda Softworks', 'id Software']"
+The Elder Scrolls V: Skyrim,2011-11-10,3.7,1.7,1.7,22.0,589.0,3.0,1.0,"['Adventure', 'RPG']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Neon White,2022-06-16,4.1,868.0,868.0,2.9,519.0,1.8,2.3,"['Indie', 'Platform', 'Shooter', 'Visual Novel']","['Ben Esposito', 'Annapurna Interactive']"
+Devil May Cry 5,2019-03-08,4.3,1.9,1.9,12.0,524.0,4.1,2.4,"['Adventure', 'Brawler']","['Capcom', 'Capcom Development Division 1']"
+Overwatch 2,2022-10-04,2.7,491.0,491.0,6.6,1.1,292.0,171.0,['Shooter'],['Blizzard Entertainment']
+Resident Evil 4,2005-01-11,4.3,2.3,2.3,14.0,360.0,3.0,1.2,['Shooter'],"['Capcom', 'Capcom Production Studio 4']"
+Final Fantasy VII Remake,2020-04-10,4.1,2.0,2.0,12.0,898.0,4.2,2.2,"['Adventure', 'RPG']",['Square Enix']
+Sonic Frontiers,2022-11-08,3.6,974.0,974.0,2.9,491.0,1.3,1.8,"['Adventure', 'Platform']","['Sega', 'Sonic Team']"
+Inscryption,2021-10-19,4.1,1.0,1.0,5.4,557.0,2.3,2.3,"['Adventure', 'Card & Board Game', 'Indie', 'Puzzle', 'Strategy']","['Devolver Digital', 'Daniel Mullins Games']"
+Tunic,2022-03-16,3.9,891.0,891.0,3.4,489.0,2.4,2.6,"['Adventure', 'Indie', 'Puzzle', 'RPG']","['Andrew Shouldice', 'Finji']"
+Dark Souls,2011-09-22,4.3,2.1,2.1,14.0,447.0,2.5,1.4,"['Adventure', 'RPG']","['FromSoftware', 'Bandai Namco Entertainment']"
+The Legend of Zelda: Ocarina of Time,1998-11-21,4.3,2.2,2.2,17.0,433.0,3.0,1.4,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD']"
+Vampire Survivors,2021-12-17,3.7,836.0,836.0,6.1,944.0,687.0,409.0,"['Arcade', 'Indie', 'RPG']",['Poncle']
+Batman: Arkham City,2011-10-18,4.1,1.6,1.6,16.0,192.0,2.7,651.0,"['Adventure', 'Brawler']","['DC Entertainment', 'Rocksteady Studios']"
+Yakuza Kiwami,2016-01-21,3.7,1.2,1.2,9.7,439.0,3.4,1.0,"['Adventure', 'Brawler', 'RPG']","['Sega', 'Ryū Ga Gotoku Studios']"
+Phoenix Wright: Ace Attorney,2005-09-15,4.1,1.3,1.3,12.0,418.0,1.9,1.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']","['Nintendo Australia', 'Capcom']"
+Team Fortress 2,2007-10-09,3.9,955.0,955.0,16.0,505.0,532.0,158.0,['Shooter'],"['Electronic Arts', 'Valve']"
+Xenoblade Chronicles 2,2017-12-01,3.9,1.4,1.4,7.4,453.0,2.7,1.5,"['Adventure', 'RPG']","['Monolith Soft', 'Nintendo']"
+Splatoon 3,2022-09-09,4.1,840.0,840.0,3.5,1.0,632.0,1.1,"['Platform', 'Shooter']",['Nintendo']
+Chrome Dino,2014-09-01,3.5,124.0,124.0,14.0,122.0,197.0,35.0,['Arcade'],['Google']
+Katana Zero,2019-04-18,4.1,1.1,1.1,9.3,189.0,2.1,1.5,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Strategy']","['Askiisoft', 'Devolver Digital']"
+Life is Strange,2015-01-29,3.4,1.4,1.4,15.0,209.0,2.1,817.0,"['Adventure', 'RPG']","[""DON'T NOD"", 'Square Enix']"
+Dark Souls II: Scholar of the First Sin,2015-04-02,3.5,988.0,988.0,11.0,443.0,2.7,994.0,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+Deathloop,2021-09-14,3.5,897.0,897.0,4.2,389.0,2.4,1.9,"['Adventure', 'Shooter']","['Bethesda Softworks', 'Arkane Studios']"
+Shadow of the Colossus,2005-10-18,4.4,1.5,1.5,10.0,134.0,2.9,1.7,"['Adventure', 'Platform', 'Puzzle']","['Sony Computer Entertainment, Inc. (SCEI)', 'Team Ico']"
+Teenage Mutant Ninja Turtles: Shredder's Revenge,2022-06-16,3.8,880.0,880.0,3.5,226.0,875.0,829.0,"['Arcade', 'Brawler', 'Indie']","['DotEmu', 'Tribute Games']"
+Psychonauts,2005-04-19,4.0,1.2,1.2,7.1,388.0,4.2,1.2,"['Adventure', 'Platform']","['Double Fine Productions', 'Majesco Entertainment']"
+Fallout 4,2015-11-09,3.1,1.0,1.0,16.0,407.0,2.9,752.0,"['RPG', 'Shooter']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Uncharted 4: A Thief's End,2016-05-10,4.1,1.8,1.8,14.0,177.0,2.7,1.2,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Interactive Entertainment']"
+The Legend of Zelda: A Link to the Past,1991-11-21,4.1,1.7,1.7,13.0,360.0,3.2,911.0,"['Adventure', 'Puzzle', 'RPG']","['Nintendo EAD', 'St. GIGA']"
+Silent Hill,1999-02-23,4.1,1.3,1.3,6.8,272.0,2.3,1.6,"['Adventure', 'Puzzle']","['Konami', 'Team Silent']"
+Super Smash Bros. Brawl,2008-01-31,3.8,1.3,1.3,19.0,51.0,511.0,250.0,"['Fighting', 'Platform']","['Nintendo', 'Sora']"
+Borderlands 2,2012-09-18,3.5,1.1,1.1,16.0,344.0,2.7,494.0,"['RPG', 'Shooter']","['Gearbox Software', '2K Games']"
+No More Heroes,2007-12-06,4.0,1.2,1.2,5.6,280.0,2.6,1.8,"['Adventure', 'Brawler']",['Grasshopper Manufacture']
+Ghost of Tsushima,2020-07-17,4.1,1.4,1.4,8.5,688.0,3.5,3.1,"['Adventure', 'Brawler', 'RPG']","['Sucker Punch Productions', 'Sony Interactive Entertainment']"
+Sifu,2022-02-08,3.8,633.0,633.0,2.7,283.0,1.7,2.3,"['Brawler', 'Indie']","['Sloclap', 'Kepler Interactive']"
+Super Mario Bros. 3,1988-10-23,4.0,1.6,1.6,14.0,109.0,1.4,362.0,['Platform'],"['Nintendo R&D4', 'Nintendo']"
+Dishonored,2012-10-09,3.9,1.1,1.1,14.0,268.0,3.1,866.0,"['Adventure', 'RPG']","['Arkane Studios', 'Bethesda Softworks']"
+Metal Gear Solid 3: Snake Eater,2004-11-17,4.5,1.5,1.5,9.2,118.0,2.4,1.3,"['Adventure', 'Shooter', 'Tactical']","['Konami Computer Entertainment Japan', 'Konami']"
+Journey,2012-03-13,3.9,1.5,1.5,12.0,94.0,2.7,1.7,"['Adventure', 'Platform']","['Sony Computer Entertainment', 'ThatGameCompany']"
+Kingdom Hearts,2002-03-28,3.6,1.3,1.3,12.0,266.0,2.1,1.0,"['Adventure', 'RPG']","['Square', 'Disney Interactive Studios']"
+Titanfall 2,2016-10-28,4.1,1.3,1.3,12.0,163.0,2.1,656.0,"['Adventure', 'Shooter']","['Respawn Entertainment', 'Electronic Arts']"
+Doom,1993-12-10,4.0,1.4,1.4,11.0,203.0,1.5,514.0,['Shooter'],"['Activision', 'id Software']"
+Live A Live,2022-07-22,4.1,555.0,555.0,1.1,235.0,1.7,1.9,['RPG'],['Square Enix']
+The Last of Us Remastered,2014-07-26,4.3,1.1,1.1,12.0,258.0,1.8,682.0,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment']"
+Sonic the Hedgehog,1991-06-23,3.1,1.1,1.1,12.0,60.0,804.0,243.0,['Platform'],"['Sonic Team', 'Sega']"
+Rocket League,2015-07-06,3.4,917.0,917.0,17.0,564.0,698.0,113.0,"['Indie', 'Racing', 'Sport']",['Psyonix']
+Batman: Arkham Knight,2015-06-23,3.7,1.2,1.2,13.0,279.0,3.4,757.0,"['Adventure', 'Brawler']","['Rocksteady Studios', 'Warner Bros. Interactive Entertainment']"
+Bayonetta 3,2022-10-28,3.7,690.0,690.0,1.6,235.0,1.6,2.2,['Brawler'],"['PlatinumGames', 'Nintendo']"
+Disco Elysium,2019-10-15,4.6,1.1,1.1,4.0,478.0,2.8,1.9,"['Adventure', 'RPG', 'Turn Based Strategy']",['ZA/UM']
+Guilty Gear: Strive,2021-06-11,3.9,810.0,810.0,5.5,713.0,805.0,1.2,['Fighting'],"['Bandai Namco Studios', 'Arc System Works']"
+Wii Sports,2006-11-19,3.7,775.0,775.0,18.0,39.0,320.0,93.0,"['Simulator', 'Sport']","['Nintendo', 'Nintendo EAD Group No. 2']"
+Hogwarts Legacy,2023-02-10,3.5,474.0,474.0,1.4,766.0,686.0,1.6,"['Adventure', 'RPG']","['Portkey Games', 'Avalanche Software']"
+Mario Kart Wii,2008-04-10,3.9,1.0,1.0,19.0,88.0,461.0,168.0,['Racing'],"['Nintendo', 'Nintendo EAD']"
+Resident Evil 3,2020-04-03,3.2,1.3,1.3,8.4,157.0,2.4,1.6,"['Adventure', 'Shooter']","['K2', 'Capcom']"
+Unpacking,2021-11-02,3.6,751.0,751.0,4.9,216.0,996.0,1.3,"['Indie', 'Point-and-Click', 'Puzzle', 'Simulator']","['Witch Beam', 'Humble Games']"
+Red Dead Redemption,2010-05-18,4.2,1.5,1.5,13.0,218.0,2.4,1.6,"['Adventure', 'RPG', 'Shooter']","['Rockstar Games', 'Rockstar North']"
+Tales of Arise,2021-09-10,3.6,650.0,650.0,3.1,571.0,2.3,1.9,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'Bandai Namco Studios']"
+Deltarune: Chapter 1,2018-10-31,3.9,591.0,591.0,11.0,107.0,1.8,729.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['8-4', 'tobyfox']"
+Dead Space,2023-01-27,4.3,501.0,501.0,1.3,248.0,985.0,1.9,"['Adventure', 'RPG', 'Shooter']","['Motive Studios', 'Electronic Arts']"
+Tomb Raider,2013-03-04,3.5,896.0,896.0,15.0,175.0,2.7,508.0,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Square Enix', 'Crystal Dynamics']"
+Super Mario Galaxy 2,2010-05-23,4.3,1.8,1.8,13.0,123.0,2.5,1.3,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Donkey Kong Country,1994-11-18,3.9,1.3,1.3,11.0,186.0,1.9,514.0,"['Adventure', 'Platform']",['Rare']
+What Remains of Edith Finch,2017-04-24,4.0,1.4,1.4,8.6,61.0,2.2,1.3,"['Adventure', 'Indie', 'Puzzle']","['Annapurna Interactive', 'Giant Sparrow']"
+Monster Hunter Rise,2021-03-26,4.0,789.0,789.0,5.7,1.1,1.8,1.3,"['Adventure', 'Brawler', 'RPG']","['Capcom', 'Capcom Development Division 2']"
+Pokémon Emerald,2004-09-16,4.0,1.2,1.2,16.0,219.0,1.0,376.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+NEO: The World Ends with You,2021-07-26,4.2,725.0,725.0,2.5,357.0,2.4,2.0,"['Brawler', 'RPG']",['Square Enix']
+Assassin's Creed II,2009-11-17,3.8,1.3,1.3,16.0,140.0,1.5,521.0,"['Adventure', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Pokémon Scarlet,2022-11-18,3.5,596.0,596.0,2.6,580.0,489.0,496.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Dead Space,2008-10-14,4.0,1.2,1.2,9.6,302.0,2.7,1.1,['Shooter'],"['EA Redwood Shores', 'Electronic Arts']"
+New Super Mario Bros.,2006-05-15,3.5,991.0,991.0,16.0,108.0,824.0,287.0,"['Adventure', 'Platform']",['Nintendo']
+Shadow of the Colossus,2018-02-06,4.1,1.1,1.1,7.8,242.0,3.2,1.6,"['Adventure', 'Platform', 'Puzzle']","['Sony Interactive Entertainment', 'Bluepoint Games']"
+Horizon Forbidden West,2022-02-18,3.8,830.0,830.0,2.7,561.0,2.1,2.3,"['Adventure', 'RPG']","['Guerrilla Games', 'Sony Interactive Entertainment']"
+Ori and the Blind Forest,2015-03-11,3.9,780.0,780.0,7.9,260.0,2.9,1.4,"['Adventure', 'Platform', 'Puzzle']","['Moon Studios', 'Microsoft Studios']"
+Demon's Souls,2020-11-12,3.9,880.0,880.0,4.1,403.0,2.4,2.1,"['Adventure', 'RPG']","['Bluepoint Games', 'Sony Interactive Entertainment']"
+A Plague Tale: Innocence,2019-05-14,3.7,852.0,852.0,5.4,202.0,2.6,1.0,"['Adventure', 'RPG']","['Focus Entertainment', 'Asobo Studio']"
+The Legend of Zelda: Link's Awakening,2019-09-20,3.9,1.1,1.1,7.6,387.0,2.8,2.0,['Adventure'],"['Nintendo', 'Grezzo']"
+Assassin's Creed,2007-11-13,2.9,801.0,801.0,13.0,118.0,1.2,496.0,"['Adventure', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Judgment,2018-12-13,4.1,890.0,890.0,3.1,358.0,2.3,1.6,"['Adventure', 'RPG']","['Sega Games', 'Ryu ga Gotoku Studios']"
+Call of Duty: Black Ops,2010-11-09,3.7,920.0,920.0,14.0,44.0,611.0,318.0,['Shooter'],"['Activision', 'Treyarch']"
+Ratchet & Clank: Rift Apart,2021-06-11,4.0,906.0,906.0,3.7,218.0,1.5,1.7,"['Adventure', 'Platform', 'Shooter']","['Sony Interactive Entertainment', 'Insomniac Games']"
+Pokémon Black,2010-09-18,4.0,1.0,1.0,12.0,186.0,1.1,461.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+The Stanley Parable,2013-10-17,3.8,767.0,767.0,10.0,46.0,1.3,833.0,"['Adventure', 'Indie']",['Galactic Cafe']
+The Legend of Zelda,1986-02-21,3.2,1.2,1.2,9.3,132.0,1.5,463.0,['Adventure'],"['Nintendo EAD', 'Nintendo']"
+AI: The Somnium Files - Nirvana Initiative,2022-06-23,3.9,455.0,455.0,1.5,139.0,835.0,811.0,"['Adventure', 'Puzzle', 'Visual Novel']",['Spike ChunSoft']
+Ghost Trick: Phantom Detective,2010-06-19,4.4,830.0,830.0,3.6,149.0,1.8,1.2,"['Adventure', 'Puzzle']",['Capcom']
+Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition,2019-09-27,4.2,880.0,880.0,4.7,748.0,3.1,1.2,"['Adventure', 'RPG']",['Square Enix']
+Paper Mario: The Thousand-Year Door,2004-07-22,4.4,1.3,1.3,6.7,187.0,2.9,1.5,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Intelligent Systems Co., Ltd.']"
+God of War II,2007-03-13,4.0,936.0,936.0,9.3,89.0,1.3,687.0,"['Adventure', 'Brawler', 'Platform']","['Sony Computer Entertainment, Inc. (SCEI)', 'SIE Santa Monica Studio']"
+Mass Effect 2,2010-01-26,4.3,1.3,1.3,9.6,107.0,1.9,645.0,"['Adventure', 'RPG', 'Shooter']","['BioWare', 'Electronic Arts']"
+Forza Horizon 5,2021-11-09,3.8,589.0,589.0,4.6,589.0,712.0,594.0,['Racing'],"['Playground Games', 'Xbox Game Studios']"
+Metal Gear Solid V: Ground Zeroes,2014-03-18,3.3,650.0,650.0,9.5,53.0,1.7,549.0,"['Adventure', 'RPG', 'Shooter', 'Strategy']","['Konami', 'Kojima Productions']"
+No More Heroes III,2021-08-27,3.9,604.0,604.0,1.6,109.0,1.5,1.4,['Brawler'],['Grasshopper Manufacture']
+Banjo-Kazooie,1998-06-29,4.0,1.2,1.2,7.4,205.0,2.1,765.0,"['Adventure', 'Platform']","['Microsoft Game Studios', 'Rare']"
+Astro's Playroom,2020-11-12,4.0,914.0,914.0,5.7,82.0,358.0,249.0,"['Adventure', 'Platform']","['SIE Japan Studio', 'Sony Interactive Entertainment']"
+Call of Duty: Black Ops II,2012-11-12,3.8,903.0,903.0,13.0,57.0,626.0,286.0,['Shooter'],"['Treyarch', 'Activision']"
+The Legend of Zelda: Skyward Sword HD,2021-07-16,3.8,639.0,639.0,3.7,444.0,2.3,1.3,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+Mega Man X,1993-12-17,4.1,1.2,1.2,6.9,76.0,1.1,385.0,"['Adventure', 'Platform', 'Shooter']","['Rozner Labs Software Group', 'Nintendo']"
+Subnautica,2018-01-23,3.8,712.0,712.0,7.2,335.0,2.9,944.0,"['Adventure', 'Indie']","['Gearbox Publishing', 'Unknown Worlds Entertainment']"
+Returnal,2021-04-30,4.0,725.0,725.0,2.4,430.0,1.8,1.6,['Shooter'],"['Housemarque', 'Sony Interactive Entertainment']"
+New Super Mario Bros. Wii,2009-11-12,3.5,859.0,859.0,13.0,85.0,696.0,241.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Citizen Sleeper,2022-05-05,4.1,492.0,492.0,1.2,131.0,916.0,804.0,"['Adventure', 'Indie', 'RPG']","['Fellow Traveller', 'Jump Over The Age']"
+Yakuza 3 Remastered,2018-08-09,3.3,755.0,755.0,4.3,235.0,2.3,904.0,"['Adventure', 'RPG', 'Simulator']",['Ryū Ga Gotoku Studios']
+Garry's Mod,2004-12-24,3.8,478.0,478.0,12.0,198.0,543.0,242.0,"['Indie', 'Simulator']","['Facepunch Studios', 'Valve']"
+Wolfenstein: The New Order,2014-05-20,3.6,794.0,794.0,8.4,149.0,2.2,722.0,"['Adventure', 'Shooter']","['MachineGames', 'Bethesda Softworks']"
+Deus Ex,2000-06-26,4.4,899.0,899.0,3.8,189.0,2.7,958.0,"['RPG', 'Shooter']","['Aspyr Media', 'Ion Storm']"
+BioShock 2,2010-02-09,3.6,687.0,687.0,9.1,103.0,3.3,691.0,"['Adventure', 'RPG', 'Shooter']","['2K Marin', '2K Games']"
+Soul Hackers 2,2022-08-25,3.1,337.0,337.0,750.0,228.0,932.0,1.1,['RPG'],"['Sega', 'Atlus']"
+Enter the Gungeon,2016-04-05,3.6,632.0,632.0,8.9,403.0,2.4,441.0,"['Adventure', 'Arcade', 'Indie', 'Shooter']","['Dodge Roll', 'Devolver Digital']"
+The House in Fata Morgana,2012-12-27,4.4,544.0,544.0,1.7,250.0,1.5,1.3,"['Adventure', 'Indie', 'Visual Novel']","['Dramatic Create', 'NOVECT']"
+Shovel Knight,2014-06-26,4.0,761.0,761.0,8.5,135.0,1.9,1.2,"['Adventure', 'Indie', 'Platform']",['Yacht Club Games']
+Firewatch,2016-02-09,3.7,926.0,926.0,7.8,99.0,1.6,1.2,"['Adventure', 'Indie']","['Panic', 'Campo Santo']"
+Dark Souls II,2014-03-11,3.3,815.0,815.0,6.7,128.0,1.4,834.0,"['Adventure', 'RPG']","['FromSoftware', 'Bandai Namco Entertainment']"
+Blasphemous,2019-09-10,3.7,647.0,647.0,4.2,399.0,2.6,1.0,"['Adventure', 'Brawler', 'Indie', 'Platform', 'RPG']","['The Game Kitchen', 'Team17']"
+Final Fantasy XIV Online,2013-08-27,3.7,643.0,643.0,5.9,1.1,818.0,363.0,"['Adventure', 'RPG', 'Strategy']",['Square Enix']
+Immortality,2022-08-30,3.9,461.0,461.0,1.2,95.0,587.0,564.0,"['Indie', 'Point-and-Click', 'Simulator']",['Half Mermaid']
+Resident Evil 6,2012-10-02,2.5,888.0,888.0,7.8,189.0,1.8,552.0,"['Adventure', 'Shooter']",['Capcom']
+Devil May Cry 3: Dante's Awakening,2005-02-17,4.2,909.0,909.0,6.1,116.0,1.6,648.0,"['Adventure', 'Brawler', 'Shooter']","['Capcom', 'Capcom Production Studio 1']"
+The Last of Us Part I,2022-09-01,4.4,395.0,395.0,1.4,131.0,678.0,1.1,"['Adventure', 'Shooter']","['Sony Interactive Entertainment', 'Naughty Dog']"
+Super Meat Boy,2010-10-20,3.5,605.0,605.0,10.0,153.0,1.8,501.0,"['Adventure', 'Indie', 'Platform']","['BlitWorks', 'Team Meat']"
+Mass Effect Legendary Edition,2021-05-14,4.5,581.0,581.0,2.8,596.0,2.4,930.0,"['Adventure', 'RPG', 'Shooter', 'Strategy']","['BioWare', 'EA']"
+Helltaker,2020-05-11,3.3,419.0,419.0,7.5,59.0,1.1,445.0,"['Adventure', 'Indie', 'Puzzle']",['Vanripper']
+Pokémon Sword,2019-11-15,2.9,837.0,837.0,9.7,301.0,924.0,500.0,"['Adventure', 'RPG']","['Game Freak', 'Nintendo']"
+Crash Bandicoot N. Sane Trilogy,2017-06-30,3.8,654.0,654.0,7.7,364.0,2.6,986.0,"['Adventure', 'Platform']","['Activision', 'Vicarious Visions']"
+Tetris,1989-11-01,4.1,688.0,688.0,9.6,54.0,175.0,66.0,"['Arcade', 'Puzzle']",['Nintendo']
+Valorant,2020-06-02,2.5,291.0,291.0,8.2,650.0,291.0,110.0,"['Shooter', 'Tactical']",['Riot Games']
+Super Mario 3D World,2013-11-21,3.9,1.1,1.1,9.6,93.0,787.0,432.0,"['Adventure', 'Platform']",['Nintendo']
+Uncharted 3: Drake's Deception,2011-11-01,3.6,941.0,941.0,11.0,60.0,1.5,477.0,"['Adventure', 'Platform', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Phoenix Wright: Ace Attorney - Trials and Tribulations,2006-03-31,4.4,995.0,995.0,6.6,172.0,1.6,623.0,"['Adventure', 'Visual Novel']",['Capcom']
+Yume Nikki,2004-06-26,4.0,770.0,770.0,4.0,155.0,1.6,771.0,"['Adventure', 'Indie']","['Kikiyama', 'DeNA Co., Ltd.']"
+Max Payne,2001-07-23,3.9,786.0,786.0,6.3,102.0,1.5,742.0,['Shooter'],"['Gathering of Developers', 'Remedy Entertainment']"
+Five Nights at Freddy's,2014-08-08,2.9,460.0,460.0,8.4,46.0,393.0,166.0,"['Adventure', 'Indie', 'Point-and-Click', 'Simulator', 'Strategy']","['Clickteam', 'Scottgames']"
+Donkey Kong Country 2: Diddy's Kong Quest,1995-11-21,4.2,1.2,1.2,6.6,115.0,1.6,455.0,"['Adventure', 'Platform']","['Nintendo', 'Rare']"
+Sonic the Hedgehog 3 & Knuckles,1994-10-18,4.2,839.0,839.0,6.0,40.0,656.0,269.0,['Platform'],"['Sega Technical Institute', 'Sega']"
+Resident Evil 2,1998-01-21,4.2,1.1,1.1,5.5,54.0,1.1,597.0,"['Adventure', 'Shooter']","['Capcom', 'Factor 5']"
+Full Metal Daemon Muramasa,2009-10-30,4.3,229.0,229.0,496.0,96.0,567.0,592.0,"['Adventure', 'Visual Novel']","['Nitroplus', 'JAST USA']"
+Soma,2015-09-21,4.0,764.0,764.0,3.9,122.0,2.2,837.0,"['Adventure', 'Indie']",['Frictional Games']
+The Binding of Isaac: Rebirth,2014-11-04,4.0,492.0,492.0,8.2,334.0,1.1,636.0,"['Adventure', 'Arcade', 'Indie', 'RPG', 'Shooter']","['Nicalis, Inc.']"
+Luigi's Mansion 3,2019-10-31,3.8,800.0,800.0,5.6,313.0,2.2,1.3,['Adventure'],"['Nintendo', 'Next Level Games']"
+Katamari Damacy Reroll,2018-12-06,4.1,576.0,576.0,4.3,199.0,1.3,513.0,"['Adventure', 'Puzzle']","['MONKEYCRAFT Co. Ltd', 'Bandai Namco Entertainment']"
+Mario Kart 7,2011-12-02,3.5,593.0,593.0,10.0,59.0,336.0,141.0,['Racing'],['Nintendo']
+Castle Crashers,2008-08-27,3.6,487.0,487.0,9.4,94.0,936.0,227.0,"['Adventure', 'Brawler', 'Indie', 'RPG']",['The Behemoth']
+Rain World,2017-03-28,4.1,411.0,411.0,1.1,170.0,1.4,987.0,"['Adventure', 'Indie', 'Platform', 'RPG']","['Videocult', 'Adult Swim Games']"
+Mario Party Superstars,2021-10-28,3.7,517.0,517.0,3.8,128.0,329.0,453.0,['Card & Board Game'],['Nintendo']
+Bully,2006-10-17,3.9,635.0,635.0,6.7,80.0,1.3,768.0,['Adventure'],"['Rockstar Vancouver', 'Take-Two Interactive']"
+Mario Kart 64,1996-12-14,3.5,725.0,725.0,9.7,21.0,389.0,194.0,['Racing'],['Nintendo']
+Octopath Traveler II,2023-02-24,4.4,253.0,253.0,258.0,271.0,543.0,895.0,"['RPG', 'Turn Based Strategy']",['Square Enix']
+Norco,2022-03-24,3.9,386.0,386.0,809.0,88.0,651.0,561.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle']","['Geography of Robots', 'Raw Fury']"
+Resident Evil,2002-03-22,4.3,1.0,1.0,4.0,93.0,1.1,470.0,"['Adventure', 'Puzzle']","['Capcom', 'Capcom Production Studio 4']"
+Assassin's Creed Odyssey,2018-10-05,3.4,772.0,772.0,6.8,435.0,2.0,746.0,"['Adventure', 'RPG']","['Ubisoft Entertainment', 'Ubisoft Québec']"
+Transistor,2014-05-20,3.8,784.0,784.0,5.6,172.0,2.9,692.0,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Turn Based Strategy']",['Supergiant Games']
+The Evil Within,2014-10-14,3.4,629.0,629.0,4.8,140.0,1.8,822.0,"['Adventure', 'Shooter']","['Tango Gameworks', 'Bethesda Softworks']"
+Metal: Hellsinger,2022-09-15,3.7,322.0,322.0,1.2,97.0,419.0,424.0,"['Adventure', 'Music', 'Shooter']","['Level Infinite', 'The Outsiders']"
+Pokémon White,2010-09-18,4.1,814.0,814.0,9.0,115.0,705.0,270.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Outlast,2013-09-04,3.3,547.0,547.0,7.5,90.0,1.4,401.0,"['Adventure', 'Indie']",['Red Barrels']
+Hitman 3,2021-01-20,4.1,702.0,702.0,3.3,242.0,1.5,1.2,"['Adventure', 'Shooter', 'Tactical']",['IO Interactive']
+Sable,2021-09-23,3.5,433.0,433.0,1.3,165.0,1.4,1.1,"['Adventure', 'Indie', 'Platform', 'Puzzle', 'RPG']","['Raw Fury', 'Shedworks']"
+Super Smash Bros. for Wii U,2014-11-21,3.5,684.0,684.0,11.0,17.0,240.0,110.0,"['Fighting', 'Platform']","['Sora', 'Nintendo']"
+Kirby's Adventure,1993-03-23,3.6,718.0,718.0,6.0,61.0,690.0,217.0,['Platform'],"['HAL Laboratory', 'Nintendo']"
+Tekken 7,2015-02-18,3.8,663.0,663.0,6.6,247.0,670.0,354.0,['Fighting'],"['Bandai Namco Entertainment', 'Bandai Namco Studios']"
+Umineko: When They Cry Chiru,2009-09-15,4.6,324.0,324.0,1.7,108.0,582.0,493.0,"['Adventure', 'Visual Novel']",['07th Expansion']
+Kingdom Hearts II Final Mix,2007-03-29,4.5,704.0,704.0,4.4,92.0,732.0,274.0,"['Adventure', 'Brawler', 'Platform', 'RPG', 'Shooter']","['Buena Vista Games', 'Square Enix']"
+Superliminal,2019-11-12,3.6,487.0,487.0,3.8,76.0,1.0,917.0,"['Adventure', 'Indie', 'Puzzle', 'Shooter']",['Pillow Castle Games']
+Death Stranding: Director's Cut,2021-09-24,4.2,334.0,334.0,1.3,382.0,1.5,704.0,['Adventure'],"['Kojima Productions', '505 Games']"
+Persona 4,2008-07-10,4.0,815.0,815.0,5.7,158.0,1.0,599.0,"['RPG', 'Simulator', 'Visual Novel']","['Atlus', 'NIS America']"
+Wordle,2021-06-21,3.2,118.0,118.0,3.0,125.0,26.0,5.0,"['Puzzle', 'Quiz/Trivia']","['Josh Wardle', 'The New York Times']"
+The Sims 4,2014-09-02,3.0,458.0,458.0,8.3,434.0,667.0,110.0,"['RPG', 'Simulator']","['Electronic Arts', 'The Sims Studio']"
+Far Cry 4,2014-11-18,3.2,558.0,558.0,8.5,90.0,1.3,442.0,"['Adventure', 'Shooter', 'Tactical']",['Ubisoft Montreal']
+Sonic Forces,2017-11-07,1.9,650.0,650.0,5.0,42.0,723.0,212.0,"['Adventure', 'Platform', 'Strategy']","['Sega', 'Sonic Team']"
+To the Moon,2011-11-01,3.9,671.0,671.0,4.7,66.0,1.6,925.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle', 'RPG']","['Freebird Games', 'X.D. Network Inc.']"
+Baba is You,2019-03-13,4.0,545.0,545.0,4.6,537.0,2.0,1.2,"['Indie', 'Puzzle', 'Strategy']",['hempuli']
+The Witcher 3: Wild Hunt - Game of the Year Edition,2016-08-29,4.5,475.0,475.0,6.0,410.0,2.1,467.0,"['Adventure', 'RPG']","['CD Projekt RED', 'CD Projekt']"
+Super Smash Bros.,1999-01-21,3.4,688.0,688.0,9.8,20.0,279.0,207.0,"['Fighting', 'Platform']","['Nintendo', 'HAL Laboratory']"
+Super Mario 64 DS,2004-11-21,3.6,614.0,614.0,9.1,65.0,549.0,176.0,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Halo 4,2012-11-06,3.0,674.0,674.0,7.6,57.0,1.2,277.0,['Shooter'],"['343 Industries', 'Microsoft Studios']"
+Middle-earth: Shadow of Mordor,2014-09-30,3.4,524.0,524.0,8.4,106.0,1.7,478.0,"['Adventure', 'Brawler', 'RPG']","['Monolith Productions', 'WB Games']"
+Mega Man 2,1989-06-02,3.6,857.0,857.0,6.1,34.0,542.0,163.0,"['Adventure', 'Platform']",['Capcom']
+Phoenix Wright: Ace Attorney Trilogy,2014-04-17,4.3,516.0,516.0,4.0,644.0,1.9,779.0,"['Adventure', 'Puzzle', 'Simulator', 'Visual Novel']",['Capcom']
+Infamous: Second Son,2014-03-21,3.4,668.0,668.0,7.6,71.0,1.3,574.0,"['Adventure', 'Platform', 'Shooter']","['Sony Computer Entertainment', 'Sucker Punch Productions']"
+Star Wars: Knights of the Old Republic,2003-07-15,4.2,839.0,839.0,5.3,180.0,2.3,705.0,"['Adventure', 'RPG']","['BioWare', 'LucasArts']"
+No More Heroes 2: Desperate Struggle,2010-01-26,3.5,608.0,608.0,3.2,68.0,1.5,855.0,"['Adventure', 'Brawler']","['Ubisoft Entertainment', 'Grasshopper Manufacture']"
+Kirby Super Star Ultra,2008-09-22,4.3,743.0,743.0,5.8,47.0,773.0,427.0,"['Adventure', 'Platform']","['Nintendo of Europe', 'HAL Laboratory']"
+"Flower, Sun, and Rain",2001-05-02,4.3,466.0,466.0,632.0,32.0,1.0,1.1,"['Adventure', 'Puzzle']","['Grasshopper Manufacture', 'Victor Interactive Software']"
+Katamari Damacy,2004-03-18,4.2,939.0,939.0,4.1,60.0,1.0,761.0,"['Adventure', 'Puzzle']","['Namco', 'NOW Production']"
+Shadow the Hedgehog,2005-11-15,2.4,584.0,584.0,5.6,45.0,731.0,423.0,"['Adventure', 'Platform', 'Shooter']","['Sega', 'Sonic Team']"
+Ōkami HD,2012-10-30,4.2,527.0,527.0,3.3,321.0,3.1,1.2,"['Adventure', 'RPG']","['Clover Studio', 'Capcom']"
+Metroid: Samus Returns,2017-09-15,3.6,674.0,674.0,3.9,149.0,1.4,686.0,"['Adventure', 'Platform']","['MercurySteam', 'Nintendo']"
+Life is Strange: True Colors,2021-09-10,3.6,566.0,566.0,2.3,126.0,852.0,1.1,['Adventure'],"['Deck Nine', 'Square Enix']"
+Pokémon Black Version 2,2012-06-23,4.2,776.0,776.0,7.6,130.0,1.1,449.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Game Freak', 'Nintendo']"
+Needy Streamer Overload,2022-01-21,3.5,216.0,216.0,1.2,105.0,529.0,567.0,"['Adventure', 'Indie', 'Point-and-Click', 'RPG', 'Simulator', 'Visual Novel']","['Nintendo', 'WSS playground']"
+Borderlands,2009-10-20,3.1,484.0,484.0,9.1,98.0,1.2,450.0,"['RPG', 'Shooter']","['2K Games', 'Gearbox Software']"
+Hollow Knight: Voidheart Edition,2018-09-25,4.5,462.0,462.0,3.9,295.0,1.3,363.0,"['Adventure', 'Indie', 'Platform']",['Team Cherry']
+Klonoa: Door to Phantomile,1997-12-11,4.1,648.0,648.0,2.2,63.0,877.0,590.0,['Platform'],['Namco']
+Halo: The Master Chief Collection,2014-11-11,4.2,356.0,356.0,5.1,362.0,1.3,463.0,['Shooter'],"['343 Industries', 'Xbox Game Studios']"
+Pokémon Crystal,2000-12-14,3.9,716.0,716.0,7.2,137.0,721.0,236.0,"['Adventure', 'RPG']","['Game Freak', 'Nintendo']"
+Uncharted: The Lost Legacy,2017-08-22,3.8,758.0,758.0,4.7,51.0,1.3,754.0,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Interactive Entertainment']"
+Resident Evil 3: Nemesis,1999-09-22,3.8,849.0,849.0,4.3,56.0,953.0,496.0,"['Adventure', 'Shooter']","['Capcom', 'Capcom Planning Room 2']"
+Sea of Thieves,2018-03-20,3.3,354.0,354.0,5.3,270.0,536.0,407.0,"['Adventure', 'Simulator']","['Rare', 'Xbox Game Studios']"
+F.E.A.R.,2005-10-17,3.8,564.0,564.0,3.6,65.0,1.0,505.0,['Shooter'],"['Monolith Productions', 'Vivendi Universal']"
+Mafia: Definitive Edition,2020-09-24,3.7,420.0,420.0,2.7,101.0,917.0,540.0,"['Adventure', 'Shooter']","['2K Games', 'Hangar 13']"
+NieR,2010-04-22,4.2,743.0,743.0,2.9,67.0,999.0,854.0,"['Adventure', 'RPG', 'Shooter', 'Simulator', 'Strategy']","['Square Enix', 'Cavia']"
+The Walking Dead: Season Two,2013-12-17,3.5,559.0,559.0,6.7,35.0,718.0,262.0,"['Adventure', 'Point-and-Click', 'Puzzle']","['Telltale Games', 'Skybound Games']"
+Forspoken,2023-01-24,2.3,211.0,211.0,252.0,32.0,247.0,847.0,"['Adventure', 'RPG']","['Square Enix', 'Luminous Productions']"
+Max Payne 2: The Fall of Max Payne,2003-10-14,4.1,553.0,553.0,4.1,37.0,1.1,464.0,['Shooter'],"['Remedy Entertainment', 'Rockstar Games']"
+Shin Megami Tensei: Devil Summoner - Soul Hackers,1997-11-13,3.8,470.0,470.0,1.2,153.0,1.6,651.0,"['Adventure', 'RPG']","['Atlus', 'NIS America']"
+Dusk,2018-12-10,4.0,487.0,487.0,2.5,154.0,963.0,625.0,"['Adventure', 'Indie', 'Shooter']","['David Szymanski', 'New Blood Interactive']"
+The Elder Scrolls III: Morrowind,2002-05-01,4.0,549.0,549.0,3.7,150.0,1.7,487.0,"['Adventure', 'RPG']","['Bethesda Game Studios', 'ZeniMax Media']"
+Rollerdrome,2022-08-16,3.7,260.0,260.0,431.0,57.0,351.0,492.0,"['Adventure', 'Indie', 'Shooter', 'Sport']","['Roll7', 'Private Division']"
+Final Fantasy XVI,2023-06-22,3.8,422.0,422.0,37.0,10.0,732.0,2.4,['RPG'],"['Square Enix', 'Square Enix Creative Business Unit III']"
+Pokémon Sun,2016-11-18,3.3,600.0,600.0,7.6,74.0,596.0,230.0,"['Adventure', 'RPG', 'Strategy', 'Turn Based Strategy']","['The Pokémon Company', 'Game Freak']"
+Yu-Gi-Oh! Master Duel,2022-01-18,3.2,170.0,170.0,2.1,235.0,147.0,33.0,"['Card & Board Game', 'Simulator', 'Strategy']",['Konami']
+Injustice: Gods Among Us,2013-04-16,3.0,364.0,364.0,7.1,17.0,502.0,112.0,"['Adventure', 'Fighting']","['NetherRealm Studios', 'WB Games']"
+Pac-Man,1980-05-22,3.4,427.0,427.0,5.2,7.0,108.0,31.0,['Arcade'],"['Wiz', 'Namco Networks America, Inc.']"
+Final Fantasy X/X-2 HD Remaster,2013-12-26,4.1,368.0,368.0,3.2,281.0,2.3,677.0,"['RPG', 'Strategy']","['Virtuos', 'Square Enix']"
+Mortal Kombat X,2015-04-13,3.3,430.0,430.0,7.1,43.0,602.0,138.0,['Fighting'],"['NetherRealm Studios', 'WB Games']"
+Shin Megami Tensei: Digital Devil Saga,2004-07-15,4.1,657.0,657.0,2.0,200.0,1.9,916.0,['RPG'],"['Atlus', 'Ghostlight Ltd.']"
+Star Wars: The Force Unleashed,2008-09-16,3.2,417.0,417.0,7.4,50.0,823.0,350.0,"['Adventure', 'Brawler', 'RPG']","['THQ Wireless', 'Aspyr Media']"
+Shovel Knight: Treasure Trove,2019-12-09,4.3,445.0,445.0,3.8,186.0,1.3,574.0,"['Adventure', 'Indie', 'Platform']","['Yacht Club Games', 'Nintendo']"
+Ghost of Tsushima: Director's Cut,2021-08-20,4.2,345.0,345.0,1.8,257.0,993.0,621.0,"['Adventure', 'RPG']","['Sony Interactive Entertainment', 'Sucker Punch Productions']"
+Donkey Kong Country Returns,2010-11-21,3.9,521.0,521.0,5.3,67.0,1.1,443.0,"['Adventure', 'Platform']","['Retro Studios', 'Nintendo']"
+Street Fighter III: 3rd Strike,1999-05-12,4.2,763.0,763.0,3.7,71.0,281.0,202.0,"['Arcade', 'Fighting']","['Capcom', 'Virgin Interactive Entertainment']"
+Return to Monkey Island,2022-09-19,4.0,237.0,237.0,538.0,71.0,388.0,409.0,"['Adventure', 'Point-and-Click', 'Puzzle']","['Terrible Toybox', 'Lucasfilm Games']"
+Deus Ex: Human Revolution,2011-08-23,3.8,559.0,559.0,5.8,65.0,1.7,488.0,"['RPG', 'Shooter']","['Square Enix', 'Eidos Montréal']"
+Spyro Reignited Trilogy,2018-11-13,3.9,552.0,552.0,4.5,282.0,2.1,808.0,"['Adventure', 'Platform']","['Toys for Bob', 'Activision']"
+Chicory: A Colorful Tale,2021-06-10,4.1,521.0,521.0,984.0,126.0,905.0,983.0,"['Adventure', 'Indie', 'Puzzle', 'RPG']","['Greg Lobanov', 'Finji']"
+Sin and Punishment,2000-11-21,4.0,459.0,459.0,1.1,34.0,878.0,550.0,['Shooter'],"['Treasure', 'Nintendo']"
+Outer Wilds: Echoes of the Eye,2021-09-28,4.5,238.0,238.0,1.6,121.0,763.0,559.0,"['Adventure', 'Indie', 'Puzzle', 'Simulator', 'Strategy']","['Mobius Digital', 'Annapurna Interactive']"
+New Super Mario Bros. 2,2012-07-28,2.9,581.0,581.0,6.1,47.0,588.0,234.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Wolfenstein II: The New Colossus,2017-10-26,3.5,540.0,540.0,4.7,86.0,1.5,675.0,"['Adventure', 'Shooter']","['MachineGames', 'Bethesda Softworks']"
+PokÃ©mon Diamond,2006-09-28,3.6,581.0,581.0,9.3,52.0,429.0,170.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Into the Breach,2018-02-27,3.9,535.0,535.0,3.4,132.0,1.7,567.0,"['Card & Board Game', 'Indie', 'Puzzle', 'RPG', 'Simulator', 'Strategy', 'Turn Based Strategy']",['Subset Games']
+Marvel Snap,2022-10-18,3.7,241.0,241.0,847.0,248.0,54.0,22.0,"['Card & Board Game', 'Strategy']","['Second Dinner', 'nuverse']"
+Nier: Automata - Game of the Yorha Edition,2019-02-21,4.4,315.0,315.0,2.8,230.0,1.1,532.0,"['Adventure', 'RPG']","['Square Enix', 'PlatinumGames']"
+Five Nights at Freddy's 2,2014-11-10,3.0,270.0,270.0,5.4,20.0,271.0,119.0,"['Adventure', 'Indie', 'Point-and-Click', 'Simulator', 'Strategy']","['Clickteam', 'Scottgames']"
+Mortal Kombat 11,2019-04-22,3.4,490.0,490.0,5.0,99.0,612.0,308.0,['Fighting'],"['Warner Bros. Interactive Entertainment', 'NetherRealm Studios']"
+Witch on the Holy Night,2022-12-07,4.5,98.0,98.0,244.0,104.0,230.0,279.0,"['Adventure', 'Visual Novel']","['TYPE-MOON', 'Aniplex']"
+Dying Light 2: Stay Human,2022-02-03,3.1,290.0,290.0,1.4,176.0,765.0,876.0,"['Adventure', 'RPG']","['Techland', 'Techland Publishing']"
+Asura's Wrath,2012-02-21,3.7,432.0,432.0,2.1,65.0,980.0,827.0,['Brawler'],"['Capcom', 'CyberConnect2']"
+Tales of Berseria,2016-08-18,3.7,555.0,555.0,3.3,293.0,2.4,657.0,['RPG'],"['Bandai Namco Entertainment America', 'Bandai Namco Studios']"
+Ender Lilies: Quietus of the Knights,2021-06-21,3.8,275.0,275.0,1.2,131.0,967.0,1.0,"['Adventure', 'Indie', 'Platform', 'RPG']","['Binary Haze Interactive', 'Live Wire']"
+Moon: Remix RPG Adventure,1997-10-16,4.4,572.0,572.0,663.0,100.0,1.3,1.0,"['Adventure', 'Puzzle', 'RPG']","['ASCII Entertainment', 'Love-de-Lic']"
+Prince of Persia: The Sands of Time,2003-11-06,3.6,480.0,480.0,5.5,37.0,1.1,421.0,"['Adventure', 'Platform']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+Assassin's Creed Syndicate,2015-10-23,3.0,562.0,562.0,5.6,97.0,1.5,417.0,['Adventure'],"['Ubisoft Entertainment', 'Ubisoft Québec']"
+Sunset Overdrive,2014-10-28,3.5,445.0,445.0,3.6,92.0,1.2,459.0,"['Adventure', 'Platform', 'Shooter']","['Insomniac Games', 'Microsoft Studios']"
+Metal Gear Solid: Peace Walker,2010-04-29,3.5,498.0,498.0,4.0,68.0,1.3,566.0,"['Shooter', 'Strategy']","['Kojima Productions', 'Konami']"
+Code Vein,2019-09-26,3.0,325.0,325.0,3.3,230.0,1.6,625.0,"['Adventure', 'RPG']","['Shift', 'Bandai Namco Entertainment']"
+Vagrant Story,2000-02-10,4.0,503.0,503.0,1.0,59.0,1.6,889.0,"['Adventure', 'RPG']","['Square', '(Archive) Square Product Development Division 4']"
+Amnesia: The Dark Descent,2010-09-08,3.5,525.0,525.0,4.7,86.0,1.8,407.0,"['Adventure', 'Indie', 'Puzzle']",['Frictional Games']
+Monster Hunter Rise: Sunbreak,2022-06-29,4.3,217.0,217.0,1.1,267.0,327.0,242.0,"['Brawler', 'RPG']",['Capcom']
+Super Mario Maker 2,2019-06-28,3.7,689.0,689.0,6.6,114.0,623.0,459.0,['Platform'],"['Nintendo EPD', 'Nintendo']"
+Fire Emblem: The Blazing Blade,2003-04-25,3.7,609.0,609.0,3.9,158.0,1.2,401.0,"['RPG', 'Strategy', 'Tactical']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+LEGO Marvel Super Heroes,2013-09-30,3.6,522.0,522.0,6.0,65.0,592.0,126.0,"['Adventure', 'Brawler', 'Puzzle']","['WB Games', ""Traveller's Tales""]"
+Sonic Colors,2010-11-11,3.4,609.0,609.0,5.1,44.0,690.0,342.0,"['Adventure', 'Platform']","['SEGA of America', 'Sonic Team']"
+Mario Strikers: Battle League,2022-06-10,2.7,248.0,248.0,932.0,35.0,237.0,397.0,['Sport'],"['Next Level Games', 'Nintendo']"
+Limbus Company,2023-02-27,3.9,24.0,24.0,104.0,95.0,55.0,61.0,"['Adventure', 'RPG', 'Strategy']",['Project Moon']
+Resident Evil Village: Winters' Expansion,2022-10-28,3.3,107.0,107.0,477.0,11.0,145.0,115.0,['Shooter'],['Capcom']
+Tony Hawk's Pro Skater 1+2,2020-09-04,4.1,498.0,498.0,2.8,176.0,854.0,607.0,"['Simulator', 'Sport']","['Activision', 'Vicarious Visions']"
+Need for Speed: Unbound,2022-11-29,3.5,84.0,84.0,294.0,74.0,150.0,209.0,['Racing'],"['Criterion Games', 'Electronic Arts']"
+Zero Escape: Zero Time Dilemma,2016-06-28,3.0,350.0,350.0,2.9,64.0,1.2,402.0,"['Adventure', 'Puzzle', 'RPG', 'Strategy', 'Visual Novel']","['Aksys Games', 'Spike ChunSoft']"
+Deus Ex: Mankind Divided,2016-08-23,3.5,387.0,387.0,3.4,72.0,2.0,458.0,"['Adventure', 'RPG', 'Shooter']",['Square Enix']
+Guitar Hero III: Legends of Rock,2007-10-28,3.9,489.0,489.0,6.9,21.0,174.0,78.0,"['Music', 'Simulator']","['Neversoft Entertainment', 'Activision']"
+Sid Meier's Civilization VI,2016-10-20,3.7,343.0,343.0,4.6,211.0,969.0,188.0,"['Simulator', 'Strategy', 'Turn Based Strategy']","['Firaxis Games', '2K Games']"
+Nioh 2,2020-03-13,4.0,365.0,365.0,1.4,150.0,1.1,580.0,"['Adventure', 'Brawler', 'RPG']","['Koei Tecmo Games', 'Team NINJA']"
+Gears of War,2006-11-07,3.5,522.0,522.0,5.3,37.0,545.0,307.0,['Shooter'],"['Microsoft Game Studios', 'Epic Games']"
+Final Fantasy Tactics,1997-06-20,4.2,506.0,506.0,2.1,73.0,1.6,681.0,"['RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Sony Computer Entertainment, Inc. (SCEI)', 'Square']"
+Deltarune,,4.3,313.0,313.0,1.3,83.0,468.0,617.0,"['Adventure', 'Indie', 'Music', 'Puzzle', 'RPG']",['tobyfox']
+Tekken 3,1997-03-22,3.9,564.0,564.0,4.2,13.0,253.0,183.0,['Fighting'],"['Namco', 'Namco Hometek']"
+Far Cry 6,2021-10-07,2.7,298.0,298.0,1.6,157.0,772.0,792.0,"['Adventure', 'Shooter']","['Ubisoft Toronto', 'Ubisoft Entertainment']"
+Horizon Zero Dawn: Complete Edition,2017-12-06,3.8,327.0,327.0,2.9,212.0,1.3,333.0,"['Adventure', 'RPG', 'Shooter']","['Sony Interactive Entertainment', 'Guerrilla Games']"
+Persona 4 Golden,2020-06-13,4.4,53.0,53.0,350.0,90.0,142.0,54.0,"['Adventure', 'RPG', 'Simulator', 'Visual Novel']","['Sega', 'Atlus']"
+Death Stranding 2,,3.8,105.0,105.0,3.0,0.0,209.0,644.0,"['Adventure', 'Shooter']",['Kojima Productions']
+Xenosaga Episode I: Der Wille zur Macht,2002-02-28,3.7,412.0,412.0,1.2,103.0,1.3,575.0,"['Adventure', 'RPG']","['Monolith Soft', 'Namco']"
+Everhood,2021-03-03,3.8,317.0,317.0,1.4,76.0,734.0,445.0,"['Adventure', 'Indie', 'Music', 'RPG']","['Surefire.Games', 'Chris Nordgren']"
+Don't Starve Together,2016-04-21,3.4,227.0,227.0,5.2,173.0,727.0,195.0,"['Adventure', 'Indie', 'Simulator', 'Strategy']",['Klei Entertainment']
+South Park: The Fractured But Whole,2017-10-17,3.7,369.0,369.0,3.5,79.0,1.1,512.0,"['Adventure', 'RPG', 'Strategy']","['Ubisoft Entertainment', 'Ubisoft San Francisco']"
+God of War III: Remastered,2015-07-14,4.0,323.0,323.0,2.7,40.0,665.0,241.0,"['Adventure', 'Brawler']","['Sony Computer Entertainment', 'Red Kite Games']"
+Pokémon Ruby,2002-11-21,3.7,494.0,494.0,7.0,33.0,304.0,127.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Fire Emblem: The Sacred Stones,2004-10-07,3.7,503.0,503.0,3.7,124.0,1.2,395.0,"['RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Nintendo', 'Intelligent Systems Co., Ltd.']"
+Library of Ruina,2021-08-10,4.4,151.0,151.0,454.0,120.0,476.0,362.0,"['Indie', 'RPG', 'Simulator', 'Strategy', 'Turn Based Strategy']",['Project Moon']
+Uncharted: The Nathan Drake Collection,2015-10-07,4.1,363.0,363.0,4.3,137.0,1.3,319.0,"['Adventure', 'Platform', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Persona 3 Portable,2023-01-19,4.0,39.0,39.0,210.0,97.0,121.0,85.0,"['Adventure', 'RPG', 'Strategy', 'Visual Novel']","['Sega', 'Atlus']"
+Pyre,2017-07-25,4.0,484.0,484.0,1.8,74.0,1.5,649.0,"['Adventure', 'Indie', 'RPG', 'Visual Novel']",['Supergiant Games']
+Paladins,2017-05-02,2.6,167.0,167.0,5.2,110.0,188.0,16.0,"['Shooter', 'Strategy']",['Hi-Rez Studios']
+Dead Space 3,2013-02-05,2.6,309.0,309.0,3.2,48.0,1.0,388.0,"['Adventure', 'Shooter']","['Visceral Games', 'Electronic Arts']"
+Devil May Cry HD Collection,2012-03-22,3.9,230.0,230.0,2.2,152.0,1.1,371.0,"['Brawler', 'Platform']","['Capcom', 'Capcom Production Studio 4']"
+Bayonetta Origins: Cereza and the Lost Demon,2023-03-17,4.0,116.0,116.0,48.0,40.0,117.0,329.0,"['Adventure', 'Puzzle']","['PlatinumGames', 'Nintendo']"
+Armored Core,1997-07-10,3.4,197.0,197.0,522.0,38.0,404.0,216.0,"['Shooter', 'Simulator']","['FromSoftware', 'Agetec']"
+Persona 4 Arena Ultimax,2013-11-28,3.7,382.0,382.0,2.9,135.0,809.0,604.0,['Fighting'],"['Arc System Works', 'Atlus']"
+Wanted: Dead,2023-02-14,2.6,81.0,81.0,100.0,15.0,94.0,212.0,"['Adventure', 'Brawler', 'Shooter']","['Soleil', '110 Industries']"
+Luigi's Mansion: Dark Moon,2013-03-20,3.3,377.0,377.0,4.3,68.0,1.1,418.0,['Adventure'],"['Nintendo', 'Next Level Games']"
+Gorogoa,2017-12-13,3.8,386.0,386.0,2.0,31.0,471.0,382.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle']","['Annapurna Interactive', 'Jason Roberts']"
+Valkyrie Elysium,2022-09-28,3.0,139.0,139.0,218.0,32.0,343.0,527.0,"['Brawler', 'RPG']","['Square Enix', 'Soleil']"
+Castlevania: Order of Ecclesia,2008-10-21,4.0,483.0,483.0,2.0,75.0,963.0,540.0,"['Adventure', 'Brawler', 'Platform', 'RPG']",['Konami']
+Deadly Premonition,2010-02-23,3.9,431.0,431.0,1.4,48.0,991.0,628.0,"['Adventure', 'Shooter']","['Access Games', 'Ignition Entertainment']"
+LEGO Batman 2: DC Super Heroes,2012-06-19,3.5,446.0,446.0,4.6,41.0,821.0,132.0,"['Adventure', 'Brawler', 'Platform']","['Feral Interactive', ""Traveller's Tales""]"
+Lunistice,2022-11-10,3.6,132.0,132.0,305.0,17.0,105.0,116.0,"['Adventure', 'Indie', 'Platform']","['A Grumpy Fox', 'Deck13 Interactive']"
+Sonic Advance,2001-12-20,3.2,446.0,446.0,4.0,26.0,508.0,212.0,['Platform'],"['Sega', 'Dimps']"
+Metal Slug,1996-01-24,3.6,353.0,353.0,3.8,11.0,377.0,181.0,"['Arcade', 'Platform', 'Shooter']","['SNK', 'Nazca Corporation']"
+Just Cause 3,2015-11-30,3.1,269.0,269.0,4.9,93.0,1.0,155.0,['Adventure'],"['Avalanche Studios', 'Square Enix']"
+Suikoden II,1998-12-17,4.4,433.0,433.0,1.1,42.0,1.3,653.0,"['RPG', 'Strategy']",['Konami']
+LittleBigPlanet,2008-10-27,3.6,405.0,405.0,6.0,21.0,403.0,219.0,['Platform'],"['Media Molecule', 'Sony Computer Entertainment']"
+EarthBound Beginnings,2015-06-14,3.2,395.0,395.0,1.8,90.0,1.0,380.0,"['Adventure', 'RPG']","['Nintendo', 'Ape']"
+Wario Land 3,2000-03-21,3.8,284.0,284.0,1.2,67.0,588.0,174.0,"['Adventure', 'Platform', 'Puzzle']","['Nintendo R&D1', 'Nintendo']"
+Faith: The Unholy Trinity,2022-10-21,4.0,85.0,85.0,253.0,37.0,237.0,283.0,"['Adventure', 'Indie']","['New Blood Interactive', 'Airdorf Games']"
+Tales of Symphonia,2003-08-29,3.9,512.0,512.0,2.8,132.0,1.8,572.0,['RPG'],"['Namco', 'Namco Tales Studio']"
+Final Fantasy VII,2012-08-14,4.2,103.0,103.0,1.2,89.0,427.0,70.0,"['RPG', 'Turn Based Strategy']","['Square Enix', 'Square']"
+The Dark Pictures Anthology: Man of Medan,2019-08-29,2.5,355.0,355.0,2.3,44.0,506.0,217.0,['Adventure'],"['Bandai Namco Entertainment', 'Supermassive Games']"
+Saya no Uta,2003-12-26,3.3,249.0,249.0,1.7,32.0,499.0,432.0,['Visual Novel'],"['JAST USA', 'Nitroplus']"
+River City Girls,2019-09-04,3.6,279.0,279.0,1.9,96.0,809.0,729.0,"['Adventure', 'Arcade', 'Brawler', 'Fighting']","['WayForward Technologies', 'WayForward']"
+Sonic Origins,2022-06-22,3.4,121.0,121.0,558.0,49.0,209.0,306.0,"['Adventure', 'Platform']",['Sega']
+Kuru Kuru Kururin,2001-03-21,3.4,138.0,138.0,439.0,33.0,160.0,76.0,"['Arcade', 'Puzzle']",['Eighting']
+Pikmin 2,2004-04-29,4.1,530.0,530.0,2.7,53.0,988.0,500.0,"['Adventure', 'Real Time Strategy']","['Nintendo', 'Nintendo EAD']"
+Wonderful Everyday: Down the Rabbit-Hole,2010-03-26,4.1,269.0,269.0,982.0,127.0,536.0,480.0,"['Adventure', 'Visual Novel']","['Frontwing', 'Makura']"
+Paper Mario: The Origami King,2020-07-17,3.5,525.0,525.0,2.4,188.0,1.2,714.0,"['Adventure', 'RPG']","['Nintendo', 'Intelligent Systems']"
+Conker's Bad Fur Day,2001-03-05,3.6,426.0,426.0,2.7,39.0,907.0,503.0,"['Adventure', 'Platform', 'Shooter']","['Rare', 'THQ']"
+Fire Emblem: Radiant Dawn,2007-02-22,4.0,459.0,459.0,1.8,69.0,1.1,497.0,"['RPG', 'Strategy', 'Tactical']","['Nintendo', 'Nintendo SPD Group No. 2']"
+Need for Speed: Heat,2019-11-08,3.1,180.0,180.0,1.6,100.0,455.0,94.0,"['Adventure', 'Racing', 'Sport']","['Electronic Arts', 'Ghost Games']"
+Skate 3,2010-05-11,4.0,318.0,318.0,4.1,44.0,313.0,188.0,['Sport'],"['EA Black Box', 'Electronic Arts']"
+Braid,2008-08-06,3.4,380.0,380.0,3.5,26.0,782.0,385.0,"['Adventure', 'Indie', 'Platform', 'Puzzle', 'Strategy']","['Number None Inc.', 'Microsoft Game Studios']"
+Metro 2033,2010-03-16,3.5,328.0,328.0,3.7,49.0,1.1,224.0,"['RPG', 'Shooter']","['4A Games', 'THQ']"
+Another Pokémon Game,2023-02-15,3.0,19.0,19.0,59.0,2.0,24.0,22.0,"['Adventure', 'RPG']",['3D: Doom Daddy Digital']
+Super Mario Party,2018-10-05,2.8,336.0,336.0,5.3,34.0,241.0,185.0,"['Card & Board Game', 'Platform', 'Puzzle']",['Nintendo']
+Kentucky Route Zero,2013-01-07,4.1,474.0,474.0,1.2,128.0,1.2,842.0,"['Adventure', 'Indie', 'Point-and-Click']",['Cardboard Computer']
+The Legend of Zelda: Twilight Princess HD,2016-03-04,4.2,447.0,447.0,2.5,91.0,956.0,503.0,"['Adventure', 'Platform', 'Puzzle']","['Nintendo', 'Nintendo EPD']"
+We Love Katamari,2005-07-06,4.3,429.0,429.0,1.4,38.0,520.0,410.0,"['Adventure', 'Puzzle']","['NOW Production', 'Namco']"
+Serial Experiments Lain,1998-11-26,4.0,173.0,173.0,397.0,29.0,637.0,727.0,['Adventure'],['Pionner LDC']
+Kirby's Dream Land 2,1995-03-21,3.2,414.0,414.0,2.3,41.0,480.0,146.0,['Platform'],"['Nintendo', 'HAL Laboratory']"
+Harvestella,2022-11-04,3.4,103.0,103.0,160.0,86.0,268.0,469.0,"['Adventure', 'RPG', 'Simulator']",['Square Enix']
+Dishonored: Death of the Outsider,2017-09-14,3.6,328.0,328.0,1.8,41.0,1.4,352.0,"['Adventure', 'RPG']","['Arkane Studios', 'Bethesda Softworks']"
+Life is Strange 2,2018-09-26,3.3,421.0,421.0,2.6,107.0,939.0,643.0,['Adventure'],"[""DON'T NOD"", 'Square Enix']"
+Banjo-Tooie,2000-11-20,3.8,443.0,443.0,3.0,29.0,1.2,485.0,"['Adventure', 'Platform']","['Microsoft Game Studios', 'Rare']"
+The Legend of Zelda: Oracle of Ages,2001-02-27,3.7,512.0,512.0,2.8,60.0,1.5,492.0,"['Adventure', 'RPG']","['Nintendo', 'Capcom']"
+Lobotomy Corporation,2018-04-09,4.1,134.0,134.0,621.0,132.0,536.0,327.0,"['Indie', 'Simulator']",['Project Moon']
+Saints Row 2,2008-10-14,3.7,412.0,412.0,3.6,56.0,803.0,191.0,"['Adventure', 'Racing', 'Shooter']","['Volition', 'THQ']"
+Final Fantasy VII Rebirth,2023-12-31,3.8,192.0,192.0,20.0,3.0,354.0,1.1,[],['Square Enix']
+Castlevania: Bloodlines,1994-03-17,3.7,447.0,447.0,1.8,25.0,682.0,230.0,"['Adventure', 'Platform']",['Konami']
+Tiny Tina's Wonderlands,2022-03-25,3.4,224.0,224.0,738.0,140.0,467.0,537.0,"['Adventure', 'RPG', 'Shooter']","['2K Games', 'Gearbox Software']"
+Utawarerumono: Mask of Truth,2016-09-21,4.4,182.0,182.0,442.0,21.0,411.0,266.0,"['Adventure', 'RPG', 'Simulator', 'Strategy', 'Tactical', 'Visual Novel']","['Aquaplus', 'Atlus USA']"
+Hitman World of Assassination,2023-01-26,4.6,38.0,38.0,167.0,47.0,54.0,54.0,"['Adventure', 'Shooter', 'Tactical']","['Inlusio Interactive', 'IO Interactive']"
+Just Cause 2,2010-03-23,3.2,302.0,302.0,5.1,36.0,771.0,142.0,"['Adventure', 'Racing', 'Shooter']","['Avalanche Studios', 'Eidos Interactive']"
+Lies of P,2023-08-01,3.8,175.0,175.0,5.0,0.0,260.0,939.0,['RPG'],"['NEOWIZ', 'Round8 Studio']"
+Final Fantasy V,1992-12-06,3.8,532.0,532.0,2.3,78.0,1.2,460.0,"['Adventure', 'RPG']",['Square Enix']
+Jet Set Radio Future,2002-02-22,4.3,448.0,448.0,1.4,47.0,784.0,645.0,"['Music', 'Platform', 'Racing', 'Sport']","['Smilebit', 'Sega']"
+Overcooked!,2016-08-03,3.5,376.0,376.0,4.6,76.0,723.0,115.0,"['Arcade', 'Indie', 'Simulator', 'Strategy']","['Ghost Town Games', 'Team17']"
+Shin Megami Tensei IV: Apocalypse,2016-02-10,3.6,442.0,442.0,1.8,109.0,1.5,634.0,"['Adventure', 'RPG']","['Atlus USA', 'Atlus']"
+Muse Dash,2018-06-15,3.5,185.0,185.0,2.7,247.0,396.0,193.0,"['Indie', 'Music']","['X.D. Network Inc.', 'PeroPeroGames']"
+Fire Emblem: Genealogy of the Holy War,1996-05-14,4.0,468.0,468.0,1.3,81.0,836.0,385.0,"['RPG', 'Strategy', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Judas,2025-03-31,3.8,90.0,90.0,1.0,0.0,92.0,437.0,"['Adventure', 'Shooter']",['Ghost Story Games']
+Half-Life: Opposing Force,1999-11-10,3.7,298.0,298.0,3.0,38.0,838.0,95.0,"['Platform', 'Puzzle', 'Shooter']","['Gearbox Software', 'Sierra Entertainment']"
+Bloodborne PSX,2022-01-31,3.5,106.0,106.0,577.0,16.0,434.0,299.0,"['Adventure', 'RPG']",['LW Media']
+Prototype,2009-06-09,3.0,225.0,225.0,4.5,30.0,643.0,314.0,"['Adventure', 'Brawler', 'Platform']","['Activision', 'Radical Entertainment']"
+Pokémon Gold,1999-11-21,3.8,495.0,495.0,5.5,29.0,326.0,133.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Valheim,2021-02-02,3.6,210.0,210.0,2.5,261.0,496.0,276.0,"['Adventure', 'Indie', 'RPG']","['Iron Gate AB', 'Coffee Stain Publishing']"
+Your Turn To Die: Death Game By Majority,2017-08-28,4.1,221.0,221.0,1.3,241.0,630.0,548.0,"['Adventure', 'Indie', 'Visual Novel']","['Nankidai', '0UP Games']"
+Gal Guardians: Demon Purge,2023-02-23,3.4,39.0,39.0,69.0,8.0,61.0,150.0,"['Adventure', 'Platform']",['Inti Creates']
+Mortal Shell,2020-08-18,2.7,192.0,192.0,847.0,30.0,678.0,194.0,"['Indie', 'RPG']","['Playstack', 'Cold Symmetry']"
+Kingdom Come: Deliverance,2018-02-13,3.6,238.0,238.0,1.8,110.0,1.4,335.0,"['Adventure', 'RPG']","['Deep Silver', 'Warhorse Studios']"
+Live A Live,1994-09-02,4.2,307.0,307.0,555.0,36.0,738.0,491.0,['RPG'],['Square']
+Sleeping Dogs: Definitive Edition,2014-10-10,3.8,250.0,250.0,2.6,64.0,967.0,213.0,"['Adventure', 'Brawler', 'Racing', 'Shooter']","['Square Enix', 'United Front Games']"
+Resident Evil 4: Ultimate HD Edition,2014-02-28,4.4,148.0,148.0,889.0,56.0,151.0,35.0,"['Adventure', 'Shooter']","['Capcom Production Studio 4', 'Capcom']"
+LEGO Builder's Journey,2019-12-20,3.2,138.0,138.0,484.0,22.0,317.0,114.0,"['Adventure', 'Indie', 'Puzzle']","['Light Brick Studio', 'The LEGO Group']"
+Guilty Gear Xrd: Rev 2,2017-03-30,4.1,379.0,379.0,3.0,118.0,314.0,175.0,['Fighting'],"['Arc System Works', 'Aksys Games']"
+Super Kiwi 64,2022-12-02,3.4,79.0,79.0,239.0,5.0,70.0,75.0,"['Adventure', 'Arcade', 'Platform']",['Siactro']
+Infamous 2,2011-06-07,3.7,409.0,409.0,4.4,21.0,674.0,343.0,"['Adventure', 'Brawler', 'Puzzle']","['Sucker Punch Productions', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Fallout 3: Game of the Year Edition,2009-10-13,3.6,188.0,188.0,2.6,67.0,694.0,123.0,"['Adventure', 'RPG', 'Shooter']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Melatonin,2022-12-15,3.7,104.0,104.0,185.0,28.0,96.0,235.0,"['Arcade', 'Indie', 'Music', 'Puzzle']",['Half Asleep']
+Gungrave G.O.R.E,2022-11-22,2.1,85.0,85.0,186.0,13.0,138.0,149.0,"['Adventure', 'Fighting', 'Shooter', 'Simulator', 'Strategy']","['Iggymob', 'Red Entertainment']"
+Like a Dragon Gaiden: The Man Who Erased His Name,2023-12-31,3.8,118.0,118.0,2.0,1.0,145.0,588.0,"['Adventure', 'Brawler', 'RPG']","['Ryū Ga Gotoku Studios', 'Sega']"
+Garten of Banban,2023-01-06,1.2,26.0,26.0,130.0,1.0,5.0,4.0,"['Adventure', 'Indie', 'Puzzle']",['Euphoric Brothers']
+Hitman: Blood Money,2006-05-26,4.0,414.0,414.0,3.2,37.0,859.0,238.0,['Shooter'],"['IO Interactive', 'Eidos Interactive']"
+Professor Layton and the Unwound Future,2008-11-27,4.3,378.0,378.0,2.4,33.0,664.0,388.0,"['Point-and-Click', 'Puzzle', 'Visual Novel']","['Level-5', 'Nintendo of America']"
+The Dark Pictures Anthology: The Devil in Me,2022-11-18,2.9,123.0,123.0,332.0,20.0,135.0,276.0,['Adventure'],"['Supermassive Games', 'Bandai Namco Entertainment']"
+Donkey Kong Country: Tropical Freeze,2018-05-04,4.2,373.0,373.0,2.1,91.0,741.0,500.0,['Platform'],"['Nintendo', 'Retro Studios']"
+Fire Emblem: Thracia 776,1999-09-01,4.1,329.0,329.0,820.0,65.0,771.0,329.0,"['RPG', 'Strategy', 'Tactical']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Moonlighter,2018-05-29,3.2,280.0,280.0,2.2,134.0,1.2,309.0,"['Adventure', 'Brawler', 'Indie', 'RPG', 'Simulator']","['Digital Sun Games', '11 bit studios']"
+Pikmin 3,2013-07-13,4.0,388.0,388.0,2.7,39.0,797.0,385.0,"['Adventure', 'Real Time Strategy']","['Nintendo EAD Software Development Group No.4', 'Nintendo']"
+Five Nights at Freddy's 4,2015-07-23,2.8,199.0,199.0,3.3,13.0,216.0,111.0,"['Adventure', 'Indie', 'Point-and-Click', 'Simulator', 'Strategy']","['Scottgames', 'Clickteam']"
+Chaos;Head Noah,2009-02-26,4.0,84.0,84.0,199.0,73.0,215.0,174.0,"['Adventure', 'Simulator', 'Visual Novel']",['5pb.']
+Nier: Automata - The End of Yorha Edition,2022-10-06,4.5,68.0,68.0,370.0,59.0,240.0,147.0,"['Adventure', 'RPG']","['Square Enix', 'PlatinumGames']"
+Phoenix Wright: Ace Attorney - Spirit of Justice,2016-06-09,3.7,402.0,402.0,2.4,96.0,1.2,506.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'RPG', 'Visual Novel']",['Capcom']
+Crysis,2007-11-13,3.2,224.0,224.0,3.0,26.0,561.0,241.0,"['Adventure', 'Shooter']","['Crytek Frankfurt', 'Electronic Arts']"
+Fallout Shelter,2015-06-14,2.4,172.0,172.0,5.3,44.0,214.0,38.0,"['RPG', 'Simulator', 'Strategy']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Sonic and the Secret Rings,2007-02-20,1.9,362.0,362.0,3.1,18.0,348.0,160.0,['Platform'],"['Sega', 'Sonic Team']"
+FTL: Faster Than Light,2012-09-14,3.8,325.0,325.0,3.8,64.0,902.0,202.0,"['Indie', 'RPG', 'Simulator', 'Strategy']",['Subset Games']
+Mario Party 2,1999-12-17,3.7,348.0,348.0,3.9,11.0,199.0,132.0,['Card & Board Game'],"['Hudson Soft', 'Nintendo']"
+Attack of the Friday Monsters! A Tokyo Tale,2013-07-17,3.7,178.0,178.0,393.0,22.0,385.0,298.0,"['Adventure', 'Simulator']","['Level-5', 'Millennium Kitchen']"
+Animal Crossing,2001-12-14,3.9,533.0,533.0,3.9,51.0,389.0,317.0,['Simulator'],"['Nintendo', 'Nintendo EAD']"
+Fire Emblem Fates: Revelation,2015-07-09,2.3,296.0,296.0,2.5,52.0,707.0,244.0,"['RPG', 'Strategy', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Bloodstained: Curse of the Moon,2018-05-23,3.6,341.0,341.0,2.3,41.0,800.0,397.0,"['Adventure', 'Indie', 'Platform']",['Inti Creates']
+Final Fantasy XIII-2,2011-12-15,3.3,482.0,482.0,2.3,58.0,1.4,449.0,"['Adventure', 'RPG']",['Square Enix']
+Agar.io,2015-04-28,2.2,81.0,81.0,4.4,8.0,40.0,12.0,"['Indie', 'Strategy']","['Miniclip.com', 'Matheus Valadares']"
+Fatal Frame II: Crimson Butterfly,2003-11-27,4.2,398.0,398.0,1.0,38.0,690.0,513.0,['Adventure'],"['Tecmo Co., Ltd.', 'Ubisoft Entertainment']"
+World of Warcraft,2004-11-23,3.5,369.0,369.0,4.5,115.0,139.0,74.0,"['Adventure', 'RPG']",['Blizzard Entertainment']
+The Legend of Heroes: Trails of Cold Steel II,2014-09-25,3.7,401.0,401.0,1.7,45.0,707.0,319.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['NIS America', 'Nihon Falcom']"
+Gang Beasts,2017-12-12,3.1,207.0,207.0,3.2,30.0,177.0,142.0,"['Fighting', 'Indie']","['Boneloaf', 'Double Fine Productions']"
+Armored Core 3,2002-04-01,3.7,115.0,115.0,297.0,19.0,273.0,142.0,"['Shooter', 'Strategy']","['Agetec', 'FromSoftware']"
+Star Wars: The Force Unleashed II,2010-10-26,2.8,242.0,242.0,4.1,18.0,597.0,268.0,"['Adventure', 'Brawler', 'RPG']",['LucasArts']
+Elden Ring,2022-02-25,4.5,3.9,3.9,17.0,3.8,4.6,4.8,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+Hades,2019-12-10,4.3,2.9,2.9,21.0,3.2,6.3,3.6,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Supergiant Games']
+The Legend of Zelda: Breath of the Wild,2017-03-03,4.4,4.3,4.3,30.0,2.5,5.0,2.6,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EPD Production Group No. 3']"
+Undertale,2015-09-15,4.2,3.5,3.5,28.0,679.0,4.9,1.8,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['tobyfox', '8-4']"
+Hollow Knight,2017-02-24,4.4,3.0,3.0,21.0,2.4,8.3,2.3,"['Adventure', 'Indie', 'Platform']",['Team Cherry']
+Minecraft,2011-11-18,4.3,2.3,2.3,33.0,1.8,1.1,230.0,"['Adventure', 'Simulator']",['Mojang Studios']
+Omori,2020-12-25,4.2,1.6,1.6,7.2,1.1,4.5,3.8,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['OMOCAT', 'PLAYISM']"
+Metroid Dread,2021-10-07,4.3,2.1,2.1,9.2,759.0,3.4,3.3,"['Adventure', 'Platform']","['Nintendo', 'MercurySteam']"
+Among Us,2018-06-15,3.0,867.0,867.0,25.0,470.0,776.0,126.0,"['Indie', 'Strategy']",['InnerSloth']
+NieR: Automata,2017-02-23,4.3,2.9,2.9,18.0,1.1,6.2,3.6,"['Brawler', 'RPG']","['PlatinumGames', 'Square Enix']"
+Persona 5 Royal,2019-10-31,4.4,2.7,2.7,12.0,2.3,5.1,3.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus USA', 'Atlus']"
+Stray,2022-07-19,3.7,1.5,1.5,7.7,801.0,2.5,3.4,"['Adventure', 'Indie']","['BlueTwelve Studio', 'Annapurna Interactive']"
+God of War,2018-04-20,4.2,2.9,2.9,21.0,1.1,4.8,2.6,"['Adventure', 'Brawler', 'RPG']","['Sony Interactive Entertainment', 'SIE Santa Monica Studio']"
+Portal 2,2011-04-18,4.4,2.9,2.9,29.0,471.0,3.9,1.2,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Valve', 'Electronic Arts']"
+Bloodborne,2015-03-24,4.5,3.4,3.4,17.0,1.1,5.6,3.3,"['Adventure', 'RPG']","['FromSoftware', 'Sony Computer Entertainment']"
+Celeste,2018-01-25,4.2,2.8,2.8,20.0,1.2,5.9,2.0,"['Adventure', 'Indie', 'Platform']","['Extremely OK Games', 'Maddy Makes Games']"
+Yakuza 0,2015-03-12,4.4,2.7,2.7,15.0,1.8,6.4,2.0,"['Adventure', 'Brawler', 'RPG', 'Simulator']","['Ryū Ga Gotoku Studios', 'Sega']"
+Red Dead Redemption 2,2018-10-26,4.4,2.9,2.9,19.0,1.7,5.5,2.9,"['Adventure', 'RPG', 'Shooter']","['Take-Two Interactive', 'Rockstar Games']"
+Portal,2007-10-10,4.1,2.0,2.0,28.0,244.0,2.7,1.1,"['Platform', 'Puzzle', 'Shooter']","['Valve', 'Electronic Arts']"
+Super Mario Odyssey,2017-10-27,4.2,2.9,2.9,25.0,710.0,2.9,2.0,"['Adventure', 'Platform']",['Nintendo']
+Pokémon Legends: Arceus,2022-01-28,3.7,1.6,1.6,9.1,1.6,2.5,2.1,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Hi-Fi Rush,2023-01-25,4.3,926.0,926.0,3.0,866.0,1.5,2.0,"['Adventure', 'Brawler', 'Music', 'Platform']","['Tango Gameworks', 'Bethesda Softworks']"
+Metal Gear Rising: Revengeance,2013-02-19,4.1,2.1,2.1,14.0,492.0,4.2,2.0,"['Adventure', 'Brawler', 'Shooter', 'Strategy']","['Konami', 'PlatinumGames']"
+Grand Theft Auto V,2013-09-17,3.8,2.1,2.1,30.0,829.0,3.2,664.0,"['Adventure', 'Shooter']","['Rockstar North', 'Rockstar Games']"
+Cyberpunk 2077,2020-12-09,3.3,1.5,1.5,13.0,1.5,4.7,2.9,"['Adventure', 'RPG', 'Shooter']",['CD Projekt RED']
+God of War Ragnarök,2022-11-09,4.4,1.7,1.7,5.3,801.0,2.0,3.3,"['Adventure', 'Brawler']","['Sony Interactive Entertainment', 'SIE Santa Monica Studio']"
+Xenoblade Chronicles 3,2022-07-29,4.4,1.4,1.4,3.9,795.0,2.1,2.2,"['Adventure', 'RPG']","['Monolith Soft', 'Nintendo']"
+Kirby and the Forgotten Land,2022-03-25,4.2,1.6,1.6,5.9,955.0,2.5,3.1,"['Adventure', 'Platform']","['HAL Laboratory', 'Nintendo']"
+Disco Elysium: The Final Cut,2020-05-01,4.6,1.1,1.1,6.0,1.2,5.0,2.7,"['Adventure', 'Indie', 'RPG']",['ZA/UM']
+Marvel's Spider-Man,2018-09-07,4.1,2.5,2.5,21.0,577.0,2.9,2.2,"['Adventure', 'Brawler']","['Insomniac Games', 'Sony Interactive Entertainment']"
+Dark Souls III,2016-03-24,4.2,2.4,2.4,19.0,851.0,4.3,2.2,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+NieR Replicant ver.1.22474487139...,2021-04-22,4.2,1.5,1.5,6.7,880.0,4.1,3.7,"['Adventure', 'RPG']","['Toylogic', 'Square Enix']"
+Super Mario 64,1996-06-23,4.1,2.6,2.6,21.0,463.0,2.5,775.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Super Smash Bros. Ultimate,2018-12-07,4.1,2.5,2.5,25.0,1.2,1.1,801.0,"['Fighting', 'Platform']","['Sora', 'Nintendo']"
+Cuphead,2017-09-29,4.1,1.9,1.9,18.0,1.2,4.5,2.6,"['Arcade', 'Indie', 'Platform', 'Shooter']",['Studio MDHR']
+Sekiro: Shadows Die Twice,2019-03-22,4.4,2.3,2.3,14.0,919.0,4.8,3.4,"['Adventure', 'Brawler']","['FromSoftware', 'Activision']"
+Final Fantasy VII,1997-01-31,4.2,2.9,2.9,15.0,1.1,5.0,1.5,"['Adventure', 'RPG', 'Turn Based Strategy']","['Square', 'Eidos Interactive']"
+Persona 4 Golden,2012-06-15,4.2,1.9,1.9,13.0,1.5,5.2,2.2,"['Adventure', 'RPG', 'Simulator', 'Visual Novel']","['NIS America', 'Atlus']"
+Genshin Impact,2020-09-28,2.6,653.0,653.0,14.0,2.7,1.3,280.0,"['Adventure', 'RPG']","['miHoYo', 'HoYoverse']"
+Signalis,2022-10-27,4.2,820.0,820.0,2.2,419.0,1.9,2.2,"['Adventure', 'Indie']","['rose-engine', 'Humble Games']"
+Resident Evil Village,2021-05-06,3.9,1.8,1.8,9.9,333.0,2.8,2.8,"['Adventure', 'Shooter']",['Capcom']
+Super Mario Galaxy,2007-11-01,4.3,2.7,2.7,21.0,468.0,3.1,1.2,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Fallout: New Vegas,2010-10-19,4.3,2.0,2.0,16.0,756.0,5.0,1.4,"['RPG', 'Shooter']","['Obsidian Entertainment', 'Bandai Namco Entertainment']"
+Outer Wilds,2019-05-28,4.6,1.8,1.8,7.7,661.0,4.8,3.1,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['Mobius Digital', 'Annapurna Interactive']"
+Resident Evil 2,2019-01-25,4.3,2.5,2.5,15.0,585.0,3.6,1.9,"['Adventure', 'Shooter']","['Capcom', 'Capcom Development Division 1']"
+Doom,2016-05-12,4.0,1.8,1.8,18.0,541.0,4.0,1.4,['Shooter'],"['id Software', 'Bethesda Softworks']"
+Shin Megami Tensei V,2021-11-12,3.8,1.1,1.1,4.1,1.0,3.4,2.6,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus', 'Sega']"
+Bayonetta,2009-10-29,3.9,1.7,1.7,13.0,614.0,5.0,2.3,"['Brawler', 'Shooter']","['Nex Entertainment', 'Sega']"
+Stardew Valley,2016-02-26,4.1,1.7,1.7,20.0,2.0,3.6,1.1,"['Indie', 'RPG', 'Simulator', 'Strategy']","['ConcernedApe', 'Chucklefish Games']"
+The Last of Us Part II,2020-06-19,4.1,2.5,2.5,13.0,472.0,2.8,2.5,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Interactive Entertainment']"
+Silent Hill 2,2001-09-24,4.5,2.2,2.2,8.6,282.0,2.9,2.1,"['Adventure', 'Puzzle']","['Team Silent', 'Konami']"
+The Witcher 3: Wild Hunt,2015-05-19,4.3,2.0,2.0,17.0,1.2,6.1,1.6,"['Adventure', 'RPG']","['WB Games', 'CD Projekt RED']"
+Persona 5,2016-09-15,4.1,1.8,1.8,16.0,630.0,2.8,1.7,"['Adventure', 'RPG', 'Turn Based Strategy']","['Atlus', 'Atlus USA']"
+Doom Eternal,2020-03-19,4.2,1.9,1.9,12.0,738.0,4.6,2.4,['Shooter'],"['Bethesda Softworks', 'id Software']"
+The Elder Scrolls V: Skyrim,2011-11-10,3.7,1.7,1.7,22.0,589.0,3.0,1.0,"['Adventure', 'RPG']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Neon White,2022-06-16,4.1,868.0,868.0,2.9,519.0,1.8,2.3,"['Indie', 'Platform', 'Shooter', 'Visual Novel']","['Ben Esposito', 'Annapurna Interactive']"
+Devil May Cry 5,2019-03-08,4.3,1.9,1.9,12.0,524.0,4.1,2.4,"['Adventure', 'Brawler']","['Capcom', 'Capcom Development Division 1']"
+Overwatch 2,2022-10-04,2.7,491.0,491.0,6.6,1.1,292.0,171.0,['Shooter'],['Blizzard Entertainment']
+Resident Evil 4,2005-01-11,4.3,2.3,2.3,14.0,360.0,3.0,1.2,['Shooter'],"['Capcom', 'Capcom Production Studio 4']"
+Final Fantasy VII Remake,2020-04-10,4.1,2.0,2.0,12.0,898.0,4.2,2.2,"['Adventure', 'RPG']",['Square Enix']
+Sonic Frontiers,2022-11-08,3.6,974.0,974.0,2.9,491.0,1.3,1.8,"['Adventure', 'Platform']","['Sega', 'Sonic Team']"
+Inscryption,2021-10-19,4.1,1.0,1.0,5.4,557.0,2.3,2.3,"['Adventure', 'Card & Board Game', 'Indie', 'Puzzle', 'Strategy']","['Devolver Digital', 'Daniel Mullins Games']"
+Tunic,2022-03-16,3.9,891.0,891.0,3.4,489.0,2.4,2.6,"['Adventure', 'Indie', 'Puzzle', 'RPG']","['Andrew Shouldice', 'Finji']"
+Dark Souls,2011-09-22,4.3,2.1,2.1,14.0,447.0,2.5,1.4,"['Adventure', 'RPG']","['FromSoftware', 'Bandai Namco Entertainment']"
+The Legend of Zelda: Ocarina of Time,1998-11-21,4.3,2.2,2.2,17.0,433.0,3.0,1.4,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD']"
+Vampire Survivors,2021-12-17,3.7,836.0,836.0,6.1,944.0,687.0,409.0,"['Arcade', 'Indie', 'RPG']",['Poncle']
+Fortnite,2017-07-25,2.8,827.0,827.0,17.0,926.0,470.0,47.0,"['Adventure', 'RPG', 'Shooter', 'Strategy']",['Epic Games']
+Fall Guys,2020-08-04,3.0,874.0,874.0,16.0,654.0,618.0,271.0,"['Indie', 'Platform', 'Sport']","['Devolver Digital', 'Mediatonic']"
+It Takes Two,2021-03-25,4.2,1.3,1.3,8.1,999.0,2.5,2.1,"['Adventure', 'Platform', 'Puzzle']","['Hazelight Studios', 'Electronic Arts']"
+BioShock,2007-08-21,4.0,1.8,1.8,17.0,339.0,4.0,1.2,"['Adventure', 'RPG', 'Shooter']","['2K Games', '2K Boston']"
+Metal Gear Solid,1998-09-03,4.2,1.9,1.9,12.0,287.0,3.0,1.6,"['Adventure', 'Tactical']","['Microsoft', 'Konami Computer Entertainment Japan']"
+Yakuza: Like a Dragon,2020-01-16,4.3,1.6,1.6,6.0,847.0,4.8,2.8,"['Adventure', 'RPG', 'Turn Based Strategy']","['Sega', 'Ryū Ga Gotoku Studios']"
+Animal Crossing: New Horizons,2020-03-19,3.6,1.6,1.6,20.0,1.8,1.3,1.1,['Simulator'],"['Nintendo EPD', 'Nintendo']"
+BioShock Infinite,2013-02-26,3.5,1.5,1.5,18.0,197.0,4.1,949.0,"['Adventure', 'Shooter']","['Irrational Games', '2K Games']"
+Deltarune: Chapter 2,2021-09-17,4.3,737.0,737.0,7.5,222.0,2.1,753.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['8-4', 'tobyfox']"
+Chrono Trigger,1995-03-11,4.5,1.9,1.9,9.1,518.0,4.9,2.2,"['Adventure', 'RPG']",['Square']
+Sonic Mania,2017-08-15,4.0,1.3,1.3,12.0,399.0,3.5,786.0,"['Adventure', 'Platform']","['PagodaWest Games', 'Sega']"
+Horizon Zero Dawn,2017-02-28,3.6,1.2,1.2,13.0,689.0,4.0,1.4,"['Adventure', 'RPG', 'Shooter']","['Guerrilla Games', 'Sony Interactive Entertainment']"
+Left 4 Dead 2,2009-11-17,3.9,1.1,1.1,19.0,279.0,1.5,358.0,['Shooter'],"['Turtle Rock Studios', 'Valve']"
+League of Legends,2009-10-27,2.1,484.0,484.0,13.0,1.2,324.0,52.0,"['MOBA', 'RPG', 'Strategy']","['GOA Games Services Ltd.', 'Riot Games']"
+Control,2019-08-27,3.6,1.3,1.3,9.6,591.0,5.2,1.3,"['Adventure', 'Shooter']","['505 Games', 'Remedy Entertainment']"
+Doki Doki Literature Club!,2017-09-22,3.3,783.0,783.0,14.0,131.0,1.5,460.0,"['Adventure', 'Indie', 'Visual Novel']",['Team Salvato']
+Batman: Arkham City,2011-10-18,4.1,1.6,1.6,16.0,192.0,2.7,651.0,"['Adventure', 'Brawler']","['DC Entertainment', 'Rocksteady Studios']"
+Yakuza Kiwami,2016-01-21,3.7,1.2,1.2,9.7,439.0,3.4,1.0,"['Adventure', 'Brawler', 'RPG']","['Sega', 'Ryū Ga Gotoku Studios']"
+Phoenix Wright: Ace Attorney,2005-09-15,4.1,1.3,1.3,12.0,418.0,1.9,1.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']","['Nintendo Australia', 'Capcom']"
+Team Fortress 2,2007-10-09,3.9,955.0,955.0,16.0,505.0,532.0,158.0,['Shooter'],"['Electronic Arts', 'Valve']"
+Xenoblade Chronicles 2,2017-12-01,3.9,1.4,1.4,7.4,453.0,2.7,1.5,"['Adventure', 'RPG']","['Monolith Soft', 'Nintendo']"
+Splatoon 3,2022-09-09,4.1,840.0,840.0,3.5,1.0,633.0,1.1,"['Platform', 'Shooter']",['Nintendo']
+Chrome Dino,2014-09-01,3.5,124.0,124.0,14.0,122.0,197.0,35.0,['Arcade'],['Google']
+Katana Zero,2019-04-18,4.1,1.1,1.1,9.3,189.0,2.1,1.5,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Strategy']","['Askiisoft', 'Devolver Digital']"
+Life is Strange,2015-01-29,3.4,1.4,1.4,15.0,209.0,2.1,817.0,"['Adventure', 'RPG']","[""DON'T NOD"", 'Square Enix']"
+Dark Souls II: Scholar of the First Sin,2015-04-02,3.5,988.0,988.0,11.0,443.0,2.7,994.0,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'FromSoftware']"
+Deathloop,2021-09-14,3.5,897.0,897.0,4.2,389.0,2.4,1.9,"['Adventure', 'Shooter']","['Bethesda Softworks', 'Arkane Studios']"
+Shadow of the Colossus,2005-10-18,4.4,1.5,1.5,10.0,134.0,2.9,1.7,"['Adventure', 'Platform', 'Puzzle']","['Sony Computer Entertainment, Inc. (SCEI)', 'Team Ico']"
+Teenage Mutant Ninja Turtles: Shredder's Revenge,2022-06-16,3.8,880.0,880.0,3.5,226.0,875.0,829.0,"['Arcade', 'Brawler', 'Indie']","['DotEmu', 'Tribute Games']"
+Psychonauts,2005-04-19,4.0,1.2,1.2,7.1,388.0,4.2,1.2,"['Adventure', 'Platform']","['Double Fine Productions', 'Majesco Entertainment']"
+Fallout 4,2015-11-09,3.1,1.0,1.0,16.0,407.0,2.9,752.0,"['RPG', 'Shooter']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Uncharted 4: A Thief's End,2016-05-10,4.1,1.8,1.8,14.0,177.0,2.7,1.2,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Interactive Entertainment']"
+The Legend of Zelda: A Link to the Past,1991-11-21,4.1,1.7,1.7,13.0,360.0,3.2,911.0,"['Adventure', 'Puzzle', 'RPG']","['Nintendo EAD', 'St. GIGA']"
+Silent Hill,1999-02-23,4.1,1.3,1.3,6.8,272.0,2.3,1.6,"['Adventure', 'Puzzle']","['Konami', 'Team Silent']"
+Super Smash Bros. Brawl,2008-01-31,3.8,1.3,1.3,19.0,51.0,511.0,250.0,"['Fighting', 'Platform']","['Nintendo', 'Sora']"
+Borderlands 2,2012-09-18,3.5,1.1,1.1,16.0,344.0,2.7,494.0,"['RPG', 'Shooter']","['Gearbox Software', '2K Games']"
+No More Heroes,2007-12-06,4.0,1.2,1.2,5.6,280.0,2.6,1.8,"['Adventure', 'Brawler']",['Grasshopper Manufacture']
+Ghost of Tsushima,2020-07-17,4.1,1.4,1.4,8.5,688.0,3.5,3.1,"['Adventure', 'Brawler', 'RPG']","['Sucker Punch Productions', 'Sony Interactive Entertainment']"
+Sifu,2022-02-08,3.8,633.0,633.0,2.7,283.0,1.7,2.3,"['Brawler', 'Indie']","['Sloclap', 'Kepler Interactive']"
+Super Mario Bros. 3,1988-10-23,4.0,1.6,1.6,14.0,109.0,1.4,362.0,['Platform'],"['Nintendo R&D4', 'Nintendo']"
+Dishonored,2012-10-09,3.9,1.1,1.1,14.0,268.0,3.1,866.0,"['Adventure', 'RPG']","['Arkane Studios', 'Bethesda Softworks']"
+Metal Gear Solid 3: Snake Eater,2004-11-17,4.5,1.5,1.5,9.2,118.0,2.4,1.3,"['Adventure', 'Shooter', 'Tactical']","['Konami Computer Entertainment Japan', 'Konami']"
+Journey,2012-03-13,3.9,1.5,1.5,12.0,94.0,2.7,1.7,"['Adventure', 'Platform']","['Sony Computer Entertainment', 'ThatGameCompany']"
+Kingdom Hearts,2002-03-28,3.6,1.3,1.3,12.0,266.0,2.1,1.0,"['Adventure', 'RPG']","['Square', 'Disney Interactive Studios']"
+Titanfall 2,2016-10-28,4.1,1.3,1.3,12.0,163.0,2.1,656.0,"['Adventure', 'Shooter']","['Respawn Entertainment', 'Electronic Arts']"
+Doom,1993-12-10,4.0,1.4,1.4,11.0,203.0,1.5,514.0,['Shooter'],"['Activision', 'id Software']"
+Live A Live,2022-07-22,4.1,555.0,555.0,1.1,235.0,1.7,1.9,['RPG'],['Square Enix']
+The Last of Us Remastered,2014-07-26,4.3,1.1,1.1,12.0,258.0,1.8,682.0,"['Adventure', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment']"
+Sonic the Hedgehog,1991-06-23,3.1,1.1,1.1,12.0,60.0,804.0,243.0,['Platform'],"['Sonic Team', 'Sega']"
+Rocket League,2015-07-06,3.4,917.0,917.0,17.0,564.0,698.0,113.0,"['Indie', 'Racing', 'Sport']",['Psyonix']
+Batman: Arkham Knight,2015-06-23,3.7,1.2,1.2,13.0,279.0,3.4,757.0,"['Adventure', 'Brawler']","['Rocksteady Studios', 'Warner Bros. Interactive Entertainment']"
+Bayonetta 3,2022-10-28,3.7,690.0,690.0,1.6,235.0,1.6,2.2,['Brawler'],"['PlatinumGames', 'Nintendo']"
+Disco Elysium,2019-10-15,4.6,1.1,1.1,4.0,478.0,2.8,1.9,"['Adventure', 'RPG', 'Turn Based Strategy']",['ZA/UM']
+Guilty Gear: Strive,2021-06-11,3.9,810.0,810.0,5.5,714.0,805.0,1.2,['Fighting'],"['Bandai Namco Studios', 'Arc System Works']"
+Wii Sports,2006-11-19,3.7,775.0,775.0,18.0,39.0,320.0,93.0,"['Simulator', 'Sport']","['Nintendo', 'Nintendo EAD Group No. 2']"
+Hogwarts Legacy,2023-02-10,3.5,474.0,474.0,1.4,766.0,686.0,1.6,"['Adventure', 'RPG']","['Portkey Games', 'Avalanche Software']"
+Mario Kart Wii,2008-04-10,3.9,1.0,1.0,19.0,88.0,461.0,168.0,['Racing'],"['Nintendo', 'Nintendo EAD']"
+Resident Evil 3,2020-04-03,3.2,1.3,1.3,8.4,157.0,2.4,1.6,"['Adventure', 'Shooter']","['K2', 'Capcom']"
+Unpacking,2021-11-02,3.6,751.0,751.0,4.9,216.0,996.0,1.3,"['Indie', 'Point-and-Click', 'Puzzle', 'Simulator']","['Witch Beam', 'Humble Games']"
+Red Dead Redemption,2010-05-18,4.2,1.5,1.5,13.0,218.0,2.4,1.6,"['Adventure', 'RPG', 'Shooter']","['Rockstar Games', 'Rockstar North']"
+Tales of Arise,2021-09-10,3.6,650.0,650.0,3.1,571.0,2.3,1.9,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'Bandai Namco Studios']"
+Deltarune: Chapter 1,2018-10-31,3.9,591.0,591.0,11.0,107.0,1.8,729.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['8-4', 'tobyfox']"
+Dead Space,2023-01-27,4.3,501.0,501.0,1.3,248.0,985.0,1.9,"['Adventure', 'RPG', 'Shooter']","['Motive Studios', 'Electronic Arts']"
+Tomb Raider,2013-03-04,3.5,896.0,896.0,15.0,175.0,2.7,508.0,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Square Enix', 'Crystal Dynamics']"
+Super Mario Galaxy 2,2010-05-23,4.3,1.8,1.8,13.0,123.0,2.5,1.3,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+Donkey Kong Country,1994-11-18,3.9,1.3,1.3,11.0,186.0,1.9,514.0,"['Adventure', 'Platform']",['Rare']
+What Remains of Edith Finch,2017-04-24,4.0,1.4,1.4,8.6,61.0,2.2,1.3,"['Adventure', 'Indie', 'Puzzle']","['Annapurna Interactive', 'Giant Sparrow']"
+Monster Hunter Rise,2021-03-26,4.0,789.0,789.0,5.7,1.1,1.8,1.3,"['Adventure', 'Brawler', 'RPG']","['Capcom', 'Capcom Development Division 2']"
+Pokémon Emerald,2004-09-16,4.0,1.2,1.2,16.0,219.0,1.0,376.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+NEO: The World Ends with You,2021-07-26,4.2,725.0,725.0,2.5,357.0,2.4,2.0,"['Brawler', 'RPG']",['Square Enix']
+Mirror's Edge,2008-11-11,3.5,788.0,788.0,12.0,117.0,2.1,813.0,"['Adventure', 'Platform', 'Shooter']","['Electronic Arts', 'EA Digital Illusions CE']"
+Bayonetta 2,2014-09-20,4.1,1.1,1.1,6.0,154.0,3.3,2.0,['Brawler'],"['PlatinumGames', 'Nintendo']"
+Sonic Generations,2011-11-01,3.8,1.1,1.1,9.9,133.0,1.7,480.0,"['Adventure', 'Platform']","['Sonic Team', 'Sega']"
+Shin Megami Tensei: Nocturne,2003-02-20,4.2,1.1,1.1,4.1,358.0,2.5,1.3,['RPG'],"['Atlus', 'Ghostlight Ltd.']"
+Death's Door,2021-07-20,3.8,738.0,738.0,3.3,292.0,1.7,1.4,"['Adventure', 'Brawler', 'Indie', 'RPG']","['Devolver Digital', 'Acid Nerve']"
+Devil May Cry 3: Dante's Awakening - Special Edition,2006-01-24,4.4,852.0,852.0,6.5,176.0,1.4,481.0,"['Adventure', 'Brawler', 'Shooter']","['Capcom', 'Capcom Production Studio 1']"
+Assassin's Creed IV Black Flag,2013-10-29,3.7,1.2,1.2,13.0,211.0,2.2,716.0,"['Adventure', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+The Legend of Zelda: Twilight Princess,2006-11-19,4.0,899.0,899.0,10.0,228.0,2.5,1.3,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+Crisis Core: Final Fantasy VII - Reunion,2022-12-13,3.8,409.0,409.0,1.3,284.0,1.0,1.3,['RPG'],['Square Enix']
+Metroid Prime,2002-11-17,4.3,1.4,1.4,6.8,221.0,2.7,1.2,"['Adventure', 'Platform', 'Shooter']","['Nintendo', 'Retro Studios']"
+Sonic the Hedgehog 2,1992-11-21,3.7,1.2,1.2,10.0,56.0,883.0,228.0,"['Adventure', 'Platform']","['Sonic Team', 'Sega']"
+Metal Gear Solid 4: Guns of the Patriots,2008-06-12,3.9,1.2,1.2,7.7,94.0,2.5,1.3,"['Adventure', 'Shooter', 'Tactical']","['Kojima Productions', 'Konami']"
+Atomic Heart,2023-02-21,3.0,363.0,363.0,983.0,241.0,676.0,1.1,"['Adventure', 'RPG', 'Shooter']","['Mundfish', 'Focus Entertainment']"
+Minecraft,2017-09-20,4.2,571.0,571.0,11.0,509.0,412.0,85.0,"['Adventure', 'Simulator']",['Mojang Studios']
+Resident Evil 5,2009-03-05,3.1,1.0,1.0,10.0,176.0,1.6,561.0,"['Adventure', 'Shooter']",['Capcom']
+The World Ends with You,2007-07-26,4.2,1.0,1.0,5.2,256.0,2.8,1.5,"['Arcade', 'RPG']","['Square Enix', 'Ubisoft Entertainment']"
+A Hat in Time,2017-10-05,4.0,898.0,898.0,7.2,320.0,2.7,1.6,"['Adventure', 'Indie', 'Platform']","['Humble Bundle', 'Gears for Breakfast']"
+Scorn,2022-10-14,3.0,348.0,348.0,1.4,100.0,747.0,934.0,"['Adventure', 'Indie', 'Puzzle']","['Ebb Software', 'Kepler Interactive']"
+Fire Emblem: Awakening,2012-04-19,3.8,1.2,1.2,9.5,287.0,2.0,814.0,"['Adventure', 'RPG', 'Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Cuphead: The Delicious Last Course,2022-06-30,4.3,398.0,398.0,2.2,154.0,989.0,951.0,"['Adventure', 'Indie', 'Platform']",['Studio MDHR']
+Ori and the Will of the Wisps,2020-03-10,4.3,1.2,1.2,6.0,263.0,3.7,2.2,"['Adventure', 'Platform']","['Moon Studios', 'Xbox Game Studios']"
+Mass Effect,2007-11-20,3.8,1.0,1.0,10.0,172.0,2.0,774.0,"['RPG', 'Shooter']","['BioWare', 'Microsoft Game Studios']"
+Return of the Obra Dinn,2018-10-18,4.3,1.0,1.0,4.7,195.0,2.6,2.4,"['Adventure', 'Indie', 'Puzzle']","['3909', 'Lucas Pope']"
+Kingdom Hearts III,2019-01-25,3.5,1.1,1.1,8.1,206.0,2.6,1.1,"['Adventure', 'Brawler', 'RPG']","['Square Enix', 'Disney Interactive Studios']"
+Fallout 3,2008-10-28,3.4,894.0,894.0,12.0,162.0,2.0,589.0,"['RPG', 'Shooter']","['ZeniMax Media', 'Bethesda Game Studios']"
+Uncharted: Drake's Fortune,2007-11-16,3.1,882.0,882.0,12.0,98.0,1.2,460.0,"['Adventure', 'Platform', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment, Inc. (SCEI)']"
+"Zero Escape: Nine Hours, Nine Persons, Nine Doors",2009-12-10,4.2,949.0,949.0,6.1,162.0,1.8,991.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']","['Chunsoft', 'Spike']"
+Lost Judgment,2021-09-24,4.3,790.0,790.0,1.7,192.0,1.7,1.6,"['Adventure', 'Brawler', 'RPG']","['Ryū Ga Gotoku Studios', 'Sega']"
+Super Mario 3D Land,2011-11-03,3.5,1.0,1.0,12.0,146.0,1.0,461.0,['Platform'],"['Nintendo EAD', 'Nintendo']"
+Gris,2018-12-13,3.6,911.0,911.0,6.6,227.0,2.7,1.5,"['Adventure', 'Indie', 'Platform', 'Puzzle']","['Nomada Studio', 'Devolver Digital']"
+Silent Hill 3,2003-05-23,4.2,1.1,1.1,4.9,156.0,2.0,1.4,"['Adventure', 'Puzzle']","['Konami', 'Team Silent']"
+Call of Duty: Modern Warfare 2,2009-11-10,3.8,1.0,1.0,14.0,34.0,666.0,276.0,['Shooter'],"['Infinity Ward', 'Activision']"
+The Walking Dead: Season One,2012-04-24,4.0,1.2,1.2,12.0,111.0,1.1,467.0,"['Adventure', 'Point-and-Click']","['Telltale Games', 'Sony Computer Entertainment']"
+Mario Kart DS,2005-11-14,3.8,857.0,857.0,15.0,36.0,417.0,159.0,['Racing'],['Nintendo EAD Group No. 1']
+Apex Legends,2019-02-04,3.1,624.0,624.0,12.0,669.0,463.0,82.0,['Shooter'],"['Respawn Entertainment', 'Electronic Arts']"
+Devil May Cry 2,2003-01-25,1.6,620.0,620.0,6.4,56.0,1.6,517.0,"['Adventure', 'Brawler']","['Capcom', 'Capcom Production Studio 1']"
+The Legend of Zelda: Ocarina of Time 3D,2011-06-16,4.2,1.0,1.0,11.0,314.0,1.9,572.0,"['Adventure', 'Puzzle', 'RPG']","['Grezzo', 'Nintendo']"
+Twelve Minutes,2021-08-19,2.4,526.0,526.0,4.0,63.0,738.0,801.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle']","['Annapurna Interactive', 'Luis Antonio']"
+Demon's Souls,2009-02-05,4.1,1.2,1.2,5.5,155.0,1.7,1.2,"['Adventure', 'RPG']","['FromSoftware', 'Atlus']"
+Persona 3 Portable,2009-11-01,4.0,825.0,825.0,5.5,492.0,1.8,995.0,"['Adventure', 'RPG', 'Strategy', 'Visual Novel']","['Atlus', 'Atlus USA']"
+Rayman Legends,2013-08-30,4.0,921.0,921.0,9.8,177.0,2.3,643.0,"['Adventure', 'Platform']","['Ubisoft Montpellier', 'Ubisoft Entertainment']"
+Uncharted 2: Among Thieves,2009-10-13,3.9,1.4,1.4,12.0,96.0,1.5,515.0,"['Adventure', 'Platform', 'Shooter']","['Naughty Dog', 'Sony Computer Entertainment']"
+Monster Hunter: World,2018-01-26,3.8,856.0,856.0,10.0,474.0,2.3,861.0,"['Adventure', 'RPG']",['Capcom']
+Milk inside a bag of milk inside a bag of milk,2020-08-26,3.3,503.0,503.0,3.2,26.0,899.0,692.0,"['Adventure', 'Indie', 'Visual Novel']","['Nikita Kryukov', 'Nikita Kaf Publishing']"
+The Legend of Zelda: A Link Between Worlds,2013-11-22,4.1,1.3,1.3,10.0,168.0,2.4,1.1,"['Adventure', 'Puzzle', 'RPG']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+Final Fantasy XIV: Endwalker,2021-12-07,4.6,426.0,426.0,2.5,454.0,683.0,391.0,"['Adventure', 'RPG']",['Square Enix']
+The Legend of Zelda: The Minish Cap,2004-11-04,3.9,1.1,1.1,8.7,280.0,2.5,911.0,"['Adventure', 'RPG']","['Nintendo', 'Capcom Production Studio 1']"
+Pokémon Go,2016-07-06,2.7,400.0,400.0,14.0,575.0,197.0,22.0,"['RPG', 'Simulator']","['The Pokémon Company', 'Niantic Labs']"
+Night in the Woods,2017-02-21,4.0,1.1,1.1,6.0,304.0,3.2,1.5,"['Adventure', 'Indie', 'Platform']","['Finji', 'Infinite Fall']"
+Shin Megami Tensei IV,2013-05-23,4.1,949.0,949.0,4.3,397.0,2.5,1.1,['RPG'],"['Atlus', 'Nintendo']"
+Kingdom Hearts II,2005-12-22,4.3,1.2,1.2,9.6,137.0,1.6,652.0,"['Adventure', 'RPG']","['Buena Vista Games', 'Square Enix']"
+Castlevania: Aria of Sorrow,2003-05-06,4.2,1.0,1.0,5.1,114.0,1.7,871.0,"['Adventure', 'Platform', 'RPG']","['Konami Computer Entertainment Tokyo', 'Konami']"
+Halo: Reach,2010-09-14,4.0,1.2,1.2,11.0,98.0,1.2,370.0,['Shooter'],"['Bungie', 'Microsoft Game Studios']"
+Grand Theft Auto: Vice City,2002-10-27,3.8,1.0,1.0,12.0,125.0,1.6,526.0,"['Adventure', 'Arcade', 'Racing', 'Shooter']","['Rockstar Games', 'Rockstar North']"
+A Short Hike,2019-07-30,4.1,1.1,1.1,5.4,91.0,1.9,1.0,"['Adventure', 'Indie', 'Platform']","['adamgryu', 'Whippoorwill']"
+Ori and the Blind Forest,2015-03-11,3.9,780.0,780.0,7.9,260.0,2.9,1.4,"['Adventure', 'Platform', 'Puzzle']","['Moon Studios', 'Microsoft Studios']"
+Demon's Souls,2020-11-12,3.9,880.0,880.0,4.1,403.0,2.4,2.1,"['Adventure', 'RPG']","['Bluepoint Games', 'Sony Interactive Entertainment']"
+A Plague Tale: Innocence,2019-05-14,3.7,852.0,852.0,5.4,202.0,2.6,1.0,"['Adventure', 'RPG']","['Focus Entertainment', 'Asobo Studio']"
+The Legend of Zelda: Link's Awakening,2019-09-20,3.9,1.1,1.1,7.6,387.0,2.8,2.0,['Adventure'],"['Nintendo', 'Grezzo']"
+Assassin's Creed,2007-11-13,2.9,801.0,801.0,13.0,118.0,1.2,496.0,"['Adventure', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+The Legend of Zelda: Tears of the Kingdom,2023-05-12,3.8,581.0,581.0,72.0,6.0,1.6,5.4,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EPD Production Group No. 3']"
+Assassin's Creed III,2012-10-30,3.0,707.0,707.0,12.0,72.0,1.2,390.0,"['Adventure', 'Strategy']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+Castlevania,1986-09-26,3.4,845.0,845.0,5.7,58.0,869.0,365.0,"['Adventure', 'Platform']","['Nintendo', 'Konami']"
+Milk outside a bag of milk outside a bag of milk,2021-12-16,3.7,344.0,344.0,1.5,55.0,828.0,651.0,"['Adventure', 'Indie', 'Visual Novel']",['Nikita Kryukov']
+Lisa,2014-12-15,4.3,761.0,761.0,2.9,143.0,2.1,1.3,"['Adventure', 'Indie', 'RPG']",['Dingaling']
+Crash Bandicoot,1996-09-09,3.5,660.0,660.0,8.7,58.0,702.0,288.0,['Platform'],"['Sony Computer Entertainment', 'Naughty Dog']"
+The Legend of Zelda: The Wind Waker HD,2013-09-26,4.3,887.0,887.0,6.7,183.0,1.7,910.0,"['Adventure', 'Puzzle']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+The Outer Worlds,2019-10-25,3.2,582.0,582.0,6.6,256.0,2.4,1.3,"['Adventure', 'RPG', 'Shooter']","['Obsidian Entertainment', 'Private Division']"
+The Legend of Zelda: Majora's Mask 3D,2015-02-12,4.1,797.0,797.0,6.7,191.0,2.2,813.0,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD Tokyo']"
+The Callisto Protocol,2022-12-02,2.9,266.0,266.0,737.0,62.0,511.0,1.0,"['Adventure', 'Shooter']","['Krafton', 'Striking Distance Studios']"
+The Wolf Among Us,2013-10-11,3.9,837.0,837.0,8.1,81.0,1.5,678.0,"['Adventure', 'Point-and-Click']",['Telltale Games']
+Dead Space 2,2011-01-25,4.0,775.0,775.0,6.0,97.0,1.9,716.0,"['Adventure', 'Shooter']","['Electronic Arts', 'Visceral Games']"
+Super Mario Bros. 2,1988-10-09,3.1,864.0,864.0,8.4,40.0,767.0,189.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD']"
+Until Dawn,2015-08-25,3.4,812.0,812.0,8.0,85.0,1.2,585.0,['Adventure'],"['Supermassive Games', 'Sony Computer Entertainment']"
+Kid Icarus: Uprising,2012-03-22,4.1,860.0,860.0,5.4,140.0,1.7,924.0,"['Brawler', 'Shooter']","['Nintendo', 'Project Sora']"
+Chained Echoes,2022-12-08,4.2,191.0,191.0,445.0,228.0,584.0,598.0,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Turn Based Strategy']","['Deck13 Spotlight', 'Ark Heiral']"
+BioShock Remastered,2016-09-14,4.0,509.0,509.0,4.8,252.0,2.2,341.0,"['Adventure', 'RPG', 'Shooter']","['2K Games', '2K Australia']"
+Sonic Unleashed,2008-11-20,3.3,728.0,728.0,6.5,118.0,995.0,476.0,"['Adventure', 'Brawler', 'Platform']","['Sega', 'Sonic Team']"
+Yakuza 5 Remastered,2019-06-20,4.1,665.0,665.0,2.9,223.0,2.4,852.0,['Adventure'],"['Ryū Ga Gotoku Studios', 'Sega']"
+Metal Gear Solid 3: Subsistence,2005-12-22,4.6,641.0,641.0,3.7,50.0,949.0,639.0,"['Adventure', 'Shooter', 'Tactical']","['Konami Computer Entertainment Japan', 'Konami']"
+Super Mario World 2: Yoshi's Island,1995-08-05,4.1,1.1,1.1,7.1,141.0,1.5,360.0,['Platform'],"['Nintendo EAD', 'Nintendo']"
+Devil May Cry 4,2008-01-31,3.6,511.0,511.0,6.5,84.0,1.7,681.0,"['Adventure', 'Brawler']","['Capcom', 'Capcom Production Studio 1']"
+Donut County,2018-08-28,3.4,695.0,695.0,5.6,35.0,696.0,496.0,"['Adventure', 'Indie', 'Puzzle']","['Annapurna Interactive', 'Ben Esposito']"
+Assassin's Creed Origins,2017-10-26,3.4,788.0,788.0,7.2,302.0,2.0,681.0,"['Adventure', 'RPG']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Ghostwire: Tokyo,2022-03-24,3.1,387.0,387.0,1.2,141.0,1.1,1.2,['Adventure'],"['Bethesda Softworks', 'Tango Gameworks']"
+Yakuza 4 Remastered,2019-01-17,3.7,655.0,655.0,3.5,137.0,2.1,815.0,"['Adventure', 'Brawler']","['SEGA of Japan', 'Ryū Ga Gotoku Studios']"
+Call of Duty: Modern Warfare II,2022-10-28,3.3,347.0,347.0,1.6,268.0,241.0,381.0,['Shooter'],"['Infinity Ward', 'Activision']"
+Crash Bandicoot 4: It's About Time,2020-10-02,3.8,699.0,699.0,3.2,293.0,1.7,1.3,['Platform'],"['Toys for Bob', 'Activision']"
+Grand Theft Auto III,2001-10-22,3.3,711.0,711.0,7.8,88.0,1.3,373.0,"['Adventure', 'Racing', 'Shooter', 'Simulator']","['DMA Design', 'Rockstar Games']"
+Dead by Daylight,2016-06-14,3.0,451.0,451.0,7.1,520.0,726.0,196.0,"['Indie', 'Strategy']","['Starbreeze publishing AB', 'Behaviour Interactive']"
+Abzu,2016-08-02,3.4,714.0,714.0,5.4,59.0,2.1,548.0,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['505 Games', 'Giant Squid']"
+Batman: Arkham Origins,2013-10-16,3.4,642.0,642.0,7.8,125.0,1.7,632.0,"['Adventure', 'Brawler']","['WB Games', 'WB Games Montréal']"
+Splatoon 2,2017-07-21,3.8,736.0,736.0,8.9,215.0,697.0,419.0,"['Platform', 'Shooter']","['Nintendo', 'Nintendo EPD']"
+Pokémon HeartGold,2009-09-12,4.2,892.0,892.0,9.5,128.0,749.0,331.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['The Pokémon Company', 'Game Freak']"
+Kena: Bridge of Spirits,2021-09-20,3.6,491.0,491.0,2.0,204.0,1.4,1.7,"['Adventure', 'Indie']",['Ember Lab']
+Final Fantasy VIII,1999-02-11,3.6,982.0,982.0,5.1,182.0,2.4,715.0,"['Adventure', 'RPG']","['Square', 'Square Enix']"
+The Elder Scrolls IV: Oblivion,2006-03-20,3.7,725.0,725.0,8.1,183.0,1.9,563.0,"['Adventure', 'RPG']","['Bethesda Game Studios', '2K Games']"
+The Silver Case,2016-10-07,4.2,641.0,641.0,1.4,162.0,1.2,714.0,"['Adventure', 'Puzzle', 'Visual Novel']","['NIS America', 'Grasshopper Manufacture']"
+Marvel's Spider-Man Remastered,2020-11-12,4.2,335.0,335.0,2.8,206.0,574.0,472.0,"['Adventure', 'Brawler']","['Insomniac Games', 'Sony Interactive Entertainment']"
+Alan Wake,2010-05-14,3.6,702.0,702.0,6.2,96.0,2.0,741.0,"['Adventure', 'Shooter']","['Microsoft Game Studios', 'Remedy Entertainment']"
+A Way Out,2018-03-23,3.6,620.0,620.0,6.4,127.0,945.0,668.0,['Adventure'],"['Electronic Arts', 'Hazelight Studios']"
+LEGO Batman: The Video Game,2008-04-18,3.6,643.0,643.0,8.8,82.0,920.0,152.0,"['Adventure', 'Brawler', 'Platform']","['WB Games', ""Traveller's Tales""]"
+Borderlands 3,2019-09-13,3.2,530.0,530.0,5.7,356.0,2.2,681.0,"['RPG', 'Shooter']","['2K Games', 'Gearbox Software']"
+Dragon Ball FighterZ,2018-01-26,3.7,603.0,603.0,7.8,258.0,715.0,325.0,['Fighting'],"['Arc System Works', 'Bandai Namco Entertainment']"
+Ico,2001-09-24,4.0,671.0,671.0,3.5,83.0,1.8,1.2,"['Adventure', 'Platform', 'Puzzle']","['Team Ico', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Shin Megami Tensei III: Nocturne - HD Remaster,2020-10-28,4.0,457.0,457.0,1.8,387.0,2.0,1.3,"['RPG', 'Turn Based Strategy']","['Ghostlight Ltd.', 'Atlus']"
+The Witness,2016-01-26,3.6,651.0,651.0,5.3,186.0,2.1,643.0,"['Adventure', 'Indie', 'Puzzle']","['Thekla, Inc']"
+Animal Crossing: New Leaf,2012-11-08,4.0,813.0,813.0,9.9,156.0,586.0,383.0,['Simulator'],"['Nintendo', 'Nintendo EAD Group No. 2']"
+Wo Long: Fallen Dynasty,2023-03-03,3.5,284.0,284.0,513.0,241.0,390.0,727.0,"['Adventure', 'RPG']","['Koei Tecmo Games', 'Team NINJA']"
+Final Fantasy VII Remake Intergrade,2021-06-10,4.2,445.0,445.0,2.4,297.0,1.4,790.0,"['Adventure', 'RPG']",['Square Enix']
+Sonic Adventure 2,2001-06-23,3.6,842.0,842.0,5.1,89.0,1.0,342.0,"['Adventure', 'Platform']","['Sega', 'Sonic Team USA']"
+Destiny 2,2017-09-06,2.9,507.0,507.0,8.7,524.0,845.0,103.0,"['Adventure', 'RPG', 'Shooter']","['Activision', 'Bungie']"
+Kirby's Dream Land,1992-04-27,3.2,691.0,691.0,5.3,22.0,411.0,178.0,['Platform'],"['HAL Laboratory', 'Nintendo']"
+Sonic the Hedgehog 3 & Knuckles,1994-10-18,4.2,839.0,839.0,6.0,40.0,656.0,269.0,['Platform'],"['Sega Technical Institute', 'Sega']"
+Resident Evil 2,1998-01-21,4.2,1.1,1.1,5.5,54.0,1.1,597.0,"['Adventure', 'Shooter']","['Capcom', 'Factor 5']"
+Full Metal Daemon Muramasa,2009-10-30,4.3,229.0,229.0,496.0,96.0,567.0,592.0,"['Adventure', 'Visual Novel']","['Nitroplus', 'JAST USA']"
+Soma,2015-09-21,4.0,764.0,764.0,3.9,122.0,2.2,837.0,"['Adventure', 'Indie']",['Frictional Games']
+The Binding of Isaac: Rebirth,2014-11-04,4.0,492.0,492.0,8.2,334.0,1.1,636.0,"['Adventure', 'Arcade', 'Indie', 'RPG', 'Shooter']","['Nicalis, Inc.']"
+Luigi's Mansion 3,2019-10-31,3.8,800.0,800.0,5.6,313.0,2.2,1.3,['Adventure'],"['Nintendo', 'Next Level Games']"
+Katamari Damacy Reroll,2018-12-06,4.1,576.0,576.0,4.3,199.0,1.3,513.0,"['Adventure', 'Puzzle']","['MONKEYCRAFT Co. Ltd', 'Bandai Namco Entertainment']"
+Friday Night Funkin',2020-11-01,2.8,203.0,203.0,4.5,67.0,230.0,171.0,['Music'],['ninja_muffin99']
+Osu!,2007-09-16,3.1,187.0,187.0,7.3,426.0,234.0,90.0,"['Indie', 'Music']","['Dean ""ppy"" Herbert']"
+The Legend of Zelda: Twilight Princess,2006-11-19,4.1,642.0,642.0,6.0,82.0,1.1,466.0,"['Adventure', 'RPG']","['Nintendo', 'Nintendo EAD Software Development Group No.3']"
+Bloodborne: The Old Hunters,2015-11-24,4.6,266.0,266.0,4.4,68.0,930.0,616.0,"['Adventure', 'RPG']","['FromSoftware', 'Sony Computer Entertainment']"
+Fire Emblem Warriors: Three Hopes,2022-06-24,3.6,360.0,360.0,1.1,305.0,761.0,576.0,"['Brawler', 'RPG', 'Simulator', 'Strategy', 'Tactical']","['Nintendo', 'Omega Force']"
+Super Smash Bros. for Nintendo 3DS,2014-09-13,3.3,545.0,545.0,10.0,23.0,273.0,96.0,['Fighting'],"['Nintendo', 'Sora']"
+The Legend of Heroes: Trails to Azure,2011-09-29,4.5,519.0,519.0,1.4,72.0,714.0,701.0,"['Adventure', 'RPG', 'Strategy', 'Turn Based Strategy']",['Nihon Falcom']
+Super Mario RPG: Legend of the Seven Stars,1996-03-09,4.0,832.0,832.0,4.4,133.0,2.3,858.0,"['Adventure', 'Platform', 'RPG']","['Square', 'Nintendo']"
+Astral Chain,2019-08-30,3.6,568.0,568.0,3.6,210.0,2.3,1.4,"['Adventure', 'Brawler']","['PlatinumGames', 'Nintendo']"
+DmC: Devil May Cry,2013-01-15,3.0,432.0,432.0,6.3,62.0,1.2,448.0,"['Adventure', 'Brawler']","['Ninja Theory', 'Capcom']"
+Dragon Age: Origins,2009-11-03,4.0,712.0,712.0,6.1,148.0,1.7,534.0,['RPG'],"['Electronic Arts', 'BioWare']"
+Mario Kart 8,2014-05-29,3.9,643.0,643.0,9.3,40.0,225.0,121.0,"['Arcade', 'Racing']","['Nintendo', 'Nintendo EAD Group No. 1']"
+Xenoblade Chronicles,2010-06-10,4.2,828.0,828.0,3.9,142.0,1.3,732.0,"['Adventure', 'RPG']","['Nintendo', 'Monolith Soft']"
+The Forgotten City,2021-07-28,3.9,471.0,471.0,1.7,53.0,818.0,701.0,"['Adventure', 'Indie', 'RPG']","['Modern Storyteller', 'Dear Villagers']"
+Untitled Goose Game,2019-09-20,3.6,642.0,642.0,6.5,137.0,1.3,1.2,"['Adventure', 'Indie', 'Puzzle', 'Simulator']","['House House', 'Panic']"
+Sonic Adventure 2: Battle,2001-12-20,3.7,742.0,742.0,6.8,78.0,771.0,248.0,"['Adventure', 'Platform']","['Sonic Team', 'Sega']"
+Saints Row: The Third,2011-11-15,3.4,482.0,482.0,9.4,74.0,879.0,210.0,"['Adventure', 'Racing', 'Shooter']","['Volition', 'THQ']"
+Call of Duty: Black Ops III,2015-11-06,3.1,550.0,550.0,8.2,78.0,625.0,185.0,"['Adventure', 'Shooter']","['Activision', 'Treyarch']"
+Pokémon Red,1996-02-27,3.4,734.0,734.0,8.8,57.0,425.0,154.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Tinykin,2022-08-30,4.0,416.0,416.0,753.0,39.0,276.0,376.0,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Puzzle', 'RPG']","['Splashteam', 'tinyBuild']"
+Dragon's Dogma: Dark Arisen,2013-04-23,3.8,458.0,458.0,3.3,215.0,2.2,469.0,"['Adventure', 'RPG']",['Capcom']
+Brawlhalla,2014-04-30,2.6,295.0,295.0,6.9,146.0,294.0,36.0,"['Arcade', 'Fighting', 'Indie', 'Platform']","['Ubisoft', 'Blue Mammoth Games']"
+Pokémon Unite,2021-07-20,2.7,285.0,285.0,4.5,263.0,184.0,65.0,['MOBA'],"['Timi', 'The Pokémon Company']"
+Black Mesa,2020-03-06,4.1,459.0,459.0,3.7,200.0,1.5,600.0,"['Adventure', 'Indie', 'Platform', 'Shooter']",['Crowbar Collective']
+The Messenger,2018-08-30,3.8,613.0,613.0,3.7,157.0,1.7,702.0,"['Adventure', 'Arcade', 'Indie', 'Platform']","['Sabotage', 'Devolver Digital']"
+Jet Set Radio,2012-09-18,3.7,504.0,504.0,3.5,112.0,1.9,671.0,['Platform'],"['BlitWorks', 'Sega']"
+Pathologic 2,2019-05-23,4.3,513.0,513.0,1.3,155.0,1.8,1.3,"['Adventure', 'Indie', 'RPG']","['Ice-Pick Lodge', 'tinyBuild']"
+Tactics Ogre: Reborn,2022-11-11,4.1,206.0,206.0,279.0,137.0,599.0,620.0,"['RPG', 'Simulator', 'Strategy', 'Tactical']",['Square Enix']
+Hyper Light Drifter,2016-03-31,3.8,599.0,599.0,4.0,160.0,2.6,981.0,"['Adventure', 'Indie', 'Platform', 'RPG']",['Heart Machine']
+Left 4 Dead,2008-11-17,3.6,488.0,488.0,8.6,35.0,772.0,213.0,['Shooter'],"['Certain Affinity', 'Valve']"
+The 25th Ward: The Silver Case,2018-03-13,4.4,482.0,482.0,751.0,68.0,1.0,738.0,"['Adventure', 'Puzzle', 'Visual Novel']","['NIS America', 'Grasshopper Manufacture']"
+Darkest Dungeon,2016-01-19,3.6,476.0,476.0,5.2,328.0,2.3,504.0,"['Adventure', 'Indie', 'RPG', 'Strategy', 'Turn Based Strategy']",['Red Hook Studios']
+Roblox,2006-09-01,2.8,187.0,187.0,5.1,213.0,102.0,14.0,"['Adventure', 'Platform', 'Simulator']",['Roblox Corporation']
+The Last Guardian,2016-12-06,3.7,658.0,658.0,3.2,83.0,2.3,1.3,"['Adventure', 'Platform', 'Puzzle']","['Team Ico', 'Sony Interactive Entertainment']"
+Drakengard 3,2013-12-19,3.8,503.0,503.0,1.9,128.0,1.4,946.0,"['Adventure', 'Brawler', 'RPG', 'Strategy']","['Access Games', 'Square Enix']"
+Half-Life 2: Episode One,2006-06-01,3.7,469.0,469.0,7.0,39.0,1.6,262.0,['Shooter'],"['Valve', 'CyberFront']"
+Assassin's Creed Revelations,2011-11-14,3.3,628.0,628.0,8.7,64.0,1.0,343.0,['Adventure'],"['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Half-Life 2: Episode Two,2007-10-09,4.1,517.0,517.0,6.9,43.0,1.8,301.0,"['Puzzle', 'Shooter']","['CyberFront', 'Valve']"
+Mega Man,1987-12-17,2.8,639.0,639.0,5.4,26.0,452.0,152.0,"['Adventure', 'Platform']",['Capcom']
+PowerWash Simulator,2021-05-19,3.7,304.0,304.0,1.7,242.0,255.0,274.0,"['Indie', 'Simulator']","['Square Enix', 'FuturLab']"
+Cave Story,2004-12-20,4.2,543.0,543.0,3.7,87.0,1.3,693.0,"['Adventure', 'Indie', 'Platform', 'Shooter']",['Studio Pixel']
+Final Fantasy XIV: Shadowbringers,2019-07-02,4.6,401.0,401.0,3.0,192.0,517.0,267.0,['RPG'],['Square Enix']
+Days Gone,2019-04-26,3.2,610.0,610.0,3.9,212.0,1.8,644.0,"['Adventure', 'Shooter']","['SIE Bend Studio', 'Sony Interactive Entertainment']"
+Tom Clancy's Rainbow Six Siege,2015-12-01,3.2,424.0,424.0,7.9,302.0,381.0,139.0,"['Shooter', 'Tactical']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+Trek to Yomi,2022-05-05,2.7,262.0,262.0,1.0,67.0,457.0,446.0,"['Adventure', 'Brawler', 'Indie']","['Devolver Digital', 'Leonard Menchiari']"
+Sonic CD,1993-09-23,3.4,629.0,629.0,4.9,43.0,656.0,223.0,['Platform'],"['Sonic Team', 'Sega']"
+Mario Kart: Double Dash!!,2003-11-07,3.9,808.0,808.0,8.4,31.0,449.0,265.0,['Racing'],"['Nintendo EAD', 'Nintendo']"
+Rayman Origins,2011-11-15,3.8,547.0,547.0,6.2,85.0,1.2,417.0,"['Adventure', 'Platform']","['Ubisoft Montpellier', 'Ubisoft Entertainment']"
+Klonoa Phantasy Reverie Series,2022-07-08,3.8,197.0,197.0,647.0,119.0,563.0,782.0,"['Adventure', 'Platform']","['MONKEYCRAFT Co. Ltd', 'Bandai Namco Entertainment']"
+Hitman 2,2018-11-13,4.0,605.0,605.0,5.0,164.0,1.8,607.0,"['Adventure', 'Shooter', 'Tactical']","['WB Games', 'IO Interactive']"
+Max Payne 3,2012-05-15,3.7,593.0,593.0,5.6,43.0,1.0,518.0,['Shooter'],"['Rockstar Games', 'Rockstar Vancouver']"
+Catherine: Full Body,2019-02-14,3.8,451.0,451.0,2.6,152.0,1.7,1.2,"['Adventure', 'Platform', 'Puzzle', 'Simulator', 'Strategy']","['Atlus', 'Studio Zero']"
+Kirby: Planet Robobot,2016-04-28,4.2,669.0,669.0,3.6,82.0,1.0,644.0,"['Adventure', 'Platform']","['HAL Laboratory', 'Nintendo']"
+Battlefield 1,2016-10-21,3.4,513.0,513.0,7.2,108.0,741.0,150.0,['Shooter'],"['EA Digital Illusions CE', 'Electronic Arts']"
+Kirby’s Return to Dream Land Deluxe,2023-02-24,4.2,230.0,230.0,408.0,159.0,246.0,513.0,"['Adventure', 'Platform']",['Nintendo']
+Persona 2: Eternal Punishment,2000-06-29,4.1,594.0,594.0,1.6,107.0,2.0,993.0,"['Adventure', 'RPG']",['Atlus']
+Star Wars Battlefront II,2017-11-17,3.1,534.0,534.0,7.8,128.0,826.0,140.0,"['Adventure', 'Shooter']","['EA Digital Illusions CE', 'Electronic Arts']"
+Super Paper Mario,2007-04-09,3.8,688.0,688.0,6.2,76.0,1.5,572.0,"['Adventure', 'Platform', 'RPG']","['Nintendo', 'Intelligent Systems']"
+The Great Ace Attorney 2: Resolve,2017-08-03,4.6,386.0,386.0,1.1,75.0,771.0,468.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']",['Capcom']
+Bugsnax,2020-11-12,3.6,625.0,625.0,2.7,141.0,1.3,671.0,"['Adventure', 'Indie', 'Puzzle']",['Young Horses']
+Star Wars: Battlefront II,2005-10-31,4.0,650.0,650.0,7.7,35.0,520.0,189.0,['Shooter'],"['Pandemic Studios', 'LucasArts']"
+Pokémon Shield,2019-11-15,2.9,548.0,548.0,6.3,193.0,514.0,253.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['The Pokémon Company', 'Game Freak']"
+Super Castlevania IV,1991-10-31,3.7,627.0,627.0,3.7,45.0,863.0,271.0,"['Adventure', 'Platform']",['Konami']
+Brothers: A Tale of Two Sons,2013-08-07,3.5,511.0,511.0,4.0,28.0,1.3,334.0,"['Adventure', 'Indie', 'Puzzle']","['Starbreeze Studios', 'Spike ChunSoft']"
+Call of Duty: Modern Warfare,2019-10-25,3.4,525.0,525.0,5.1,84.0,431.0,339.0,['Shooter'],"['Infinity Ward', 'Activision']"
+GoldenEye 007,1997-08-23,3.6,610.0,610.0,4.5,60.0,646.0,334.0,['Shooter'],"['Nintendo', 'Rare']"
+"WarioWare, Inc.: Mega Microgames!",2003-03-21,3.9,523.0,523.0,3.5,43.0,374.0,227.0,['Arcade'],"['Nintendo R&D1', 'Nintendo']"
+Evil West,2022-11-22,3.3,148.0,148.0,335.0,38.0,293.0,510.0,"['Adventure', 'Brawler', 'Shooter']","['Focus Entertainment', 'Flying Wild Hog']"
+Gravity Rush 2,2017-01-18,3.9,516.0,516.0,2.1,122.0,1.9,1.0,"['Adventure', 'Platform']","['SIE Japan Studio', 'Sony Interactive Entertainment']"
+Metroid Prime 2: Echoes,2004-11-15,4.0,606.0,606.0,3.0,75.0,1.8,588.0,"['Adventure', 'Platform', 'Shooter']","['Retro Studios', 'Nintendo']"
+The Forest,2018-04-30,3.2,293.0,293.0,4.5,143.0,597.0,291.0,"['Adventure', 'Indie', 'Puzzle', 'Simulator']",['Endnight Games Ltd']
+CrossCode,2018-09-20,4.0,351.0,351.0,1.5,213.0,1.5,741.0,"['Adventure', 'Indie', 'Puzzle', 'RPG']","['Deck13 Interactive', 'Radical Fish Games']"
+Sekiro: Shadows Die Twice - GOTY Edition,2020-10-28,4.6,173.0,173.0,1.4,153.0,461.0,373.0,"['Adventure', 'Brawler', 'RPG']","['Activision', 'FromSoftware']"
+Saints Row IV,2013-08-19,3.1,386.0,386.0,7.2,64.0,775.0,176.0,"['Adventure', 'Shooter']","['Volition', 'Deep Silver']"
+Fallout 2,1998-10-29,4.1,532.0,532.0,2.4,72.0,2.1,493.0,"['RPG', 'Turn Based Strategy']","['Black Isle Studios', 'Interplay Entertainment']"
+Chrono Cross,1999-11-18,4.0,554.0,554.0,1.7,60.0,1.5,768.0,['RPG'],['Square']
+Fire Emblem: Path of Radiance,2005-04-20,4.2,703.0,703.0,2.9,155.0,1.5,716.0,"['RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Kingdom Hearts Final Mix,2002-12-26,3.8,428.0,428.0,3.7,104.0,452.0,162.0,['RPG'],"['Square', 'Squaresoft']"
+Professor Layton and the Curious Village,2007-02-15,3.7,439.0,439.0,4.2,128.0,879.0,407.0,"['Point-and-Click', 'Puzzle', 'Visual Novel']","['Nintendo', 'Level-5']"
+Ys VIII: Lacrimosa of Dana,2016-07-21,4.2,620.0,620.0,1.9,131.0,1.1,575.0,"['Adventure', 'RPG']","['NIS America', 'Nihon Falcom']"
+Hotel Dusk: Room 215,2007-01-22,4.0,439.0,439.0,1.6,87.0,1.3,838.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']","['Nintendo', 'Cing']"
+Postal 2,2003-04-13,3.4,338.0,338.0,3.4,67.0,739.0,183.0,"['Adventure', 'Indie', 'Shooter']","['Running with Scissors', 'Whiptail Interactive']"
+Fez,2012-04-13,3.6,493.0,493.0,4.4,90.0,1.5,561.0,"['Adventure', 'Indie', 'Platform', 'Puzzle']",['Microsoft Studios']
+Marvel's Midnight Suns,2022-12-02,3.9,172.0,172.0,280.0,145.0,277.0,459.0,"['RPG', 'Strategy', 'Tactical']","['Firaxis Games', '2K Games']"
+Streets of Rage 4,2020-04-30,3.9,620.0,620.0,2.9,80.0,693.0,538.0,"['Arcade', 'Brawler', 'Fighting', 'Indie']","['Lizardcube', 'DotEmu']"
+Shin Megami Tensei: Persona,2009-10-22,2.9,416.0,416.0,2.5,161.0,1.6,797.0,['RPG'],['Atlus']
+Kirby's Return to Dream Land,2011-10-24,4.0,509.0,509.0,4.1,58.0,675.0,409.0,"['Adventure', 'Platform']","['HAL Laboratory', 'Nintendo']"
+BioShock 2 Remastered,2016-09-14,3.7,295.0,295.0,2.4,71.0,2.0,246.0,"['RPG', 'Shooter']","['2K Games', '2K Australia']"
+God of War: Chains of Olympus,2008-03-04,3.2,396.0,396.0,4.0,31.0,599.0,300.0,"['Adventure', 'Brawler']","['Sony Computer Entertainment, Inc. (SCEI)', 'Ready at Dawn']"
+Splatoon,2015-05-28,3.7,509.0,509.0,6.1,28.0,320.0,227.0,"['Platform', 'Shooter']","['Nintendo EAD Group No. 2', 'Nintendo']"
+Nickelodeon All-Star Brawl,2021-10-05,2.5,251.0,251.0,1.9,51.0,280.0,172.0,"['Arcade', 'Fighting']","['Ludosity', 'Game Mill Entertainment']"
+The Great Ace Attorney: Adventures,2015-07-09,4.1,385.0,385.0,1.6,141.0,838.0,586.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'Visual Novel']",['Capcom']
+Sonic Rush,2005-11-15,3.6,536.0,536.0,4.6,61.0,671.0,292.0,['Platform'],"['Sonic Team', 'Sega']"
+Chrono Trigger,2008-11-20,4.4,295.0,295.0,2.4,135.0,1.3,499.0,['Adventure'],['Square Enix']
+Street Fighter V,2016-02-15,3.0,377.0,377.0,5.0,109.0,482.0,166.0,"['Arcade', 'Fighting']",['Capcom']
+Somerville,2022-11-15,2.8,169.0,169.0,442.0,20.0,200.0,377.0,['Adventure'],['Jumpship']
+Bully: Scholarship Edition,2008-02-04,4.0,330.0,330.0,3.9,92.0,1.0,457.0,['Adventure'],"['Rockstar Games', 'Rockstar Toronto']"
+Borderlands: The Pre-Sequel,2014-10-14,2.9,375.0,375.0,5.3,100.0,1.9,238.0,"['RPG', 'Shooter']","['Take-Two Interactive', 'Gearbox Software']"
+Star Wars Jedi: Survivor,2023-04-28,3.8,250.0,250.0,13.0,2.0,367.0,1.4,['Adventure'],"['Respawn Entertainment', 'Electronic Arts']"
+Alice: Madness Returns,2011-06-14,3.5,358.0,358.0,2.8,113.0,1.2,636.0,"['Adventure', 'Brawler', 'Platform']","['Electronic Arts', 'Spicy Horse Games']"
+Super Mario 3D All-Stars,2020-09-18,3.5,422.0,422.0,4.7,391.0,1.6,319.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EPD']"
+S.T.A.L.K.E.R.: Shadow of Chernobyl,2007-03-20,3.9,426.0,426.0,2.5,119.0,1.4,583.0,"['RPG', 'Shooter']","['GSC Game World', 'THQ']"
+JoJo’s Bizarre Adventure: All-Star Battle R,2022-09-01,3.4,122.0,122.0,796.0,71.0,191.0,372.0,"['Adventure', 'Fighting']","['Bandai Namco Entertainment', 'CyberConnect2']"
+Geometry Dash,2013-08-12,3.1,197.0,197.0,5.1,95.0,181.0,42.0,"['Adventure', 'Arcade', 'Indie', 'Music', 'Platform']",['RobTop Games']
+Mario + Rabbids Sparks of Hope,2022-10-20,3.9,253.0,253.0,356.0,145.0,394.0,645.0,"['Adventure', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Ubisoft Entertainment', 'Ubisoft Paris']"
+Back 4 Blood,2021-10-12,2.5,284.0,284.0,2.9,137.0,489.0,335.0,['Shooter'],"['Warner Bros. Interactive Entertainment', 'Turtle Rock Studios']"
+Half-Life: Alyx,2020-03-23,4.6,515.0,515.0,1.9,210.0,1.2,1.4,"['Adventure', 'Puzzle', 'Shooter']",['Valve']
+Hyper Demon,2022-09-19,4.1,99.0,99.0,245.0,26.0,231.0,268.0,"['Indie', 'Shooter']",['Sorath']
+Mortal Kombat,2011-04-19,3.6,468.0,468.0,6.6,19.0,289.0,120.0,['Fighting'],"['NetherRealm Studios', 'WB Games']"
+Resident Evil,1996-03-22,3.7,688.0,688.0,3.4,41.0,577.0,323.0,"['Adventure', 'Puzzle']","['Capcom', 'Capcom Planning Room 2']"
+Call of Duty: Ghosts,2013-11-05,2.4,411.0,411.0,6.5,9.0,353.0,150.0,['Shooter'],"['Neversoft Entertainment', 'Activision']"
+Ridge Racer Type 4,1998-12-03,4.2,465.0,465.0,1.0,33.0,436.0,316.0,['Racing'],['Namco']
+Lil Gator Game,2022-12-14,4.1,137.0,137.0,247.0,22.0,167.0,314.0,"['Adventure', 'Indie', 'Platform']","['Playtonic Friends', 'Scott Slucher']"
+Oxenfree,2016-01-14,3.6,592.0,592.0,3.9,70.0,1.7,449.0,"['Adventure', 'Indie']",['Night School Studio']
+Overcooked! 2,2018-08-07,3.6,414.0,414.0,4.9,227.0,889.0,184.0,"['Arcade', 'Indie', 'Simulator', 'Strategy', 'Tactical']","['Ghost Town Games', 'Team17']"
+Before Your Eyes,2021-04-08,4.2,421.0,421.0,1.2,25.0,584.0,631.0,"['Adventure', 'Indie']","['GoodbyeWorld Games', 'Skybound Games']"
+Sly Cooper and the Thievius Raccoonus,2002-09-23,3.7,525.0,525.0,3.7,44.0,772.0,391.0,"['Adventure', 'Platform']","['Sucker Punch Productions', 'Sony Computer Entertainment']"
+Nobody Saves the World,2022-01-18,3.5,256.0,256.0,949.0,99.0,399.0,385.0,"['Adventure', 'Brawler', 'Indie', 'RPG']",['Drinkbox Studios']
+Crazy Taxi,1999-02-12,3.6,425.0,425.0,4.8,19.0,556.0,227.0,"['Arcade', 'Racing']","['Sega', 'Hitmaker']"
+Chrono Cross: The Radical Dreamers Edition,2022-04-07,3.6,130.0,130.0,358.0,65.0,775.0,763.0,"['Adventure', 'RPG']",['Square Enix']
+Spore,2008-09-04,3.3,238.0,238.0,6.0,34.0,427.0,170.0,"['Adventure', 'Real Time Strategy', 'RPG', 'Simulator', 'Strategy']","['Maxis', 'Electronic Arts']"
+Dwarf Fortress,2022-12-06,4.6,48.0,48.0,225.0,80.0,181.0,195.0,"['Indie', 'RPG', 'Simulator', 'Strategy']","['Bay 12 Games', 'Kitfox Games']"
+Klonoa 2: Lunatea's Veil,2001-03-22,4.2,379.0,379.0,1.1,31.0,573.0,399.0,"['Adventure', 'Platform', 'Sport']",['Namco']
+Pokémon Blue,1996-10-15,3.6,549.0,549.0,5.9,50.0,287.0,101.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Planescape: Torment,1999-12-12,4.3,417.0,417.0,1.1,74.0,1.1,518.0,"['RPG', 'Strategy']","['Interplay Entertainment', 'Black Isle Studios']"
+Far Cry 3: Blood Dragon,2013-05-01,3.4,329.0,329.0,4.4,15.0,946.0,275.0,"['Adventure', 'Shooter']",['Ubisoft Montreal']
+BattleBlock Theater,2013-04-03,3.5,272.0,272.0,5.5,83.0,750.0,163.0,"['Adventure', 'Indie', 'Platform', 'Puzzle']","['Microsoft Studios', 'The Behemoth']"
+The Beginner's Guide,2015-10-01,4.0,443.0,443.0,2.7,7.0,415.0,484.0,"['Adventure', 'Indie']",['Everything Unlimited Ltd.']
+We Love Katamari Reroll + Royal Reverie,2023-06-02,3.8,51.0,51.0,3.0,0.0,74.0,291.0,"['Adventure', 'Puzzle']","['Bandai Namco Entertainment', 'MONKEYCRAFT Co. Ltd']"
+Naruto Shippuden: Ultimate Ninja Storm 4,2016-02-04,3.5,264.0,264.0,4.8,45.0,366.0,134.0,"['Adventure', 'Fighting']","['Bandai Namco Entertainment', 'CyberConnect2']"
+Mega Man 3,1990-09-28,3.4,599.0,599.0,3.8,25.0,470.0,140.0,"['Adventure', 'Platform']",['Capcom']
+Ni no Kuni: Wrath of the White Witch,2011-11-17,3.7,438.0,438.0,2.4,161.0,1.7,682.0,"['Adventure', 'RPG']","['Namco Bandai Games', 'Level-5']"
+Fortnite: Chapter 4,2022-12-04,3.5,70.0,70.0,365.0,77.0,9.0,2.0,"['RPG', 'Shooter', 'Strategy']",['Epic Games']
+Danganronpa Another Episode: Ultra Despair Girls,2015-09-01,2.7,276.0,276.0,3.4,92.0,797.0,355.0,"['Adventure', 'Brawler', 'Puzzle', 'Shooter']","['Spike ChunSoft', 'NIS America']"
+The Artful Escape,2021-09-09,3.3,346.0,346.0,1.1,38.0,381.0,353.0,"['Adventure', 'Indie', 'Music', 'Platform']","['Annapurna Interactive', 'Beethoven & Dinosaur']"
+Dishonored: Definitive Edition,2013-10-08,4.1,229.0,229.0,1.6,55.0,691.0,140.0,"['Adventure', 'Shooter']","['Arkane Studios', 'Zenimax Europe']"
+Pac-Man World Re-Pac,2022-08-25,3.5,161.0,161.0,368.0,25.0,191.0,294.0,"['Adventure', 'Arcade', 'Platform', 'Racing', 'Shooter']","['Bandai Namco Games', 'NOW Production']"
+Ib,2022-04-11,4.0,114.0,114.0,787.0,13.0,322.0,453.0,"['Adventure', 'Indie', 'Puzzle', 'RPG']","['kouri', 'PLAYISM']"
+Castlevania: Circle of the Moon,2001-03-21,3.0,362.0,362.0,2.1,62.0,742.0,272.0,"['Adventure', 'Platform', 'RPG']",['Konami']
+Higurashi: When They Cry,2002-08-10,4.2,311.0,311.0,1.1,97.0,545.0,435.0,"['Adventure', 'Visual Novel']","['07th Expansion', 'MangaGamer']"
+Life is Strange: Before the Storm,2017-08-31,3.3,468.0,468.0,4.0,66.0,765.0,359.0,['Adventure'],"['Square Enix', 'Deck Nine']"
+Darkwood,2017-08-17,3.9,262.0,262.0,836.0,97.0,1.0,406.0,"['Adventure', 'Indie', 'RPG']","['Acid Wizard Studio', 'Crunching Koalas']"
+Beyond Good & Evil,2003-11-11,3.9,436.0,436.0,2.3,35.0,1.5,629.0,"['Adventure', 'Shooter']","['Ubisoft Shanghai', 'Ubisoft']"
+Metroid II: Return of Samus,1991-08-26,3.1,445.0,445.0,2.1,39.0,595.0,193.0,"['Adventure', 'Platform', 'Shooter']","['Nintendo', 'Nintendo R&D1']"
+Shenmue,1999-12-29,3.8,496.0,496.0,1.6,61.0,993.0,494.0,"['Adventure', 'Brawler', 'RPG', 'Simulator']","['Sega AM2', 'Sega']"
+Project Zomboid,2013-11-08,3.6,133.0,133.0,1.7,205.0,319.0,212.0,"['Indie', 'RPG', 'Simulator']",['The Indie Stone']
+Crash Team Racing,1999-09-30,4.0,455.0,455.0,4.8,18.0,327.0,165.0,['Racing'],"['Naughty Dog', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Carrion,2020-07-23,3.3,432.0,432.0,2.8,83.0,729.0,601.0,"['Adventure', 'Indie', 'Platform']","['Phobia Game Studio', 'Devolver Digital']"
+Gears of War 2,2008-11-07,3.7,504.0,504.0,4.6,31.0,522.0,225.0,['Shooter'],"['Microsoft Game Studios', 'Epic Games']"
+Phoenix Wright: Ace Attorney - Dual Destinies,2013-07-25,3.4,430.0,430.0,3.3,105.0,1.1,497.0,"['Adventure', 'Puzzle', 'RPG', 'Simulator', 'Visual Novel']",['Capcom']
+The Legend of Zelda: Oracle of Seasons,2001-02-27,3.7,544.0,544.0,3.1,65.0,1.6,489.0,"['Adventure', 'RPG']","['Nintendo', 'Capcom']"
+Wild Hearts,2023-02-16,3.2,103.0,103.0,73.0,45.0,108.0,246.0,['Adventure'],"['Omega Force', 'Electronic Arts']"
+God of War: Ascension,2013-03-12,2.9,318.0,318.0,2.7,27.0,625.0,351.0,"['Adventure', 'Brawler']","['Sony Computer Entertainment, Inc. (SCEI)', 'SIE Santa Monica Studio']"
+Xenosaga Episode III: Also sprach Zarathustra,2006-07-06,4.3,399.0,399.0,762.0,23.0,908.0,448.0,"['Adventure', 'RPG']","['Namco Bandai Games', 'Monolith Soft']"
+Kirby's Dream Land 3,1997-11-27,3.4,469.0,469.0,2.6,49.0,750.0,179.0,"['Adventure', 'Platform']","['Nintendo', 'HAL Laboratory']"
+Castlevania: Harmony of Dissonance,2002-06-06,3.2,399.0,399.0,2.0,51.0,802.0,288.0,"['Adventure', 'Platform', 'RPG']",['Konami Computer Entertainment Tokyo']
+Shantae and the Pirate's Curse,2014-10-22,3.8,392.0,392.0,2.2,72.0,1.1,449.0,"['Adventure', 'Indie', 'Platform', 'RPG']","['WayForward Technologies', 'Intergrow']"
+Happy Wheels,2010-06-04,2.8,124.0,124.0,5.1,3.0,61.0,21.0,"['Adventure', 'Platform', 'Racing']",['Fancy Force']
+Guilty Gear XX Accent Core Plus R,2012-09-20,4.1,423.0,423.0,2.5,142.0,301.0,142.0,"['Arcade', 'Fighting']",['Arc System Works']
+Fire Emblem Fates: Birthright,2015-06-25,2.7,405.0,405.0,4.3,107.0,801.0,260.0,"['RPG', 'Strategy', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Final Fantasy IV,1991-07-19,3.7,530.0,530.0,2.7,60.0,964.0,379.0,['RPG'],"['Square Enix', 'Square']"
+Devil May Cry 5: Special Edition,2020-11-10,4.5,265.0,265.0,1.0,70.0,416.0,286.0,['Brawler'],"['Capcom Development Division 1', 'Capcom']"
+Castlevania III: Dracula's Curse,1990-09-01,3.6,501.0,501.0,2.4,36.0,606.0,217.0,"['Adventure', 'Platform']","['Konami', 'Palcom']"
+Gloomwood,2022-09-05,4.0,141.0,141.0,265.0,36.0,338.0,459.0,"['Adventure', 'Indie', 'Shooter']","['New Blood Interactive', 'David Szymanski']"
+Call of Duty: Advanced Warfare,2014-11-03,2.5,415.0,415.0,5.2,13.0,308.0,151.0,['Shooter'],"['Activision', 'Sledgehammer Games']"
+The Legend of Heroes: Trails of Cold Steel,2013-09-26,3.7,499.0,499.0,2.1,129.0,1.0,461.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['XSEED Games', 'Nihon Falcom']"
+Metal Gear Solid 3: Snake Eater HD Edition,2011-11-08,4.6,293.0,293.0,2.5,34.0,554.0,244.0,"['Adventure', 'Shooter']",['Konami Digital Entertainment']
+Mario Kart: Super Circuit,2001-07-21,2.8,389.0,389.0,3.7,24.0,256.0,101.0,['Racing'],['Nintendo']
+Pokémon Shining Pearl,2021-11-18,2.9,281.0,281.0,1.9,203.0,444.0,199.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'ILCA, Inc.']"
+PUBG: Battlegrounds,2017-12-20,2.4,299.0,299.0,5.2,46.0,253.0,32.0,['Shooter'],"['Bluehole Studio', 'PUBG Corp']"
+Earthblade,2024-12-31,3.8,83.0,83.0,0.0,1.0,103.0,529.0,"['Adventure', 'Indie', 'RPG']",['Extremely OK Games']
+Tetris,1989-05-14,4.0,197.0,197.0,2.5,18.0,76.0,21.0,['Puzzle'],['Nintendo']
+Rule of Rose,2006-01-19,3.8,394.0,394.0,727.0,33.0,796.0,770.0,"['Adventure', 'Puzzle']","['Atlus USA', 'Punchline']"
+Lollipop Chainsaw,2012-06-12,3.4,295.0,295.0,1.6,32.0,717.0,695.0,['Brawler'],"['Grasshopper Manufacture', 'WB Games']"
+Pokémon LeafGreen,2004-01-29,3.8,413.0,413.0,5.9,62.0,326.0,128.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Nintendo', 'Game Freak']"
+Bowser's Fury,2021-02-12,3.9,497.0,497.0,2.1,35.0,466.0,314.0,"['Adventure', 'Platform']","['Nintendo', 'Nintendo EAD Tokyo']"
+ZeroRanger,2018-09-28,4.3,317.0,317.0,561.0,30.0,422.0,356.0,"['Arcade', 'Indie', 'Shooter']",['System Erasure']
+Labyrinth of Galleria: The Moon Society,2020-11-26,4.3,49.0,49.0,67.0,26.0,120.0,193.0,"['Adventure', 'RPG', 'Strategy']","['Nippon Ichi Software', 'NIS America']"
+Street Fighter II,1991-02-01,3.5,433.0,433.0,4.3,11.0,158.0,99.0,"['Arcade', 'Fighting']","['Capcom', 'U.S. Gold']"
+Resident Evil: Revelations,2012-01-26,3.2,469.0,469.0,2.9,55.0,939.0,297.0,"['Adventure', 'Shooter']","['Tose', 'Capcom']"
+Shin Megami Tensei,1992-10-30,3.3,433.0,433.0,1.3,146.0,868.0,455.0,['RPG'],['Atlus']
+Tomb Raider,1996-10-25,3.3,395.0,395.0,2.7,45.0,773.0,263.0,"['Adventure', 'Platform', 'Puzzle', 'Shooter']","['Eidos Interactive', 'Core Design']"
+FIFA 23,2022-09-29,2.6,47.0,47.0,523.0,112.0,27.0,36.0,"['Simulator', 'Sport']","['EA Sports', 'EA Vancouver']"
+Battlefield: Bad Company 2,2010-03-02,3.6,288.0,288.0,4.2,23.0,349.0,119.0,"['Adventure', 'Shooter', 'Simulator', 'Strategy']","['EA Digital Illusions CE', 'Electronic Arts']"
+The Walking Dead: A New Frontier,2016-12-20,2.8,345.0,345.0,2.9,19.0,423.0,181.0,"['Adventure', 'Point-and-Click']","['Telltale Games', 'Skybound Games']"
+Ninja Gaiden Black,2005-09-20,4.3,294.0,294.0,992.0,41.0,495.0,343.0,"['Adventure', 'Brawler']","['Team NINJA', 'Tecmo']"
+Sid Meier's Civilization V,2010-09-21,3.9,320.0,320.0,5.4,56.0,369.0,140.0,"['Simulator', 'Strategy', 'Turn Based Strategy']","['2K Games', 'Firaxis Games']"
+World of Horror,2020-02-20,3.7,257.0,257.0,871.0,59.0,796.0,949.0,"['Adventure', 'Indie', 'Point-and-Click', 'RPG', 'Turn Based Strategy']","['Ysbryd Games', 'panstasz']"
+Fire Emblem: Shadow Dragon,2008-08-07,3.2,361.0,361.0,1.9,78.0,808.0,235.0,"['RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Tomodachi Life,2013-04-18,3.7,281.0,281.0,3.4,59.0,180.0,133.0,"['Adventure', 'Simulator']","['Nintendo SPD Group No. 1', 'Nintendo']"
+Downwell,2015-10-14,3.5,363.0,363.0,3.7,60.0,659.0,219.0,"['Adventure', 'Arcade', 'Indie', 'Platform', 'Shooter']","['Devolver Digital', 'Moppin']"
+SpongeBob SquarePants: Battle For Bikini Bottom,2003-10-31,3.8,326.0,326.0,3.4,22.0,370.0,216.0,"['Adventure', 'Platform']","['Heavy Iron Studios', 'THQ']"
+LEGO Harry Potter: Years 1-4,2010-06-25,3.2,349.0,349.0,4.1,53.0,449.0,113.0,"['Adventure', 'Platform', 'Puzzle']","['WB Games', ""Traveller's Tales""]"
+Dragon Quest V: Hand of the Heavenly Bride,2008-07-17,4.2,371.0,371.0,1.4,85.0,1.0,478.0,['RPG'],"['Chunsoft', 'Square Enix']"
+Fear & Hunger,2018-12-11,3.8,48.0,48.0,110.0,39.0,167.0,185.0,"['Indie', 'RPG']","['Miro Haverinen', 'Happy Paintings']"
+For Honor,2017-02-13,2.8,236.0,236.0,4.1,56.0,579.0,91.0,"['Brawler', 'Fighting']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+Sonic Lost World,2013-10-18,2.5,395.0,395.0,2.5,34.0,498.0,214.0,"['Adventure', 'Platform']","['Nintendo', 'Sonic Team']"
+Bug Fables: The Everlasting Sapling,2019-11-21,4.1,357.0,357.0,1.0,146.0,1.1,535.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['DANGEN Entertainment', 'Moonsprout Games']"
+Hyrule Warriors: Age of Calamity,2020-11-19,3.5,531.0,531.0,2.7,308.0,1.1,695.0,"['Adventure', 'Brawler', 'Fighting']","['Koei Tecmo', 'Omega Force']"
+LEGO Batman 3: Beyond Gotham,2014-11-11,3.1,373.0,373.0,2.9,37.0,801.0,113.0,"['Adventure', 'Platform', 'Puzzle']","[""Traveller's Tales"", 'WB Games']"
+Moonscars,2022-09-27,2.9,97.0,97.0,248.0,24.0,179.0,212.0,"['Adventure', 'Brawler', 'Indie', 'Platform']","['Black Mermaid', 'Humble Games']"
+The Witcher 3: Wild Hunt - Hearts of Stone,2015-10-12,4.4,159.0,159.0,3.1,39.0,487.0,106.0,"['Adventure', 'RPG']",['CD Projekt RED']
+Remnant: From the Ashes,2019-08-20,3.2,304.0,304.0,2.1,71.0,1.0,180.0,"['Adventure', 'RPG', 'Shooter']","['Gunfire Games', 'Perfect World Entertainment']"
+Halo 5: Guardians,2015-10-27,2.5,500.0,500.0,3.5,31.0,602.0,257.0,['Shooter'],"['343 Industries', 'Microsoft Studios']"
+Hearthstone,2014-03-11,2.9,212.0,212.0,5.5,105.0,128.0,24.0,"['Card & Board Game', 'Strategy', 'Turn Based Strategy']",['Blizzard Entertainment']
+Ultimate Spider-Man,2005-09-21,3.6,300.0,300.0,3.7,25.0,382.0,280.0,['Brawler'],"['Activision', 'Beenox']"
+Chop Goblins,2022-12-12,3.5,56.0,56.0,195.0,4.0,42.0,38.0,"['Indie', 'Shooter']",['David Szymanski']
+Secret of Mana,1993-08-06,3.3,413.0,413.0,1.9,57.0,1.3,511.0,['RPG'],"['Square Enix', 'Square']"
+428: Shibuya Scramble,2008-12-04,4.2,249.0,249.0,676.0,87.0,1.0,588.0,"['Adventure', 'Visual Novel']","['Chunsoft', 'Sega']"
+Potion Craft,2021-09-21,3.2,77.0,77.0,471.0,83.0,233.0,187.0,"['Indie', 'Point-and-Click', 'Puzzle', 'RPG', 'Simulator']","['tinyBuild', 'niceplay game']"
+Mega Man Legends,1997-12-18,3.7,361.0,361.0,1.4,51.0,851.0,364.0,"['Adventure', 'RPG', 'Shooter']","['Capcom USA', 'Capcom Production Studio 2']"
+Xenoblade Chronicles: Future Connected,2020-05-29,3.5,232.0,232.0,1.9,55.0,485.0,97.0,['RPG'],"['Nintendo', 'Monolith Soft']"
+Crab Game,2021-10-29,2.5,96.0,96.0,2.3,14.0,117.0,22.0,"['Arcade', 'Fighting', 'Indie', 'Racing', 'Strategy']",['Dani']
+NEET Girl Date Night,2022-10-21,2.7,21.0,21.0,106.0,1.0,44.0,42.0,['Visual Novel'],Unknown
+Dante's Inferno,2010-02-04,3.2,321.0,321.0,2.6,40.0,567.0,334.0,"['Adventure', 'Brawler']","['Electronic Arts', 'Visceral Games']"
+Haunting Ground,2005-04-21,3.8,281.0,281.0,597.0,29.0,625.0,572.0,['Adventure'],"['Capcom Production Studio 1', 'Capcom']"
+Assassin's Creed Rogue,2014-11-11,3.2,384.0,384.0,3.4,27.0,861.0,330.0,"['Adventure', 'RPG']",['Ubisoft Sofia']
+Garten of Banban 2,2023-03-03,1.5,16.0,16.0,55.0,0.0,6.0,3.0,"['Adventure', 'Indie']",['Euphoric Brothers']
+Pokémon Stadium,1999-04-30,3.3,340.0,340.0,5.4,16.0,369.0,157.0,"['RPG', 'Turn Based Strategy']","['HAL Laboratory', 'Nintendo']"
+Outlast II,2017-04-25,2.8,279.0,279.0,2.7,44.0,891.0,253.0,"['Adventure', 'Indie']",['Red Barrels']
+Elden Ring: Shadow of the Erdtree,,4.8,18.0,18.0,1.0,0.0,39.0,146.0,"['Adventure', 'RPG']","['FromSoftware', 'Bandai Namco Entertainment']"
+Fire Emblem: Thracia 776,1999-09-01,4.1,329.0,329.0,820.0,65.0,771.0,329.0,"['RPG', 'Strategy', 'Tactical']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Moonlighter,2018-05-29,3.2,280.0,280.0,2.2,134.0,1.2,309.0,"['Adventure', 'Brawler', 'Indie', 'RPG', 'Simulator']","['Digital Sun Games', '11 bit studios']"
+Pikmin 3,2013-07-13,4.0,388.0,388.0,2.7,39.0,797.0,385.0,"['Adventure', 'Real Time Strategy']","['Nintendo EAD Software Development Group No.4', 'Nintendo']"
+Five Nights at Freddy's 4,2015-07-23,2.8,199.0,199.0,3.3,13.0,216.0,111.0,"['Adventure', 'Indie', 'Point-and-Click', 'Simulator', 'Strategy']","['Scottgames', 'Clickteam']"
+Chaos;Head Noah,2009-02-26,4.0,84.0,84.0,199.0,73.0,215.0,174.0,"['Adventure', 'Simulator', 'Visual Novel']",['5pb.']
+Nier: Automata - The End of Yorha Edition,2022-10-06,4.5,68.0,68.0,370.0,59.0,240.0,147.0,"['Adventure', 'RPG']","['Square Enix', 'PlatinumGames']"
+Phoenix Wright: Ace Attorney - Spirit of Justice,2016-06-09,3.7,402.0,402.0,2.4,96.0,1.2,506.0,"['Adventure', 'Point-and-Click', 'Puzzle', 'RPG', 'Visual Novel']",['Capcom']
+Crysis,2007-11-13,3.2,224.0,224.0,3.0,26.0,561.0,241.0,"['Adventure', 'Shooter']","['Crytek Frankfurt', 'Electronic Arts']"
+Fallout Shelter,2015-06-14,2.4,172.0,172.0,5.3,44.0,214.0,38.0,"['RPG', 'Simulator', 'Strategy']","['Bethesda Game Studios', 'Bethesda Softworks']"
+Sonic and the Secret Rings,2007-02-20,1.9,362.0,362.0,3.1,18.0,348.0,160.0,['Platform'],"['Sega', 'Sonic Team']"
+FTL: Faster Than Light,2012-09-14,3.8,325.0,325.0,3.8,64.0,902.0,202.0,"['Indie', 'RPG', 'Simulator', 'Strategy']",['Subset Games']
+Mario Party 2,1999-12-17,3.7,348.0,348.0,3.9,11.0,199.0,132.0,['Card & Board Game'],"['Hudson Soft', 'Nintendo']"
+Attack of the Friday Monsters! A Tokyo Tale,2013-07-17,3.7,178.0,178.0,393.0,22.0,385.0,298.0,"['Adventure', 'Simulator']","['Level-5', 'Millennium Kitchen']"
+Animal Crossing,2001-12-14,3.9,533.0,533.0,3.9,51.0,389.0,317.0,['Simulator'],"['Nintendo', 'Nintendo EAD']"
+Fire Emblem Fates: Revelation,2015-07-09,2.3,296.0,296.0,2.5,52.0,707.0,244.0,"['RPG', 'Strategy', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Bloodstained: Curse of the Moon,2018-05-23,3.6,341.0,341.0,2.3,41.0,800.0,397.0,"['Adventure', 'Indie', 'Platform']",['Inti Creates']
+Final Fantasy XIII-2,2011-12-15,3.3,482.0,482.0,2.3,58.0,1.4,449.0,"['Adventure', 'RPG']",['Square Enix']
+Agar.io,2015-04-28,2.2,81.0,81.0,4.4,8.0,40.0,12.0,"['Indie', 'Strategy']","['Miniclip.com', 'Matheus Valadares']"
+Fatal Frame II: Crimson Butterfly,2003-11-27,4.2,398.0,398.0,1.0,38.0,690.0,513.0,['Adventure'],"['Tecmo Co., Ltd.', 'Ubisoft Entertainment']"
+Ni no Kuni II: Revenant Kingdom,2018-03-23,3.3,269.0,269.0,1.7,81.0,1.5,537.0,"['Adventure', 'RPG']","['Bandai Namco Entertainment', 'Level-5']"
+Metal Gear,1987-07-13,2.9,344.0,344.0,1.9,29.0,539.0,213.0,"['Adventure', 'Shooter']","['Ultra Games', 'Konami']"
+Disney's Aladdin,1993-11-21,3.4,203.0,203.0,2.2,9.0,192.0,85.0,"['Adventure', 'Arcade', 'Platform']",['Capcom']
+Fable II,2008-10-21,3.6,310.0,310.0,3.2,22.0,580.0,271.0,"['Adventure', 'RPG']","['Lionhead Studios', 'Microsoft Game Studios']"
+Celeste: Farewell,2019-09-09,4.5,58.0,58.0,648.0,32.0,224.0,139.0,['Platform'],['Extremely OK Games']
+Axiom Verge 2,2021-08-11,3.4,116.0,116.0,312.0,20.0,404.0,313.0,"['Adventure', 'Indie', 'Platform']","['Nintendo', 'Thomas Happ Games']"
+Lightning Returns: Final Fantasy XIII,2013-11-21,3.1,362.0,362.0,1.5,44.0,1.3,426.0,['RPG'],['Square Enix']
+Yakuza 2,2006-12-07,4.0,331.0,331.0,1.0,28.0,491.0,255.0,"['Adventure', 'Brawler', 'RPG', 'Simulator', 'Sport']",['Sega']
+F-Zero X,1998-07-14,3.9,354.0,354.0,1.7,15.0,387.0,172.0,"['Arcade', 'Racing']","['Nintendo EAD', 'Nintendo']"
+Chibi-Robo!,2005-06-23,4.1,386.0,386.0,1.0,33.0,695.0,477.0,"['Adventure', 'Platform']","['Nintendo', 'Skip Ltd.']"
+Super Mario Sunshine,2020-09-18,3.7,19.0,19.0,340.0,6.0,83.0,14.0,"['Adventure', 'Platform']","['Nintendo EAD', 'Nintendo']"
+RimWorld,2018-10-17,4.2,149.0,149.0,1.6,142.0,382.0,366.0,"['Indie', 'Real Time Strategy', 'Simulator', 'Strategy']",['Ludeon Studios']
+Professor Layton and the Miracle Mask,2011-02-26,3.7,192.0,192.0,1.3,42.0,518.0,253.0,"['Point-and-Click', 'Puzzle', 'Visual Novel']","['Level-5', 'Nintendo']"
+Mega Man X5,2000-11-30,3.2,334.0,334.0,2.2,11.0,450.0,126.0,"['Adventure', 'Platform', 'Shooter']","['Capcom Production Studio 3', 'Capcom']"
+Tokyo Necro,2016-01-29,4.6,21.0,21.0,14.0,22.0,50.0,69.0,"['Adventure', 'Visual Novel']","['Nitroplus', 'JAST USA']"
+Disney Dreamlight Valley,2022-09-06,3.5,130.0,130.0,329.0,169.0,102.0,136.0,"['Adventure', 'RPG', 'Simulator']",['Gameloft']
+Mega Man 7,1995-03-24,3.5,405.0,405.0,2.4,19.0,461.0,139.0,"['Adventure', 'Platform', 'Shooter']",['Capcom']
+Figment,2017-09-22,2.8,124.0,124.0,183.0,20.0,392.0,35.0,"['Adventure', 'Indie', 'Music', 'Platform', 'Puzzle']",['Bedtime Digital Games']
+"Flower, Sun, and Rain: Murder and Mystery in Paradise",2008-03-06,4.2,178.0,178.0,408.0,27.0,321.0,209.0,"['Adventure', 'Puzzle']","['h.a.n.d. Inc.', 'Marvelous Entertainment']"
+Professor Layton vs. Phoenix Wright: Ace Attorney,2012-11-29,3.6,275.0,275.0,1.8,68.0,882.0,484.0,"['Adventure', 'Puzzle', 'Strategy', 'Visual Novel']","['Level-5', 'Nintendo']"
+Metal Gear Solid: The Twin Snakes,2004-03-09,3.6,267.0,267.0,1.9,31.0,619.0,364.0,['Adventure'],"['Konami', 'Silicon Knights']"
+The Simpsons Game,2007-10-30,3.0,200.0,200.0,3.8,20.0,283.0,156.0,['Platform'],"['Griptonite Games', 'Electronic Arts']"
+Mega Man Zero 2,2003-05-02,3.7,317.0,317.0,1.9,21.0,529.0,180.0,"['Adventure', 'Platform', 'Shooter']","['Inti Creates', 'Capcom']"
+Gears 5,2019-09-09,3.4,382.0,382.0,2.1,70.0,589.0,221.0,"['Adventure', 'Shooter']","['The Coalition', 'Xbox Game Studios']"
+Crash of the Titans,2007-10-04,3.0,200.0,200.0,3.8,18.0,196.0,122.0,"['Adventure', 'Platform']","['Radical Entertainment', 'Sierra Entertainment']"
+Alan Wake Remastered,2021-10-05,3.7,209.0,209.0,690.0,62.0,481.0,402.0,"['Adventure', 'Shooter']","['Remedy Entertainment', 'Epic Games']"
+Final Fantasy XV: Royal Edition,2018-03-06,3.7,225.0,225.0,1.7,92.0,672.0,160.0,"['Adventure', 'Fighting', 'RPG']",['Square Enix']
+The Witcher,2007-10-26,3.0,220.0,220.0,1.6,57.0,540.0,168.0,"['Adventure', 'RPG']","['Atari', 'CD Projekt RED']"
+Final Fantasy III,2006-08-24,3.1,342.0,342.0,2.6,59.0,891.0,290.0,"['Adventure', 'RPG']","['Square', 'Square Enix']"
+Snatcher,1992-10-23,4.0,242.0,242.0,547.0,25.0,607.0,434.0,"['Adventure', 'Point-and-Click', 'Shooter', 'Visual Novel']",['Konami']
+Hello Charlotte Ep.3: Childhood's End,2018-01-05,4.3,137.0,137.0,424.0,15.0,191.0,167.0,"['Adventure', 'Indie', 'RPG', 'Visual Novel']",['etherane']
+Star Wars: Battlefront,2004-09-20,3.5,255.0,255.0,4.1,9.0,261.0,109.0,['Shooter'],"['Pandemic Studios', 'LucasArts']"
+Ikaruga,2001-12-20,4.0,364.0,364.0,1.3,37.0,664.0,424.0,"['Arcade', 'Indie', 'Puzzle', 'Shooter']",['Treasure']
+Diablo IV,2023-06-06,3.8,148.0,148.0,19.0,10.0,179.0,677.0,"['Brawler', 'RPG']",['Blizzard Entertainment']
+Ys: The Oath in Felghana,2005-07-04,4.0,311.0,311.0,1.0,32.0,503.0,210.0,"['Adventure', 'RPG']","['Nihon Falcom', 'XSEED Games']"
+American McGee's Alice,2000-12-06,3.4,242.0,242.0,1.1,42.0,513.0,401.0,"['Adventure', 'Platform', 'Puzzle']","['Rogue Entertainment', 'Electronic Arts']"
+Call of Duty,2003-10-29,3.3,274.0,274.0,2.8,23.0,202.0,136.0,['Shooter'],"['Infinity Ward', 'Activision']"
+Armored Core 2,2000-10-26,3.6,92.0,92.0,278.0,18.0,232.0,119.0,[],"['FromSoftware', 'Agetec']"
+Clash of Clans,2012-08-02,2.5,73.0,73.0,2.6,57.0,36.0,8.0,"['Real Time Strategy', 'Strategy']",['Supercell']
+Fate/stay night,2004-01-30,4.0,258.0,258.0,1.9,135.0,655.0,471.0,"['Adventure', 'Visual Novel']","['TYPE-MOON', 'Kadokawa Shoten']"
+Tabletop Simulator,2015-06-05,3.7,147.0,147.0,3.2,89.0,179.0,87.0,"['Card & Board Game', 'Indie', 'RPG', 'Simulator', 'Strategy']",['Berserk Games']
+Duskers,2016-05-18,3.6,51.0,51.0,61.0,3.0,165.0,45.0,"['Indie', 'Simulator', 'Strategy']",['Misfits Attic']
+Control: Ultimate Edition,2020-08-27,4.0,233.0,233.0,1.4,124.0,884.0,195.0,"['Adventure', 'Shooter']","['Remedy Entertainment', '505 Games']"
+Advance Wars,2001-09-10,3.7,266.0,266.0,1.9,52.0,640.0,266.0,"['Simulator', 'Strategy', 'Tactical', 'Turn Based Strategy']","['Nintendo', 'Intelligent Systems Co., Ltd.']"
+Touhou Koumakyou: The Embodiment of Scarlet Devil,2002-08-11,3.8,217.0,217.0,1.9,65.0,255.0,178.0,"['Indie', 'Shooter']",['Team Shanghai Alice']
+Weird West,2022-03-31,3.0,156.0,156.0,405.0,46.0,396.0,337.0,"['Adventure', 'Indie', 'RPG', 'Simulator']","['WolfEye Studios', 'Devolver Digital']"
+Pokémon Mystery Dungeon: Blue Rescue Team,2005-11-17,3.7,273.0,273.0,3.8,28.0,441.0,154.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Chunsoft', 'Nintendo']"
+WarioWare Gold,2018-07-27,3.9,264.0,264.0,1.7,35.0,305.0,235.0,['Arcade'],"['Nintendo of America', 'Nintendo EPD']"
+Dragon Ball: Xenoverse,2015-02-05,2.9,198.0,198.0,3.7,23.0,229.0,71.0,"['Fighting', 'RPG']","['Dimps', 'Bandai Namco Entertainment']"
+Call of Duty: Black Ops 4,2018-10-12,2.3,248.0,248.0,3.5,15.0,279.0,100.0,['Shooter'],"['Treyarch', 'Activision']"
+Bloodborne: Game of the Year Edition,2015-11-27,4.6,238.0,238.0,1.5,57.0,323.0,255.0,['RPG'],"['Sony Computer Entertainment', 'FromSoftware']"
+Ape Out,2019-02-28,3.5,329.0,329.0,1.8,46.0,697.0,324.0,"['Adventure', 'Arcade', 'Fighting', 'Indie']","['Gabe Cuzzillo', 'Devolver Digital']"
+WarioWare: Smooth Moves,2006-12-02,3.9,319.0,319.0,3.1,7.0,256.0,189.0,['Puzzle'],"['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Puyo Puyo Tetris,2014-02-06,3.8,233.0,233.0,3.1,51.0,333.0,198.0,"['Puzzle', 'Strategy']","['Sega', 'Sonic Team']"
+Prince of Persia: Warrior Within,2004-11-30,3.5,237.0,237.0,2.8,20.0,551.0,220.0,"['Adventure', 'Fighting', 'Platform']","['Ubisoft Montreal', 'Ubisoft Entertainment']"
+Kentucky Route Zero: TV Edition,2020-01-27,4.1,319.0,319.0,772.0,90.0,636.0,402.0,"['Adventure', 'Indie', 'Point-and-Click']","['Cardboard Computer', 'Annapurna Interactive']"
+Factorio,2020-08-14,4.2,189.0,189.0,1.6,114.0,393.0,354.0,"['Indie', 'Simulator', 'Strategy']",['Wube Software LTD.']
+Scott Pilgrim vs. the World: The Game - Complete Edition,2021-01-14,3.6,229.0,229.0,1.2,102.0,637.0,363.0,"['Adventure', 'Brawler', 'Fighting']","['Ubisoft', 'Ubisoft Chengdu']"
+Monster Hunter 4 Ultimate,2014-10-11,4.2,260.0,260.0,2.0,66.0,418.0,159.0,"['Adventure', 'RPG']",['Capcom']
+Fruit Ninja Classic,2010-04-20,2.7,54.0,54.0,3.8,1.0,32.0,10.0,['Arcade'],['Halfbrick Studios']
+Doom,2017-11-10,3.9,80.0,80.0,2.3,37.0,393.0,150.0,['Shooter'],"['Bethesda Softworks', 'id Software']"
+Tom Clancy's The Division,2016-03-07,2.8,239.0,239.0,2.9,40.0,332.0,78.0,"['Adventure', 'RPG', 'Shooter', 'Strategy', 'Tactical']","['Ubisoft Entertainment', 'Massive Entertainment']"
+Crysis 2,2011-03-22,3.1,180.0,180.0,2.9,10.0,411.0,155.0,"['Adventure', 'Shooter']","['Crytek Frankfurt', 'Electronic Arts']"
+Resident Evil 4: Wii Edition,2007-05-31,4.4,151.0,151.0,1.1,16.0,213.0,76.0,"['Adventure', 'Shooter']","['Capcom Production Studio 4', 'Capcom']"
+Nuclear Throne,2015-12-05,3.7,262.0,262.0,2.2,65.0,587.0,146.0,"['Adventure', 'Arcade', 'Indie', 'RPG', 'Shooter']",['Vlambeer']
+Super Hexagon,2012-08-31,3.4,204.0,204.0,2.3,23.0,236.0,54.0,"['Arcade', 'Indie', 'Music']","['Terry Cavanagh', 'Distractionware']"
+Condemned: Criminal Origins,2005-11-16,3.5,248.0,248.0,1.3,32.0,528.0,270.0,"['Adventure', 'Shooter']","['WB Games', 'Monolith Productions']"
+PlayStation All-Stars Battle Royale,2012-11-20,2.4,208.0,208.0,2.6,3.0,132.0,78.0,"['Fighting', 'Platform']","['SCE Santa Monica Studio', 'Sony Computer Entertainment']"
+Dragon Quest,2004-03-01,3.1,349.0,349.0,1.8,43.0,486.0,221.0,"['Adventure', 'RPG']","['Nintendo', 'Armor Project']"
+Pac-Man in a Tin,2023-03-22,3.8,0.0,0.0,1.0,0.0,1.0,2.0,['Arcade'],['Fizz Creations']
+Mount & Blade: Warband,2010-03-31,3.9,168.0,168.0,2.4,39.0,309.0,110.0,"['Adventure', 'RPG', 'Shooter', 'Simulator', 'Strategy']","['Paradox Interactive', 'Taleworlds']"
+Monster Hunter Generations Ultimate,2017-03-18,4.2,179.0,179.0,1.5,132.0,442.0,174.0,"['Brawler', 'RPG']",['Capcom']
+The Jackbox Party Pack 3,2016-10-18,3.8,152.0,152.0,2.7,17.0,56.0,35.0,"['Indie', 'Puzzle', 'Quiz/Trivia', 'Strategy']","['Jackbox Games, Inc.']"
+Digimon World: Next Order,2016-03-17,3.1,66.0,66.0,321.0,40.0,242.0,133.0,"['Adventure', 'RPG', 'Simulator']","['Bandai Namco Entertainment Europe', 'B.B. Studio']"
+Odin Sphere: Leifthrasir,2016-01-14,4.1,228.0,228.0,895.0,71.0,740.0,349.0,['RPG'],"['Atlus', 'Vanillaware']"
+Bulletstorm,2011-02-22,3.2,159.0,159.0,2.3,6.0,299.0,125.0,['Shooter'],"['People Can Fly', 'Electronic Arts']"
+The Witcher 2: Assassins of Kings,2011-05-17,3.6,181.0,181.0,1.6,21.0,605.0,169.0,"['Adventure', 'RPG']","['Atari', 'CD Projekt RED']"
+Pokémon Añil,2023-03-23,3.8,2.0,2.0,1.0,0.0,1.0,7.0,['RPG'],['Eric Lost']
+Animal Crossing: City Folk,2008-11-16,3.4,232.0,232.0,3.1,17.0,215.0,129.0,['Simulator'],"['Nintendo', 'Nintendo EAD Group No. 2']"
+Microsoft Minesweeper,1990-10-08,3.2,83.0,83.0,2.4,15.0,28.0,6.0,['Puzzle'],['Microsoft']
+Sonic 3D Blast,1996-11-14,2.3,315.0,315.0,2.3,12.0,259.0,73.0,['Platform'],['Sega']
+Mario Party 4,2002-10-21,3.5,231.0,231.0,3.0,7.0,156.0,113.0,['Card & Board Game'],"['Hudson Soft', 'Nintendo']"
+Mario Party 3,2000-12-07,3.7,219.0,219.0,2.8,6.0,168.0,123.0,['Card & Board Game'],"['Nintendo', 'Hudson Soft']"
+Peggle,2007-02-27,3.6,185.0,185.0,2.5,20.0,122.0,35.0,['Puzzle'],['PopCap Games']
+Plague Inc: Evolved,2015-09-18,3.1,88.0,88.0,4.0,31.0,217.0,62.0,"['Indie', 'Simulator', 'Strategy', 'Tactical']",['Ndemic Creations']
+Star Wars: Episode III - Revenge of the Sith,2005-05-05,3.1,141.0,141.0,2.1,11.0,167.0,94.0,"['Adventure', 'Brawler']","['LucasArts', 'The Collective']"
+Prince of Persia,2008-12-02,3.0,201.0,201.0,2.5,23.0,535.0,206.0,"['Adventure', 'Platform', 'Puzzle']","['Ubisoft Entertainment', 'Ubisoft Montreal']"
+System Shock,1994-09-22,3.9,276.0,276.0,544.0,29.0,572.0,294.0,"['RPG', 'Shooter']","['Looking Glass Studios', 'Origin Systems']"
+Sonic Rush Adventure,2007-09-14,3.5,278.0,278.0,1.9,22.0,389.0,208.0,['Platform'],"['Nintendo', 'Sonic Team']"
+Destroy All Humans!,2005-06-21,3.2,160.0,160.0,2.2,16.0,414.0,188.0,['Adventure'],"['THQ', 'Pandemic Studios']"
+Marvel vs. Capcom: Clash of Super Heroes,1998-01-12,3.7,269.0,269.0,2.0,8.0,143.0,100.0,['Fighting'],"['Virgin Interactive Entertainment (Europe) Ltd.', 'Capcom']"
+The World Ends with You: Final Remix,2018-09-27,4.0,253.0,253.0,1.5,115.0,737.0,481.0,"['Adventure', 'RPG']","['Square Enix', 'Nintendo']"
+Ristar,1995-02-16,3.6,233.0,233.0,1.2,12.0,355.0,175.0,"['Adventure', 'Platform']",['Sega']
+Crash Team Racing Nitro-Fueled,2019-06-21,3.9,408.0,408.0,2.5,50.0,391.0,294.0,"['Arcade', 'Racing']","['Activision Blizzard', 'Beenox']"
+Mega Man X6,2001-11-29,2.3,308.0,308.0,1.9,18.0,461.0,119.0,"['Adventure', 'Platform']",['Capcom']
+Slender: The Eight Pages,2012-06-26,2.0,123.0,123.0,2.7,3.0,73.0,50.0,"['Adventure', 'Indie']",['Parsec Productions']
+Mark of the Ninja,2012-09-07,3.8,193.0,193.0,1.9,14.0,507.0,191.0,"['Adventure', 'Indie', 'Platform']","['Klei Entertainment', 'Microsoft Studios']"
+Octodad: Dadliest Catch,2014-01-30,3.2,169.0,169.0,2.5,12.0,407.0,180.0,"['Adventure', 'Indie', 'Platform', 'Simulator', 'Strategy']",['Young Horses']
+Dragon Ball Z: Budokai Tenkaichi,2005-10-06,2.9,96.0,96.0,1.7,2.0,69.0,29.0,['Fighting'],"['Spike', 'Bandai']"
+The King of Fighters XV,2022-02-16,4.0,226.0,226.0,718.0,81.0,164.0,271.0,['Fighting'],"['SNK Corporation', 'SNK']"
+Killing Floor 2,2016-11-18,3.1,195.0,195.0,2.8,33.0,501.0,66.0,['Shooter'],"['Tripwire Interactive', 'Deep Silver']"
+Ape Escape 3,2005-07-14,4.3,247.0,247.0,874.0,24.0,399.0,231.0,['Platform'],"['SCE Japan Studio', 'Sony Computer Entertainment Europe']"
+The Simpsons Arcade Game,1991-03-04,3.3,139.0,139.0,1.5,5.0,82.0,76.0,"['Arcade', 'Brawler']",['Konami']
+Toy Story 2: Buzz Lightyear to the Rescue!,1999-11-22,3.4,245.0,245.0,2.3,26.0,262.0,117.0,"['Adventure', 'Platform']","['Activision', ""Traveller's Tales""]"
+Rayman Raving Rabbids,2006-11-19,2.7,137.0,137.0,2.7,9.0,191.0,63.0,"['Adventure', 'Platform', 'Puzzle']","['Ubisoft Entertainment', 'Ubisoft Montpellier']"
+Prototype 2,2012-04-24,3.0,140.0,140.0,2.4,10.0,408.0,198.0,"['Adventure', 'Brawler', 'Platform']","['Activision', 'FUN Labs']"
+MadWorld,2009-03-10,3.5,283.0,283.0,1.1,19.0,683.0,441.0,['Brawler'],"['Spike', 'PlatinumGames']"
+Call of Duty 3,2006-11-07,2.8,231.0,231.0,2.9,8.0,239.0,122.0,['Shooter'],"['Activision', 'Treyarch']"
+Shadow Warrior,2013-09-26,3.2,161.0,161.0,1.7,21.0,571.0,114.0,"['Adventure', 'Shooter']","['Flying Wild Hog', 'Majesco Entertainment']"
+Warcraft III: The Frozen Throne,2003-07-01,4.3,159.0,159.0,2.6,14.0,181.0,73.0,"['Real Time Strategy', 'Strategy']","['Blizzard Entertainment', 'Sierra Entertainment']"
+Yakuza 4,2010-03-08,3.8,295.0,295.0,1.4,38.0,596.0,255.0,"['Adventure', 'Brawler', 'RPG', 'Simulator', 'Sport']",['Sega']
+Megami Ibunroku Persona,1996-09-20,3.7,16.0,16.0,16.0,0.0,13.0,15.0,['RPG'],['Atlus']
+Persona 4 Arena,2012-03-01,3.4,195.0,195.0,1.9,22.0,313.0,171.0,"['Adventure', 'Fighting', 'RPG']","['Arc System Works', 'Atlus']"
+Scribblenauts,2009-09-15,3.2,151.0,151.0,3.2,3.0,155.0,80.0,['Puzzle'],"['5th Cell', 'Konami']"
+Rock Band 2,2008-09-14,4.0,180.0,180.0,2.0,10.0,56.0,29.0,['Music'],"['MTV Games', 'Harmonix Music Systems']"
+Armored Core 4,2006-12-21,3.7,92.0,92.0,252.0,15.0,232.0,162.0,['Fighting'],"['FromSoftware', 'Sega']"
+Rez Infinite,2016-10-13,4.0,222.0,222.0,713.0,20.0,451.0,154.0,"['Music', 'Shooter']",['Enhance Games']
+Plants vs. Zombies 2: It's About Time,2013-08-15,2.7,80.0,80.0,2.4,29.0,88.0,22.0,"['Adventure', 'Real Time Strategy', 'Strategy', 'Tactical']","['Electronic Arts', 'PopCap Games']"
+Cadence of Hyrule: Crypt of the NecroDancer Featuring the Legend of Zelda,2019-06-13,3.6,269.0,269.0,1.8,39.0,682.0,587.0,"['Adventure', 'Music']","['Spike ChunSoft', 'Brace Yourself Games']"
+100% Orange Juice,2009-08-15,3.4,112.0,112.0,1.8,51.0,292.0,89.0,"['Card & Board Game', 'Indie', 'Strategy', 'Turn Based Strategy']","['Orange_Juice', 'Fruitbat Factory']"
+Tekken 6,2007-11-26,3.4,235.0,235.0,2.3,15.0,173.0,96.0,['Fighting'],['Bandai Namco Entertainment']
+Mortal Kombat 3,1995-04-15,3.1,162.0,162.0,1.7,4.0,85.0,41.0,['Fighting'],['Midway Games']
+Pokémon Mystery Dungeon: Explorers of Time,2007-09-13,4.0,186.0,186.0,2.3,13.0,345.0,136.0,"['Adventure', 'RPG', 'Turn Based Strategy']","['Chunsoft', 'Nintendo']"
+Chulip,2002-10-03,4.1,296.0,296.0,308.0,31.0,584.0,420.0,"['Adventure', 'Puzzle']",['Punchline']
+Crash Nitro Kart,2003-11-11,3.1,141.0,141.0,1.7,4.0,139.0,52.0,['Racing'],"['Vicarious Visions', 'Universal Interactive Studios']"
+Bubble Bobble,1986-06-16,3.3,187.0,187.0,1.4,3.0,110.0,57.0,"['Arcade', 'Platform', 'Puzzle', 'Strategy']","['Sega', 'Taito Corporation']"
+Shantae: Half-Genie Hero,2016-12-20,3.4,196.0,196.0,1.5,41.0,562.0,289.0,"['Adventure', 'Indie', 'Platform']","['XSEED Games', 'WayForward Technologies']"
+Snake,1997-12-18,3.1,67.0,67.0,2.4,6.0,26.0,9.0,['Arcade'],['Nokia']
+Tales of Vesperia,2008-08-07,3.9,196.0,196.0,1.1,57.0,490.0,199.0,['RPG'],"['Namco Tales Studio', 'Bandai Namco Entertainment']"
+Mega Man X8,2004-12-07,3.3,239.0,239.0,1.4,17.0,438.0,140.0,"['Adventure', 'Platform']","['Capcom Production Studio 1', 'Capcom']"
+Fire Emblem: New Mystery of the Emblem,2010-07-15,3.7,246.0,246.0,848.0,23.0,503.0,212.0,"['RPG', 'Strategy', 'Turn Based Strategy']","['Intelligent Systems Co., Ltd.', 'Nintendo']"
+Mario & Luigi: Superstar Saga + Bowser's Minions,2017-10-05,3.9,201.0,201.0,1.1,48.0,477.0,201.0,"['Adventure', 'Platform', 'RPG']","['Nintendo', 'AlphaDream']"
+Suikoden,1995-12-15,3.6,270.0,270.0,933.0,32.0,776.0,360.0,['RPG'],"['Konami Computer Entertainment Tokyo', 'Konami']"
+Binary Domain,2012-02-16,3.5,234.0,234.0,1.1,9.0,598.0,192.0,['Shooter'],"['Sega', 'Ryū Ga Gotoku Studios']"
+Shin Megami Tensei: Devil Survivor,2009-01-15,3.9,219.0,219.0,1.0,47.0,667.0,343.0,"['RPG', 'Strategy', 'Tactical', 'Visual Novel']","['Atlus', 'Ghostlight Ltd.']"
+JoJo's Bizarre Adventure: Eyes of Heaven,2015-12-17,2.8,106.0,106.0,1.7,36.0,276.0,196.0,"['Arcade', 'Fighting']","['CyberConnect2', 'Bandai Namco Entertainment']"
+Audiosurf,2008-02-15,3.2,82.0,82.0,1.6,8.0,77.0,27.0,"['Indie', 'Music', 'Puzzle']","['Valve', 'Invisible Handlebar']"
+Better Call Saul Kart,2022-09-30,4.2,8.0,8.0,26.0,1.0,10.0,12.0,['Racing'],['Big Trash Games']
+The Secret of Monkey Island,1990-10-01,4.1,312.0,312.0,1.4,13.0,418.0,298.0,"['Adventure', 'Point-and-Click', 'Puzzle']","['Lucasfilm Games', 'JVC Musical Industries']"
+Resistance: Fall of Man,2006-11-11,3.0,194.0,194.0,1.3,16.0,280.0,119.0,"['Adventure', 'Shooter']","['Insomniac Games', 'Sony Computer Entertainment, Inc. (SCEI)']"
+Sniper Elite 4,2017-02-13,3.1,184.0,184.0,1.5,40.0,483.0,108.0,"['Adventure', 'Shooter', 'Tactical']","['Sold Out Sales & Marketing', 'Rebellion Developments']"
+Metal Gear Solid HD Collection,2011-11-08,4.5,118.0,118.0,1.5,31.0,464.0,230.0,"['Adventure', 'Strategy', 'Tactical']","['Kojima Productions', 'Konami']"
+The Simpsons: Road Rage,2001-11-19,2.9,103.0,103.0,1.7,6.0,146.0,61.0,['Racing'],"['Electronic Arts', 'Fox Interactive']"
+Melty Blood Actress Again Current Code,2010-07-29,4.1,242.0,242.0,1.9,81.0,211.0,184.0,"['Arcade', 'Fighting']","['Arc System Works', 'French Bread']"
+Path of Exile,2013-10-23,3.3,130.0,130.0,2.4,77.0,319.0,55.0,"['Adventure', 'Brawler', 'RPG']",['Grinding Gear Games']
+Machinarium,2009-10-16,3.7,222.0,222.0,1.6,18.0,473.0,242.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle']",['Amanita Design']
+Guacamelee!,2013-04-09,3.5,191.0,191.0,1.8,8.0,371.0,133.0,"['Adventure', 'Brawler', 'Indie', 'Platform']","['Drinkbox Studios', 'Spike ChunSoft']"
+Tales of Zestiria,2015-01-22,2.7,273.0,273.0,1.7,76.0,1.0,264.0,['RPG'],"['Bandai Namco Entertainment', 'tri-Crescendo']"
+Black,2006-02-24,3.4,233.0,233.0,2.1,19.0,359.0,196.0,['Shooter'],"['Electronic Arts', 'Criterion Games']"
+Mario Super Sluggers,2008-06-19,3.7,153.0,153.0,1.8,4.0,133.0,81.0,['Sport'],"['Namco Bandai Games', 'Nintendo']"
+Worms Armageddon,1999-01-29,3.8,180.0,180.0,2.1,15.0,150.0,57.0,"['Platform', 'Shooter', 'Strategy']","['Team17', 'Infogrames Europe']"
+Street Fighter II Turbo,1993-07-11,3.7,174.0,174.0,1.6,5.0,89.0,50.0,['Fighting'],['Capcom']
+Tekken 4,2001-07-01,3.4,243.0,243.0,1.9,9.0,144.0,109.0,['Fighting'],"['Namco', 'Namco Hometek']"
+Legacy of Kain: Soul Reaver,1999-08-16,3.7,260.0,260.0,1.3,22.0,833.0,328.0,['Adventure'],"['Eidos Interactive', 'Crystal Dynamics']"
+Mega Man X7,2003-07-17,1.4,231.0,231.0,1.3,6.0,385.0,113.0,"['Adventure', 'Platform']","['Capcom Production Studio 3', 'Capcom']"
+Final Fantasy I & II: Dawn of Souls,2004-07-29,3.4,93.0,93.0,1.1,26.0,207.0,63.0,['RPG'],"['Square Enix', 'Nintendo']"
+Mega Man ZX,2006-07-06,3.7,239.0,239.0,1.3,29.0,540.0,159.0,"['Platform', 'Shooter']","['Inti Creates', 'Capcom']"
+Metal Gear 2: Solid Snake,1990-07-20,3.5,306.0,306.0,1.2,19.0,501.0,183.0,['Adventure'],['Konami']
+The Missing: J.J. Macfield and the Island of Memories,2018-10-11,3.8,241.0,241.0,779.0,30.0,491.0,366.0,"['Adventure', 'Indie', 'Platform', 'Puzzle']","['Arc System Works', 'White Owls Inc.']"
+Silent Hill 2: Restless Dreams,2001-12-19,4.5,90.0,90.0,514.0,14.0,130.0,81.0,['Adventure'],"['Team Silent', 'Konami']"
+Friday the 13th: The Game,2017-05-25,2.6,170.0,170.0,2.2,12.0,198.0,67.0,['Indie'],"['Illfonic', 'Gun Interactive']"
+Quake II,1997-12-09,3.4,242.0,242.0,1.5,18.0,469.0,162.0,['Shooter'],"['id Software', 'Activision']"
+NBA Jam,1993-06-02,3.6,106.0,106.0,847.0,0.0,64.0,23.0,['Sport'],['Midway']
+Final Fantasy X HD Remaster,2013-12-26,4.3,139.0,139.0,867.0,48.0,300.0,76.0,"['Adventure', 'RPG']",['Square Enix']
+Mario vs. Donkey Kong,2004-05-24,3.3,171.0,171.0,1.5,16.0,252.0,92.0,"['Platform', 'Puzzle']","['Nintendo', 'Nintendo Software Technology']"
+Kenshi,2018-12-06,4.0,90.0,90.0,527.0,49.0,279.0,257.0,"['Indie', 'RPG', 'Simulator', 'Strategy']",['Lo-Fi Games']
+Remember Me,2013-06-03,2.9,179.0,179.0,1.6,22.0,526.0,239.0,"['Adventure', 'Platform']","['Capcom', ""DON'T NOD""]"
+Alpha Protocol,2010-05-28,3.3,170.0,170.0,987.0,9.0,511.0,182.0,"['RPG', 'Shooter']","['Obsidian Entertainment', 'Sega']"
+Indivisible,2019-10-08,3.1,211.0,211.0,969.0,56.0,839.0,349.0,"['Adventure', 'Indie', 'Platform', 'RPG']","['Lab Zero Games', '505 Games']"
+Jazzpunk,2014-02-07,3.6,122.0,122.0,935.0,5.0,213.0,165.0,"['Adventure', 'Indie']","['Necrophone Games', 'Adult Swim Games']"
+Need for Speed: Hot Pursuit,2010-11-16,3.3,148.0,148.0,2.0,23.0,182.0,54.0,['Racing'],"['Criterion Games', 'Electronic Arts']"
+The House in Fata Morgana: A Requiem for Innocence,2015-08-16,4.3,123.0,123.0,625.0,34.0,275.0,180.0,"['Adventure', 'Visual Novel']","['NOVECT', 'MangaGamer']"
+Phantom Brigade,2023-02-28,2.8,16.0,16.0,16.0,10.0,30.0,51.0,"['Indie', 'RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']",['Brace Yourself Games']
+Altered Beast,1988-08-01,2.5,211.0,211.0,1.5,2.0,154.0,55.0,"['Brawler', 'Platform']","['Sega', 'Team Shinobi']"
+Broken Age,2014-01-28,3.1,180.0,180.0,1.3,21.0,663.0,139.0,"['Adventure', 'Indie', 'Point-and-Click', 'Puzzle']","['Nordic Games Publishing', 'Double Fine']"
+Telling Lies,2019-08-23,2.8,186.0,186.0,646.0,15.0,244.0,163.0,"['Indie', 'Point-and-Click', 'Simulator']","['Furious Bee Limited', 'Annapurna Interactive']"
+Saints Row: Gat Out of Hell,2015-01-20,2.4,159.0,159.0,2.0,13.0,412.0,75.0,"['Adventure', 'Shooter']","['Volition', 'Deep Silver']"
+Ratchet & Clank: Size Matters,2007-02-13,2.8,172.0,172.0,1.5,10.0,287.0,115.0,"['Adventure', 'Platform', 'Shooter']","['Sony Computer Entertainment, Inc. (SCEI)', 'High Impact Games']"
+Mario Hoops 3-on-3,2006-07-27,3.5,132.0,132.0,1.8,2.0,134.0,69.0,['Sport'],"['Nintendo', 'Square Enix']"
+Mario Power Tennis,2004-10-28,3.5,150.0,150.0,1.9,6.0,146.0,91.0,['Sport'],"['Nintendo', 'Camelot Software Planning']"
+Keep Talking and Nobody Explodes,2015-07-16,3.7,144.0,144.0,2.0,26.0,198.0,106.0,"['Card & Board Game', 'Indie', 'Puzzle', 'Simulator']",['Steel Crate Games']
+The Swapper,2013-05-30,3.4,130.0,130.0,1.1,10.0,341.0,93.0,"['Adventure', 'Indie', 'Platform', 'Puzzle', 'Strategy']","['Facepalm Games', 'Curve Digital']"
+Ms. Pac-Man,1982-02-03,3.6,198.0,198.0,1.6,1.0,45.0,38.0,['Arcade'],"['Atari, Inc.', 'General Computer Corporation (GCC)']"
+Gun,2005-11-05,3.3,131.0,131.0,1.4,5.0,276.0,152.0,['Adventure'],"['Activision', 'Rebellion Developments']"
+Naruto: Ultimate Ninja 3,2005-12-22,3.5,120.0,120.0,1.9,2.0,67.0,32.0,['Fighting'],"['Bandai', 'CyberConnect2']"
+The Ultimate Doom,1995-04-30,4.1,148.0,148.0,1.2,36.0,205.0,71.0,['Shooter'],"['id Software', 'Activision']"
+Superman: The New Superman Adventures,1999-05-31,0.7,69.0,69.0,859.0,2.0,76.0,55.0,"['Adventure', 'Shooter']","['Titus Software', 'WB Games']"
+Ruiner,2017-09-26,3.2,177.0,177.0,1.1,38.0,701.0,177.0,"['Adventure', 'Indie', 'Shooter', 'Strategy']","['Reikon Games', 'Devolver Digital']"
+The Lord of the Rings: The Two Towers,2002-10-21,3.3,100.0,100.0,1.6,8.0,172.0,72.0,"['Adventure', 'Brawler']","['Electronic Arts', 'Hypnos Entertainment']"
+Dragon Quest II: Luminaries of the Legendary Line,2005-12-31,3.0,215.0,215.0,891.0,40.0,399.0,167.0,['RPG'],"['Chunsoft', 'Enix America Corporation']"
+Chivalry: Medieval Warfare,2012-10-16,2.9,73.0,73.0,1.6,2.0,143.0,23.0,"['Brawler', 'Fighting', 'Indie']","['Torn Banner Studios', 'Activision']"
+FIFA 14,2013-09-24,3.2,92.0,92.0,2.2,8.0,52.0,13.0,['Sport'],"['EA Sports', 'EA Canada']"
+Bit.Trip Runner,2010-05-14,3.1,58.0,58.0,1.2,7.0,195.0,57.0,"['Arcade', 'Indie', 'Music', 'Platform']","['Gaijin Games', 'Aksys Games']"
+Pokémon Pinball: Ruby & Sapphire,2003-08-01,3.5,135.0,135.0,1.6,23.0,136.0,69.0,"['Adventure', 'Arcade', 'Pinball']","['Nintendo', 'Jupiter Corporation']"
+FIFA 13,2012-09-25,3.2,62.0,62.0,1.6,2.0,34.0,12.0,"['Simulator', 'Sport']","['Electronic Arts', 'EA Canada']"
+La-Mulana,2012-07-13,3.9,170.0,170.0,492.0,30.0,474.0,219.0,"['Adventure', 'Indie', 'Platform', 'Puzzle']","['GR3 Project', 'Rising Star Games']"
+The Warriors,2005-10-17,3.9,182.0,182.0,927.0,10.0,274.0,191.0,"['Brawler', 'Fighting']","['Rockstar Toronto', 'Rockstar Games']"
+Mortal Kombat XL,2016-03-01,3.6,95.0,95.0,1.1,10.0,128.0,32.0,['Fighting'],"['NetherRealm Studios', 'WB Games']"
+Anonymous;Code,2022-07-28,4.2,40.0,40.0,8.0,1.0,57.0,156.0,"['Adventure', 'Visual Novel']","['5pb.', 'Spike ChunSoft']"
+Higurashi no Naku Koro ni: Chapter 2 - Watanagashi,2002-12-29,3.7,118.0,118.0,1.2,49.0,242.0,92.0,"['Adventure', 'Visual Novel']","['MangaGamer', '07th Expansion']"
+Aokana: Four Rhythms Across the Blue,2016-01-08,3.9,32.0,32.0,164.0,20.0,127.0,101.0,"['Adventure', 'Visual Novel']","['sprite', 'Piacci']"
+Shantae and the Seven Sirens,2020-03-27,3.5,118.0,118.0,512.0,31.0,384.0,331.0,"['Adventure', 'Platform']","['WayForward Technologies', 'WayForward']"
+Mega Man ZX Advent,2007-07-12,3.6,173.0,173.0,976.0,19.0,462.0,110.0,"['Adventure', 'Platform', 'Shooter']","['Inti Creates', 'Capcom']"
+Peggle Deluxe,2007-03-06,3.7,69.0,69.0,939.0,18.0,70.0,13.0,[],['PopCap Games']
+Slither.io,2016-03-25,2.2,46.0,46.0,2.1,1.0,21.0,4.0,"['Arcade', 'Simulator']","['Lowtech Studios', 'Steve Howse']"
+Twisted Metal,1995-11-05,3.1,117.0,117.0,986.0,1.0,148.0,81.0,"['Fighting', 'Racing', 'Shooter']","['Eat Sleep Play Inc.', 'Sony Computer Entertainment']"
+Dragon Age: Origins - Awakening,2010-03-16,3.9,50.0,50.0,1.0,14.0,200.0,54.0,"['RPG', 'Strategy']","['BioWare Edmonton', 'Electronic Arts']"
+Parasite Eve II,1999-12-16,3.4,229.0,229.0,763.0,16.0,657.0,344.0,['RPG'],"['Square', 'Square Soft']"
+The Jackbox Party Pack,2014-11-18,2.9,102.0,102.0,1.4,6.0,93.0,27.0,"['Indie', 'Puzzle', 'Quiz/Trivia', 'Strategy']","['Jackbox Games, Inc.']"
+Tom Clancy's Splinter Cell: Pandora Tomorrow,2004-03-23,3.4,137.0,137.0,1.0,7.0,317.0,123.0,"['Shooter', 'Tactical']","['Ubisoft Shanghai', 'Ubisoft Entertainment']"
+Payday: The Heist,2011-10-18,2.9,55.0,55.0,1.3,4.0,135.0,23.0,['Shooter'],"['Overkill Software', 'Daybreak Game Company']"
+Pokémon Rumble Blast,2011-08-11,2.9,96.0,96.0,1.2,8.0,95.0,39.0,"['Adventure', 'Brawler', 'Fighting', 'RPG']","['Nintendo', 'Ambrella']"
+Nicktoons Unite!,2005-10-26,2.5,52.0,52.0,785.0,2.0,50.0,28.0,['Adventure'],"['THQ', 'Blue Tongue Entertainment']"
+Ruined King: A League of Legends Story,2021-11-16,3.6,68.0,68.0,413.0,63.0,243.0,246.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']","['Riot Forge', 'Airship Syndicate']"
+Picross S3,2019-04-25,3.9,26.0,26.0,187.0,16.0,34.0,26.0,"['Puzzle', 'Strategy']","['Jupiter Corp.', 'Jupiter Corporation']"
+Lisa the Joyful,2015-08-24,3.7,126.0,126.0,1.0,7.0,358.0,233.0,"['Adventure', 'Indie', 'RPG', 'Turn Based Strategy']",['Dingaling']
+The King of Fighters '98,1998-07-23,3.9,231.0,231.0,1.5,15.0,137.0,88.0,['Fighting'],"['SNK', 'HAMSTER Corporation']"
+Kingdoms of Amalur: Reckoning,2012-02-07,3.2,99.0,99.0,1.2,22.0,365.0,106.0,"['Brawler', 'RPG']","['38 Studios', 'Electronic Arts']"
+Grand Theft Auto,1997-10-21,2.5,181.0,181.0,1.6,4.0,225.0,109.0,"['Adventure', 'Racing', 'Shooter']","['DMA Design', 'Take-Two Interactive']"
+Europa Universalis IV,2013-08-13,3.8,135.0,135.0,1.3,76.0,426.0,72.0,"['Real Time Strategy', 'Simulator', 'Strategy']","['Paradox Interactive', 'Paradox Development Studio']"
+Sonic the Hedgehog 2,1992-10-16,2.8,157.0,157.0,1.4,6.0,173.0,45.0,"['Adventure', 'Arcade', 'Platform']","['Aspect Co. Ltd', 'Sega']"
+Guitar Hero 5,2009-09-01,3.2,63.0,63.0,1.1,0.0,65.0,22.0,['Music'],"['Activision', 'Neversoft Entertainment']"
+Silent Hill: Homecoming,2008-09-30,2.1,206.0,206.0,1.3,18.0,382.0,227.0,"['Adventure', 'Fighting']","['Double Helix Games', 'Konami']"
+Mighty No. 9,2016-06-21,1.6,137.0,137.0,907.0,5.0,263.0,71.0,"['Adventure', 'Arcade', 'Platform', 'Shooter']","['Inti Creates', 'Deep Silver']"
+FIFA 13,2012-09-25,3.2,62.0,62.0,1.6,2.0,34.0,12.0,"['Simulator', 'Sport']","['Electronic Arts', 'EA Canada']"
+Dragon Ball GT: Final Bout,1997-08-21,1.8,83.0,83.0,1.2,2.0,39.0,23.0,['Fighting'],"['Tose', 'Bandai']"
+Killzone 3,2011-02-22,3.1,155.0,155.0,1.3,6.0,249.0,91.0,['Shooter'],"['Guerrilla Games', 'Sony Computer Entertainment, Inc. (SCEI)']"
+WWE SmackDown vs. Raw 2008,2007-11-09,3.1,62.0,62.0,1.4,1.0,34.0,16.0,"['Fighting', 'Sport']","['THQ', ""YUKE'S Co., Ltd.""]"
+Children of Morta,2019-09-03,3.4,153.0,153.0,727.0,54.0,385.0,136.0,"['Adventure', 'Indie', 'RPG']","['Dead Mage', '11 bit studios']"
+The Godfather,2006-03-21,3.6,121.0,121.0,1.1,2.0,196.0,136.0,"['Adventure', 'Racing', 'Shooter']","['Electronic Arts', 'EA Redwood Shores']"
+Billy Hatcher and the Giant Egg,2003-09-23,3.1,133.0,133.0,797.0,12.0,322.0,212.0,['Platform'],"['Sonic Team', 'Sega']"
+Tekken Tag Tournament 2,2011-09-14,3.8,211.0,211.0,1.7,7.0,140.0,95.0,['Fighting'],['Bandai Namco Entertainment']
+Bloons TD 5,2011-12-14,3.6,62.0,62.0,1.6,15.0,46.0,13.0,"['Simulator', 'Strategy', 'Tactical']",['Ninja Kiwi']
+JoJo's Bizarre Adventure,1999-10-31,3.7,65.0,65.0,634.0,10.0,93.0,82.0,['Fighting'],"['Capcom', 'Virgin Interactive Entertainment, Inc.']"
+Another World,1991-12-31,3.3,232.0,232.0,939.0,8.0,332.0,201.0,"['Adventure', 'Platform', 'Puzzle']","['Virgin Interactive Entertainment (Europe) Ltd.', 'Delphine Software']"
+Back to the Future: The Game,2010-12-22,3.2,94.0,94.0,763.0,5.0,223.0,67.0,"['Adventure', 'Point-and-Click']",['Telltale Games']
+Team Sonic Racing,2019-05-21,2.9,264.0,264.0,1.5,49.0,413.0,107.0,"['Arcade', 'Racing']","['Sumo Digital', 'Sega']"
+Dragon's Dogma,2012-05-22,3.7,210.0,210.0,1.1,45.0,487.0,206.0,"['Brawler', 'RPG']",['Capcom']
+Baldur's Gate 3,2020-10-06,4.1,165.0,165.0,269.0,79.0,388.0,602.0,"['Adventure', 'RPG', 'Strategy', 'Tactical', 'Turn Based Strategy']",['Larian Studios']
+The LEGO Movie Videogame,2014-02-04,2.8,184.0,184.0,1.7,11.0,239.0,73.0,"['Adventure', 'Puzzle']","['WB Games', 'TT Fusion']"

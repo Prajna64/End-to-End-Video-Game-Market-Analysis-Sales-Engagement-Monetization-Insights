@@ -1,0 +1,11 @@
+genres,avg_rating,total_games
+"['Indie', 'Platform']",4.5,1
+"['Adventure', 'Strategy', 'Tactical']",4.5,1
+"['Adventure', 'Brawler', 'Platform', 'RPG', 'Shooter']",4.5,2
+"['Adventure', 'Indie', 'Puzzle', 'Simulator', 'Strategy']",4.5,1
+"['Adventure', 'RPG', 'Simulator', 'Strategy', 'Tactical', 'Visual Novel']",4.4,1
+"['Indie', 'RPG', 'Simulator', 'Strategy', 'Turn Based Strategy']",4.4,1
+"['Adventure', 'Simulator', 'Strategy', 'Tactical']",4.4,1
+"['Adventure', 'Indie', 'Music', 'Puzzle', 'RPG']",4.3,1
+"['Adventure', 'Puzzle', 'Shooter']",4.3,2
+"['Adventure', 'Brawler', 'Music', 'Platform']",4.3,3
